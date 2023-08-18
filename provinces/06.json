@@ -1,0 +1,1002 @@
+[
+  {
+    "zip": "67000",
+    "place": "Bưu cục Trung tâm tỉnh Bình Phước"
+  },
+  {
+    "zip": "67001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Bình Phước"
+  },
+  {
+    "zip": "67002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Bình Phước"
+  },
+  {
+    "zip": "67003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Bình Phước"
+  },
+  {
+    "zip": "67004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Bình Phước"
+  },
+  {
+    "zip": "67005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Bình Phước"
+  },
+  {
+    "zip": "67009",
+    "place": "Đảng ủy khối cơ quan tỉnh Bình Phước"
+  },
+  {
+    "zip": "67010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Bình Phước"
+  },
+  {
+    "zip": "67011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67016",
+    "place": "Báo Bình Phước"
+  },
+  {
+    "zip": "67021",
+    "place": "Hội đồng nhân dân tỉnh Bình Phước"
+  },
+  {
+    "zip": "67030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Bình Phước"
+  },
+  {
+    "zip": "67035",
+    "place": "Tòa án nhân dân tỉnh Bình Phước"
+  },
+  {
+    "zip": "67036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Bình Phước"
+  },
+  {
+    "zip": "67040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Bình Phước"
+  },
+  {
+    "zip": "67041",
+    "place": "Sở Công Thương tỉnh Bình Phước"
+  },
+  {
+    "zip": "67042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Bình Phước"
+  },
+  {
+    "zip": "67043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "67044",
+    "place": "Sở Ngoại vụ tỉnh Bình Phước"
+  },
+  {
+    "zip": "67045",
+    "place": "Sở Tài chính tỉnh Bình Phước"
+  },
+  {
+    "zip": "67046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Bình Phước"
+  },
+  {
+    "zip": "67047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Bình Phước"
+  },
+  {
+    "zip": "67049",
+    "place": "Công an tỉnh Bình Phước"
+  },
+  {
+    "zip": "67051",
+    "place": "Sở Nội vụ tỉnh Bình Phước"
+  },
+  {
+    "zip": "67052",
+    "place": "Sở Tư pháp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Bình Phước"
+  },
+  {
+    "zip": "67054",
+    "place": "Sở Giao thông vận tải tỉnh Bình Phước"
+  },
+  {
+    "zip": "67055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Bình Phước"
+  },
+  {
+    "zip": "67056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Bình Phước"
+  },
+  {
+    "zip": "67057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Bình Phước"
+  },
+  {
+    "zip": "67058",
+    "place": "Sở Xây dựng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67060",
+    "place": "Sở Y tế tỉnh Bình Phước"
+  },
+  {
+    "zip": "67061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Bình Phước"
+  },
+  {
+    "zip": "67062",
+    "place": "Ban Dân tộc tỉnh Bình Phước"
+  },
+  {
+    "zip": "67063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67064",
+    "place": "Thanh tra tỉnh Bình Phước"
+  },
+  {
+    "zip": "67065",
+    "place": "Trường chính trị tỉnh Bình Phước"
+  },
+  {
+    "zip": "67066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Bình Phước"
+  },
+  {
+    "zip": "67067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Bình Phước"
+  },
+  {
+    "zip": "67070",
+    "place": "Bảo hiểm xã hội tỉnh Bình Phước"
+  },
+  {
+    "zip": "67078",
+    "place": "Cục Thuế tỉnh Bình Phước"
+  },
+  {
+    "zip": "67079",
+    "place": "Cục Hải quan tỉnh Bình Phước"
+  },
+  {
+    "zip": "67080",
+    "place": "Cục Thống kê tỉnh Bình Phước"
+  },
+  {
+    "zip": "67081",
+    "place": "Kho bạc Nhà nước tỉnh Bình Phước"
+  },
+  {
+    "zip": "67085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Bình Phước"
+  },
+  {
+    "zip": "67086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Bình Phước"
+  },
+  {
+    "zip": "67087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Bình Phước"
+  },
+  {
+    "zip": "67088",
+    "place": "Liên đoàn Lao động tỉnh Bình Phước"
+  },
+  {
+    "zip": "67089",
+    "place": "Hội Nông dân tỉnh Bình Phước"
+  },
+  {
+    "zip": "67090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Bình Phước"
+  },
+  {
+    "zip": "67091",
+    "place": "Tỉnh đoàn tỉnh Bình Phước"
+  },
+  {
+    "zip": "67092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Bình Phước"
+  },
+  {
+    "zip": "67093",
+    "place": "Hội Cựu chiến binh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67100",
+    "place": "Bưu cục Trung tâm thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67101",
+    "place": "Thành ủy thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67102",
+    "place": "Hội đồng nhân dân thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67103",
+    "place": "Ủy ban nhân dân thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67106",
+    "place": "Phường Tân Phú thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67107",
+    "place": "Phường Tiến Thành thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67108",
+    "place": "Xã Tân Thành thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67109",
+    "place": "Xã Tiến Hưng thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67110",
+    "place": "Phường Tân Bình thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67111",
+    "place": "Phường Tân Xuân thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67112",
+    "place": "Phường Tân Thiện thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67113",
+    "place": "Phường Tân Đồng thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67150",
+    "place": "Bưu cục phát Đồng Xoài thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67151",
+    "place": "Bưu cục KHL Bình Phước thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67152",
+    "place": "Bưu cục Tân Thành thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67199",
+    "place": "Bưu cục Hệ 1 Bình Phước thành phố Đồng Xoài tỉnh Bình Phước"
+  },
+  {
+    "zip": "67200",
+    "place": "Bưu cục Trung tâm huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67201",
+    "place": "Huyện ủy huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67202",
+    "place": "Hội đồng nhân dân huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67203",
+    "place": "Ủy ban nhân dân huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67206",
+    "place": "Thị trấn Tân Phú huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67207",
+    "place": "Xã Tân Tiến huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67208",
+    "place": "Xã Tân Lập huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67209",
+    "place": "Xã Tân Hòa huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67210",
+    "place": "Xã Tân Lợi huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67211",
+    "place": "Xã Tân Hưng huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67212",
+    "place": "Xã Tân Phước huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67213",
+    "place": "Xã Đồng Tâm huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67214",
+    "place": "Xã Đồng Tiến huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67215",
+    "place": "Xã Thuận Phú huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67216",
+    "place": "Xã Thuận Lợi huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67250",
+    "place": "Bưu cục phát Đồng Phú huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67251",
+    "place": "Bưu cục Tân Hòa huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67252",
+    "place": "Bưu cục Đồng Tâm huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67253",
+    "place": "Bưu cục Thuận Lợi huyện Đồng Phú tỉnh Bình Phước"
+  },
+  {
+    "zip": "67300",
+    "place": "Bưu cục Trung tâm huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67301",
+    "place": "Huyện ủy huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67302",
+    "place": "Hội đồng nhân dân huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67303",
+    "place": "Ủy ban nhân dân huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67306",
+    "place": "Thị trấn Đức Phong huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67307",
+    "place": "Xã Đoàn Kết huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67308",
+    "place": "Xã Thọ Sơn huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67309",
+    "place": "Xã Phú Sơn huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67310",
+    "place": "Xã Đak Nhau huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67311",
+    "place": "Xã Đường 10 huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67312",
+    "place": "Xã Bom Bo huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67313",
+    "place": "Xã Bình Minh huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67314",
+    "place": "Xã Minh Hưng huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67315",
+    "place": "Xã Đức Liễu huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67316",
+    "place": "Xã Nghĩa Bình huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67317",
+    "place": "Xã Nghĩa Trung huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67318",
+    "place": "Xã Đăng Hà huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67319",
+    "place": "Xã Thống Nhất huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67320",
+    "place": "Xã Phước Sơn huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67321",
+    "place": "Xã Đồng Nai huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67350",
+    "place": "Bưu cục phát Bù Đăng huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67351",
+    "place": "Bưu cục Minh Hưng huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67352",
+    "place": "Bưu cục Đức Liễu huyện Bù Đăng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67400",
+    "place": "Bưu cục Trung tâm thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67401",
+    "place": "Thị ủy thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67402",
+    "place": "Hội đồng nhân dân thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67403",
+    "place": "Ủy ban nhân dân thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67404",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67406",
+    "place": "Phường Long Phước thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67407",
+    "place": "Phường Phước Bình thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67408",
+    "place": "Phường Sơn Giang thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67409",
+    "place": "Xã Long Giang thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67410",
+    "place": "Phường Long Thủy thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67411",
+    "place": "Phường Thác Mơ thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67412",
+    "place": "Xã Phước Tín thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67450",
+    "place": "Bưu cục phát Phước Long thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67451",
+    "place": "Bưu cục Phước Bình thị xã Phước Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67500",
+    "place": "Bưu cục Trung tâm huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67501",
+    "place": "Huyện ủy huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67502",
+    "place": "Hội đồng nhân dân huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67503",
+    "place": "Ủy ban nhân dân huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67506",
+    "place": "Xã Phú Nghĩa huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67507",
+    "place": "Xã Phước Minh huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67508",
+    "place": "Xã Bình Thắng huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67509",
+    "place": "Xã Đa Kia huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67510",
+    "place": "Xã Đức Hạnh huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67511",
+    "place": "Xã Phú Văn huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67512",
+    "place": "Xã Đak Ơ huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67513",
+    "place": "Xã Bù Gia Mập huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67550",
+    "place": "Bưu cục phát Bù Gia Mập huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67551",
+    "place": "Bưu cục Đa Kia huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67552",
+    "place": "Bưu cục Đăk Ơ huyện Bù Gia Mập tỉnh Bình Phước"
+  },
+  {
+    "zip": "67600",
+    "place": "Bưu cục Trung tâm huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67601",
+    "place": "Huyện ủy huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67602",
+    "place": "Hội đồng nhân dân huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67603",
+    "place": "Ủy ban nhân dân huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67606",
+    "place": "Thị trấn Lộc Ninh huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67607",
+    "place": "Xã Lộc Thuận huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67608",
+    "place": "Xã Lộc Hiệp huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67609",
+    "place": "Xã Lộc An huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67610",
+    "place": "Xã Lộc Hòa huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67611",
+    "place": "Xã Lộc Thạnh huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67612",
+    "place": "Xã Lộc Tấn huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67613",
+    "place": "Xã Lộc Thiện huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67614",
+    "place": "Xã Lộc Thành huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67615",
+    "place": "Xã Lộc Thịnh huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67616",
+    "place": "Xã Lộc Hưng huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67617",
+    "place": "Xã Lộc Thái huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67618",
+    "place": "Xã Lộc Khánh huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67619",
+    "place": "Xã Lộc Điền huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67620",
+    "place": "Xã Lộc Quang huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67621",
+    "place": "Xã Lộc Phú huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67630",
+    "place": "Bưu cục phát Lộc Ninh huyện Lộc Ninh tỉnh Bình Phước"
+  },
+  {
+    "zip": "67650",
+    "place": "Bưu cục Trung tâm huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67651",
+    "place": "Huyện ủy huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67652",
+    "place": "Hội đồng nhân dân huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67653",
+    "place": "Ủy ban nhân dân huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67654",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67656",
+    "place": "Thị trấn Thanh Bình huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67657",
+    "place": "Xã Phước Thiện huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67658",
+    "place": "Xã Hưng Phước huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67659",
+    "place": "Xã Thiện Hưng huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67660",
+    "place": "Xã Thanh Hòa huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67661",
+    "place": "Xã Tân Thành huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67662",
+    "place": "Xã Tân Tiến huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67675",
+    "place": "Bưu cục phát Bù Đốp huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67676",
+    "place": "Bưu cục Tân Tiến huyện Bù Đốp tỉnh Bình Phước"
+  },
+  {
+    "zip": "67700",
+    "place": "Bưu cục Trung tâm huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67701",
+    "place": "Huyện ủy huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67702",
+    "place": "Hội đồng nhân dân huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67703",
+    "place": "Ủy ban nhân dân huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67706",
+    "place": "Xã Phú Riềng huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67707",
+    "place": "Xã Phú Trung huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67708",
+    "place": "Xã Phước Tân huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67709",
+    "place": "Xã Bù Nho huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67710",
+    "place": "Xã Long Tân huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67711",
+    "place": "Xã Long Hà huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67712",
+    "place": "Xã Long Bình huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67713",
+    "place": "Xã Long Hưng huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67714",
+    "place": "Xã Bình Tân huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67715",
+    "place": "Xã Bình Sơn huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67750",
+    "place": "Bưu cục phát Phú Riềng huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67751",
+    "place": "Bưu cục Phú Riềng 2 huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67752",
+    "place": "Bưu cục Bù Nho huyện Phú Riềng tỉnh Bình Phước"
+  },
+  {
+    "zip": "67800",
+    "place": "Bưu cục Trung tâm huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67801",
+    "place": "Huyện ủy huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67802",
+    "place": "Hội đồng nhân dân huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67803",
+    "place": "Ủy ban nhân dân huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67806",
+    "place": "Thị trấn Tân Khai huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67807",
+    "place": "Xã Tân Quan huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67808",
+    "place": "Xã Phước An huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67809",
+    "place": "Xã Tân Hưng huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67810",
+    "place": "Xã Thanh An huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67811",
+    "place": "Xã An Khương huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67812",
+    "place": "Xã Tân Lợi huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67813",
+    "place": "Xã Thanh Bình huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67814",
+    "place": "Xã An Phú huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67815",
+    "place": "Xã Minh Tâm huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67816",
+    "place": "Xã Minh Đức huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67817",
+    "place": "Xã Đồng Nơ huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67818",
+    "place": "Xã Tân Hiệp huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67825",
+    "place": "Bưu cục phát Hớn Quản huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67826",
+    "place": "Bưu cục Tân Lợi huyện Hớn Quản tỉnh Bình Phước"
+  },
+  {
+    "zip": "67850",
+    "place": "Bưu cục Trung tâm thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67851",
+    "place": "Thị ủy thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67852",
+    "place": "Hội đồng nhân dân thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67853",
+    "place": "Ủy ban nhân dân thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67854",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67856",
+    "place": "Phường Hưng Chiến thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67857",
+    "place": "Phường Phú Đức thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67858",
+    "place": "Phường Phú Thịnh thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67859",
+    "place": "Phường An Lộc thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67860",
+    "place": "Xã Thanh Phú thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67861",
+    "place": "Xã Thanh Lương thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67875",
+    "place": "Bưu cục phát Bình Long thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67876",
+    "place": "Bưu cục Thanh Lương thị xã Bình Long tỉnh Bình Phước"
+  },
+  {
+    "zip": "67900",
+    "place": "Bưu cục Trung tâm huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67901",
+    "place": "Huyện ủy huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67902",
+    "place": "Hội đồng nhân dân huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67903",
+    "place": "Ủy ban nhân dân huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67906",
+    "place": "Thị trấn Chơn Thành huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67907",
+    "place": "Xã Minh Thành huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67908",
+    "place": "Xã Nha Bích huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67909",
+    "place": "Xã Minh Thắng huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67910",
+    "place": "Xã Minh Lập huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67911",
+    "place": "Xã Quang Minh huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67912",
+    "place": "Xã Minh Hưng huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67913",
+    "place": "Xã Minh Long huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67914",
+    "place": "Xã Thành Tâm huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67950",
+    "place": "Bưu cục phát Chơn Thành huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67951",
+    "place": "Bưu cục Chơn Thành 2 huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67952",
+    "place": "Bưu cục Nha Bích huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67953",
+    "place": "Bưu cục Minh Lập huyện Chơn Thành tỉnh Bình Phước"
+  },
+  {
+    "zip": "67954",
+    "place": "Bưu cục Minh Hưng 2 huyện Chơn Thành tỉnh Bình Phước"
+  }
+]

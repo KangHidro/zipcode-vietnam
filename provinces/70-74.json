@@ -1,0 +1,3202 @@
+[
+  {
+    "zip": "70000",
+    "place": "Bưu cục Trung tâm thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70001",
+    "place": "Vụ VII (Ủy ban Kiểm tra Trung ương)"
+  },
+  {
+    "zip": "70002",
+    "place": "Vụ Địa phương III (Ban Tổ chức Trung ương)"
+  },
+  {
+    "zip": "70003",
+    "place": "Cơ quan thường trú Ban Tuyên giáo Trung ương tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70004",
+    "place": "Ban Dân vận Trung ương tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70005",
+    "place": "Cục Công tác phía Nam (Ban Nội chính Trung ương)"
+  },
+  {
+    "zip": "70007",
+    "place": "Ban Kinh tế Trung ương tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70008",
+    "place": "Đảng ủy Ngoài nước tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70010",
+    "place": "Cục Quản trị T78, Vụ địa phương II (Văn phòng Trung ương Đảng)"
+  },
+  {
+    "zip": "70011",
+    "place": "Đảng ủy Khối doanh nghiệp Trung ương phía Nam"
+  },
+  {
+    "zip": "70030",
+    "place": "Vụ công tác phía Nam (Văn phòng Quốc hội)"
+  },
+  {
+    "zip": "70035",
+    "place": "Vụ công tác phía Nam (Tòa án nhân dân tối cao)"
+  },
+  {
+    "zip": "70036",
+    "place": "Văn phòng Viện kiểm sát nhân dân tối cao tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70037",
+    "place": "Kiểm toán nhà nước khu vực IV tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70040",
+    "place": "Cục Hành chính II (Văn phòng Chính phủ)"
+  },
+  {
+    "zip": "70041",
+    "place": "Cục công tác phía Nam (Bộ Công Thương)"
+  },
+  {
+    "zip": "70042",
+    "place": "Văn phòng II (Bộ Kế hoạch và Đầu tư)"
+  },
+  {
+    "zip": "70043",
+    "place": "Bộ Lao động – Thương binh và Xã hội tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70045",
+    "place": "Cơ quan đại diện Bộ Tài chính tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70046",
+    "place": "Đại diện Văn phòng Bộ Thông tin và Truyền thông tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70047",
+    "place": "Cơ quan đại diện của Bộ Văn hóa, Thể thao và Du lịch tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70049",
+    "place": "P9, Văn phòng Bộ Công an"
+  },
+  {
+    "zip": "70052",
+    "place": "Cục công tác phía Nam (Bộ Tư pháp)"
+  },
+  {
+    "zip": "70053",
+    "place": "Bộ Giáo dục và Đào tạo tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70054",
+    "place": "Bộ Giao thông vận tải tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70055",
+    "place": "Vụ công tác phía Nam (Bộ Khoa học và Công nghệ)"
+  },
+  {
+    "zip": "70056",
+    "place": "Văn phòng đại diện Bộ Nông nghiệp và Phát triển nông thôn tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70057",
+    "place": "Văn phòng Bộ Tài nguyên và Môi trường tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70058",
+    "place": "Cơ quan đại diện Bộ Xây dựng tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70060",
+    "place": "Cơ quan đại diện Bộ Y tế tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70061",
+    "place": "Bộ Quốc phòng tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70062",
+    "place": "Ủy ban Dân tộc tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70063",
+    "place": "Ngân hàng Nhà nước tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70064",
+    "place": "Văn phòng đại diện Thanh tra Chính phủ"
+  },
+  {
+    "zip": "70065",
+    "place": "Văn phòng thường trực phía Nam (Học viện Chính trị Quốc gia Hồ Chí Minh)"
+  },
+  {
+    "zip": "70066",
+    "place": "Cơ quan Thông tấn xã Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70067",
+    "place": "Cơ quan thường trú Đài Truyền hình Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70068",
+    "place": "Cơ quan thường trú Đài Tiếng nói Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70070",
+    "place": "Bảo hiểm xã hội Việt Nam phía Nam"
+  },
+  {
+    "zip": "70071",
+    "place": "Viện Hàn lâm Khoa học Xã hội Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70072",
+    "place": "Viện Hàn lâm Khoa học và Công nghệ Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70073",
+    "place": "Cơ quan Thường trực Cục cơ yếu Đảng chính quyền tại TP.HCM (Ban Cơ yếu Chính phủ)"
+  },
+  {
+    "zip": "70074",
+    "place": "Vụ Công tác Tôn giáo phía Nam (Ban Tôn giáo Chính phủ)"
+  },
+  {
+    "zip": "70087",
+    "place": "Cơ quan đại diện của Liên hiệp các Hội Văn học nghệ thuật Việt Nam"
+  },
+  {
+    "zip": "70088",
+    "place": "Tổng Liên đoàn Lao động Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70089",
+    "place": "Trung ương Hội Nông dân Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70090",
+    "place": "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam tại thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70092",
+    "place": "Ban công tác phía Nam (Hội Liên hiệp phụ nữ Việt Nam)"
+  },
+  {
+    "zip": "70101",
+    "place": "Ủy ban Kiểm tra thành ủy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70102",
+    "place": "Ban Tổ chức thành ủy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70103",
+    "place": "Ban Tuyên giáo thành ủy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70104",
+    "place": "Ban Dân vận thành ủy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70105",
+    "place": "Ban Nội chính thành ủy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70109",
+    "place": "Đảng ủy khối cơ quan thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70110",
+    "place": "Thành ủy và Văn phòng thành ủy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70111",
+    "place": "Đảng ủy khối doanh nghiệp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70116",
+    "place": "Báo Sài Gòn Giải Phóng"
+  },
+  {
+    "zip": "70121",
+    "place": "Hội đồng nhân dân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70130",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70135",
+    "place": "Tòa án nhân dân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70136",
+    "place": "Viện Kiểm sát nhân dân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70137",
+    "place": "Kiểm toán nhà nước tại khu vực IV"
+  },
+  {
+    "zip": "70140",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70141",
+    "place": "Sở Công Thương thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70142",
+    "place": "Sở Kế hoạch và Đầu tư thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70143",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "70144",
+    "place": "Sở Ngoại vụ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70145",
+    "place": "Sở Tài chính thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70146",
+    "place": "Sở Thông tin và Truyền thông thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70147",
+    "place": "Sở Văn hoá và Thể thao thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70148",
+    "place": "Sở Du lịch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70149",
+    "place": "Công an thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70150",
+    "place": "Cảnh sát phòng cháy và chữa cháy thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70151",
+    "place": "Sở Nội vụ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70152",
+    "place": "Sở Tư pháp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70153",
+    "place": "Sở Giáo dục và Đào tạo thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70154",
+    "place": "Sở Giao thông vận tải thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70155",
+    "place": "Sở Khoa học và Công nghệ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70156",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70157",
+    "place": "Sở Tài nguyên và Môi trường thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70158",
+    "place": "Sở Xây dựng thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70159",
+    "place": "Sở Quy hoạch"
+  },
+  {
+    "zip": "70160",
+    "place": "Sở Y tế thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70161",
+    "place": "Bộ Tư lệnh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70162",
+    "place": "Ban Dân tộc thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70163",
+    "place": "Ngân hàng nhà nước chi nhánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70164",
+    "place": "Thanh tra thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70165",
+    "place": "Học viện Cán bộ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70166",
+    "place": "Thông tấn xã Việt Nam (chi nhánh tại thành phố Hồ Chí Minh)"
+  },
+  {
+    "zip": "70167",
+    "place": "Đài truyền hình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70168",
+    "place": "Đài Tiếng nói nhân dân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70170",
+    "place": "Bảo hiểm xã hội thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70178",
+    "place": "Cục Thuế thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70179",
+    "place": "Cục Hải quan thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70180",
+    "place": "Cục Thống kê thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70181",
+    "place": "Kho bạc Nhà nước thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70185",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70186",
+    "place": "Liên hiệp các tổ chức hữu nghị thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70187",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70188",
+    "place": "Liên đoàn Lao động thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70189",
+    "place": "Hội Nông dân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70190",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70191",
+    "place": "Thành Đoàn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70192",
+    "place": "Hội Liên hiệp Phụ nữ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70193",
+    "place": "Hội Cựu chiến binh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70199",
+    "place": "Điểm phục vụ Bưu điện T78"
+  },
+  {
+    "zip": "70200",
+    "place": "Tổng lãnh sự quán Liên hiệp Vương Quốc Anh và Bắc Ai-Len"
+  },
+  {
+    "zip": "70201",
+    "place": "Tổng lãnh sự quán Cộng Hòa Ấn Độ"
+  },
+  {
+    "zip": "70202",
+    "place": "Tổng lãnh sự quán Ca-na-đa"
+  },
+  {
+    "zip": "70203",
+    "place": "Tổng lãnh sự quán Cam-pu-chia"
+  },
+  {
+    "zip": "70204",
+    "place": "Tổng lãnh sự quán Cô-oét"
+  },
+  {
+    "zip": "70205",
+    "place": "Tổng lãnh sự quán Cộng hòa Cu-ba"
+  },
+  {
+    "zip": "70206",
+    "place": "Tổng lãnh sự quán Cộng hòa Liên bang Đức"
+  },
+  {
+    "zip": "70207",
+    "place": "Tổng lãnh sự quán Vương quốc Hà Lan"
+  },
+  {
+    "zip": "70208",
+    "place": "Tổng lãnh sự quán Hàn Quốc"
+  },
+  {
+    "zip": "70209",
+    "place": "Tổng lãnh sự quán Hoa Kỳ"
+  },
+  {
+    "zip": "70210",
+    "place": "Tổng lãnh sự quán Hung-ga-ri"
+  },
+  {
+    "zip": "70211",
+    "place": "Tổng lãnh sự quán Cộng hòa I-ta-li-a"
+  },
+  {
+    "zip": "70212",
+    "place": "Tổng lãnh sự quán Cộng hòa In-đô-nê-xi-a"
+  },
+  {
+    "zip": "70213",
+    "place": "Tổng lãnh sự quán Cộng hòa dân chủ nhân dân Lào"
+  },
+  {
+    "zip": "70214",
+    "place": "Tổng lãnh sự quán Ma-lai-xi-a"
+  },
+  {
+    "zip": "70215",
+    "place": "Tổng lãnh sự quán Liên bang Nga thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "70216",
+    "place": "Tổng lãnh sự quán Nhật Bản"
+  },
+  {
+    "zip": "70217",
+    "place": "Tổng lãnh sự quán Niu Di-lân"
+  },
+  {
+    "zip": "70218",
+    "place": "Tổng lãnh sự quán Ô-xtơ-rây-li-a"
+  },
+  {
+    "zip": "70219",
+    "place": "Tổng lãnh sự quán Cộng hòa Pa-na-ma"
+  },
+  {
+    "zip": "70220",
+    "place": "Tổng lãnh sự quán Cộng hòa Pháp"
+  },
+  {
+    "zip": "70221",
+    "place": "Tổng lãnh sự quán Vương quốc Thái Lan"
+  },
+  {
+    "zip": "70222",
+    "place": "Tổng lãnh sự quán Thụy Sỹ"
+  },
+  {
+    "zip": "70223",
+    "place": "Tổng lãnh sự quán Cộng hòa Nhân dân Trung Hoa"
+  },
+  {
+    "zip": "70224",
+    "place": "Tổng lãnh sự quán Cộng hòa Xinh-ga-po"
+  },
+  {
+    "zip": "70225",
+    "place": "Lãnh sự quán Cộng hòa Ai-xơ-len"
+  },
+  {
+    "zip": "70226",
+    "place": "Lãnh sự quán Cộng hòa Áo"
+  },
+  {
+    "zip": "70227",
+    "place": "Lãnh sự quán Cộng hòa Bồ Đào Nha"
+  },
+  {
+    "zip": "70228",
+    "place": "Lãnh sự quán Vương quốc Bỉ"
+  },
+  {
+    "zip": "70229",
+    "place": "Lãnh sự quán Cộng hòa Ca-dắc-xtan"
+  },
+  {
+    "zip": "70230",
+    "place": "Lãnh sự quán Cộng hòa Chi-lê"
+  },
+  {
+    "zip": "70231",
+    "place": "Lãnh sự quán Cộng hòa E-xtô-ni-a"
+  },
+  {
+    "zip": "70232",
+    "place": "Lãnh sự quán Cộng hòa Hy Lạp"
+  },
+  {
+    "zip": "70233",
+    "place": "Lãnh sự quán Cộng hòa Man-ta"
+  },
+  {
+    "zip": "70234",
+    "place": "Lãnh sự quán Cộng hòa Liên bang Mi-an-ma"
+  },
+  {
+    "zip": "70235",
+    "place": "Lãnh sự quán Mông Cổ"
+  },
+  {
+    "zip": "70236",
+    "place": "Lãnh sự quán Vương quốc Na-uy"
+  },
+  {
+    "zip": "70237",
+    "place": "Lãnh sự quán Cộng hòa Nam Phi"
+  },
+  {
+    "zip": "70238",
+    "place": "Lãnh sự quán Cộng hòa hồi giáo Pa-ki-xtan"
+  },
+  {
+    "zip": "70239",
+    "place": "Lãnh sự quán Cộng hòa Pa-lau"
+  },
+  {
+    "zip": "70240",
+    "place": "Lãnh sự quán Cộng hòa Phần Lan"
+  },
+  {
+    "zip": "70241",
+    "place": "Lãnh sự quán Cộng hòa Phi-líp-pin"
+  },
+  {
+    "zip": "70242",
+    "place": "Lãnh sự quán Cộng hòa Séc"
+  },
+  {
+    "zip": "70243",
+    "place": "Lãnh sự quán Cộng hòa Síp"
+  },
+  {
+    "zip": "70244",
+    "place": "Lãnh sự quán Thụy Điển"
+  },
+  {
+    "zip": "70245",
+    "place": "Lãnh sự quán U-crai-na"
+  },
+  {
+    "zip": "70246",
+    "place": "Lãnh sự quán Cộng hòa Đông U-ru-goay"
+  },
+  {
+    "zip": "70247",
+    "place": "Lãnh sự quán Cộng hòa Xlô-va-ki-a"
+  },
+  {
+    "zip": "70248",
+    "place": "Lãnh sự quán Cộng hòa XHCN dân chủ Xri Lan-ca"
+  },
+  {
+    "zip": "70249",
+    "place": "Lãnh sự quán Cộng hòa Su-đăng"
+  },
+  {
+    "zip": "70250",
+    "place": "Lãnh sự quán Cộng hòa En-xan-va-đo"
+  },
+  {
+    "zip": "70251",
+    "place": "Lãnh sự quán Vương quốc Tây Ban Nha"
+  },
+  {
+    "zip": "70252",
+    "place": "Lãnh sự quán Đại Công quốc Lúc-xăm-bua"
+  },
+  {
+    "zip": "71000",
+    "place": "Bưu cục Trung tâm quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71001",
+    "place": "Quận ủy quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71002",
+    "place": "Hội đồng nhân dân quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71003",
+    "place": "Ủy ban nhân dân quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71004",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71006",
+    "place": "Phường Bến Nghé quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71007",
+    "place": "Phường Đa Kao quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71008",
+    "place": "Phường Tân Định quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71009",
+    "place": "Phường Bến Thành quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71010",
+    "place": "Phường Nguyễn Thái Bình quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71011",
+    "place": "Phường Cầu Ông Lãnh quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71012",
+    "place": "Phường Phạm Ngũ Lão quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71013",
+    "place": "Phường Cô Giang quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71014",
+    "place": "Phường Nguyễn Cư Trinh quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71015",
+    "place": "Phường Cầu Kho quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71050",
+    "place": "Bưu cục phát Quận 1 quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71051",
+    "place": "Bưu cục phát TTDVKH Sài Gòn quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71052",
+    "place": "Bưu cục phát Trung Tâm 1 quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71053",
+    "place": "Bưu cục phát Quận 3 quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71054",
+    "place": "Bưu cục phát Quận 4 quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71055",
+    "place": "Bưu cục KHL Sài Gòn quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71056",
+    "place": "Bưu cục Giao Dịch Quốc Tế Sài Gòn quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71057",
+    "place": "Bưu cục Nguyễn Du quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71058",
+    "place": "Bưu cục Đa Kao quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71059",
+    "place": "Bưu cục Tân Định quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71060",
+    "place": "Bưu cục Bến Thành quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71061",
+    "place": "Bưu cục Trần Hưng Đạo quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71099",
+    "place": "Bưu cục Hệ 1 Thành Phố Hồ Chí Minh quận 1 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71100",
+    "place": "Bưu cục Trung tâm quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71101",
+    "place": "Quận ủy quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71102",
+    "place": "Hội đồng nhân dân quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71103",
+    "place": "Ủy ban nhân dân quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71104",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71106",
+    "place": "Phường An Phú quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71107",
+    "place": "Phường Thảo Điền quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71108",
+    "place": "Phường Bình An quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71109",
+    "place": "Phường An Khánh quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71110",
+    "place": "Phường Thủ Thiêm quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71111",
+    "place": "Phường An Lợi Đông quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71112",
+    "place": "Phường Bình Khánh quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71113",
+    "place": "Phường Bình Trưng Tây quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71114",
+    "place": "Phường Thạnh Mỹ Lợi quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71115",
+    "place": "Phường Cát Lái quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71116",
+    "place": "Phường Bình Trưng Đông quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71150",
+    "place": "Bưu cục phát Quận 2 quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71151",
+    "place": "Bưu cục An Điền quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71152",
+    "place": "Bưu cục An Khánh quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71153",
+    "place": "Bưu cục Bình Trưng quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71154",
+    "place": "Bưu cục Cát Lái quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71155",
+    "place": "Bưu cục Tân Lập quận 2 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71200",
+    "place": "Bưu cục Trung tâm quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71201",
+    "place": "Quận ủy quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71202",
+    "place": "Hội đồng nhân dân quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71203",
+    "place": "Ủy ban nhân dân quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71204",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71206",
+    "place": "Phường Hiệp Phú quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71207",
+    "place": "Phường Tăng Nhơn Phú A quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71208",
+    "place": "Phường Phước Long A quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71209",
+    "place": "Phường Phước Bình quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71210",
+    "place": "Phường Phước Long B quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71211",
+    "place": "Phường Tăng Nhơn Phú B quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71212",
+    "place": "Phường Phú Hữu quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71213",
+    "place": "Phường Long Trường quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71214",
+    "place": "Phường Long Phước quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71215",
+    "place": "Phường Trường Thạnh quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71216",
+    "place": "Phường Long Thạnh Mỹ quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71217",
+    "place": "Phường Long Bình quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71218",
+    "place": "Phường Tân Phú quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71250",
+    "place": "Bưu cục phát Quận 9 quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71251",
+    "place": "Bưu cục Chợ Nhỏ quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71252",
+    "place": "Bưu cục Phước Long quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71253",
+    "place": "Bưu cục Phước Bình quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71254",
+    "place": "Bưu cục Phú Hữu quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71255",
+    "place": "Bưu cục Cây Dầu quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71256",
+    "place": "Bưu cục Trường Thạnh quận 9 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71300",
+    "place": "Bưu cục Trung tâm quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71301",
+    "place": "Quận ủy quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71302",
+    "place": "Hội đồng nhân dân quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71303",
+    "place": "Ủy ban nhân dân quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71304",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71306",
+    "place": "Phường Bình Thọ quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71307",
+    "place": "Phường Linh Chiểu quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71308",
+    "place": "Phường Linh Trung quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71309",
+    "place": "Phường Linh Xuân quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71310",
+    "place": "Phường Linh Tây quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71311",
+    "place": "Phường Tam Phú quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71312",
+    "place": "Phường Tam Bình quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71313",
+    "place": "Phường Bình Chiểu quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71314",
+    "place": "Phường Hiệp Bình Phước quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71315",
+    "place": "Phường Hiệp Bình Chánh quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71316",
+    "place": "Phường Linh Đông quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71317",
+    "place": "Phường Trường Thọ quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71350",
+    "place": "Bưu cục phát Thủ Đức quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71351",
+    "place": "Bưu cục phát Linh Trung quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71352",
+    "place": "Bưu cục phát Bình Chiểu quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71353",
+    "place": "Bưu cục phát Bình Triệu quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71354",
+    "place": "Bưu cục phát TTDVKH Thủ Đức quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71355",
+    "place": "Bưu cục KHL Thủ Đức quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71356",
+    "place": "Bưu cục Bình Thọ quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71357",
+    "place": "Bưu cục Linh Trung quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71358",
+    "place": "Bưu cục Tam Bình quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71359",
+    "place": "Bưu cục Bình Chiểu quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71360",
+    "place": "Bưu cục Bình Triệu quận Thủ Đức thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71400",
+    "place": "Bưu cục Trung tâm quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71401",
+    "place": "Quận ủy quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71402",
+    "place": "Hội đồng nhân dân quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71403",
+    "place": "Ủy ban nhân dân quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71404",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71406",
+    "place": "Phường 10 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71407",
+    "place": "Phường 7 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71408",
+    "place": "Phường 4 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71409",
+    "place": "Phường 3 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71410",
+    "place": "Phường 1 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71411",
+    "place": "Phường 5 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71412",
+    "place": "Phường 6 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71413",
+    "place": "Phường 17 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71414",
+    "place": "Phường 15 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71415",
+    "place": "Phường 13 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71416",
+    "place": "Phường 16 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71417",
+    "place": "Phường 9 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71418",
+    "place": "Phường 14 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71419",
+    "place": "Phường 8 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71420",
+    "place": "Phường 12 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71421",
+    "place": "Phường 11 quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71450",
+    "place": "Bưu cục phát Gò Vấp quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71451",
+    "place": "Bưu cục KHL Nguyễn Oanh quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71452",
+    "place": "Bưu cục Trưng Nữ Vương quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71453",
+    "place": "Bưu cục Xóm Mới quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71454",
+    "place": "Bưu cục Lê Văn Thọ quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71455",
+    "place": "Bưu cục An Hội quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71456",
+    "place": "Bưu cục Thông Tây Hội quận Gò Vấp thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71500",
+    "place": "Bưu cục Trung tâm quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71501",
+    "place": "Quận ủy quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71502",
+    "place": "Hội đồng nhân dân quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71503",
+    "place": "Ủy ban nhân dân quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71504",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71506",
+    "place": "Phường Tân Chánh Hiệp quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71507",
+    "place": "Phường Trung Mỹ Tây quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71508",
+    "place": "Phường Đông Hưng Thuận quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71509",
+    "place": "Phường Tân Hưng Thuận quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71510",
+    "place": "Phường Tân Thới Nhất quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71511",
+    "place": "Phường Tân Thới Hiệp quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71512",
+    "place": "Phường Hiệp Thành quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71513",
+    "place": "Phường Thới An quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71514",
+    "place": "Phường Thạnh Xuân quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71515",
+    "place": "Phường Thạnh Lộc quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71516",
+    "place": "Phường An Phú Đông quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71550",
+    "place": "Bưu cục phát Quận 12 A quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71551",
+    "place": "Bưu cục phát Quận 12 B quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71552",
+    "place": "Bưu cục Công Viên Phần Mềm Quang trung quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71553",
+    "place": "Bưu cục Trung Mỹ Tây quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71554",
+    "place": "Bưu cục Quang Trung quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71555",
+    "place": "Bưu cục Nguyễn Văn Quá quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71556",
+    "place": "Bưu cục Bàu Nai quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71557",
+    "place": "Bưu cục Tân Thới Nhất quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71558",
+    "place": "Bưu cục Tân Thới Hiệp quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71559",
+    "place": "Bưu cục Hiệp Thành quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71560",
+    "place": "Bưu cục Nguyễn Thị Kiểu quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71561",
+    "place": "Bưu cục Hà Huy Giáp quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71562",
+    "place": "Bưu cục Ngã Tư Ga quận 12 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71600",
+    "place": "Bưu cục Trung tâm huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71601",
+    "place": "Huyện ủy huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71602",
+    "place": "Hội đồng nhân dân huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71603",
+    "place": "Ủy ban nhân dân huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71606",
+    "place": "Thị trấn Củ Chi huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71607",
+    "place": "Xã Tân An Hội huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71608",
+    "place": "Xã Tân Thông Hội huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71609",
+    "place": "Xã Tân Phú Trung huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71610",
+    "place": "Xã Tân Thạnh Đông huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71611",
+    "place": "Xã Bình Mỹ huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71612",
+    "place": "Xã Hòa Phú huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71613",
+    "place": "Xã Trung An huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71614",
+    "place": "Xã Tân Thạnh Tây huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71615",
+    "place": "Xã Phước Vĩnh An huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71616",
+    "place": "Xã Phú Hòa Đông huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71617",
+    "place": "Xã Phạm Văn Cội huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71618",
+    "place": "Xã Nhuận Đức huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71619",
+    "place": "Xã An Nhơn Tây huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71620",
+    "place": "Xã An Phú huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71621",
+    "place": "Xã Phú Mỹ Hưng huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71622",
+    "place": "Xã Trung Lập Thượng huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71623",
+    "place": "Xã Trung Lập Hạ huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71624",
+    "place": "Xã Phước Thạnh huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71625",
+    "place": "Xã Thái Mỹ huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71626",
+    "place": "Xã Phước Hiệp huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71650",
+    "place": "Bưu cục phát Củ Chi huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71651",
+    "place": "Bưu cục phát TTDVKH Củ Chi huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71652",
+    "place": "Bưu cục phát An Nhơn Tây huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71653",
+    "place": "Bưu cục phát Tân Trung huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71654",
+    "place": "Bưu cục phát Tân Phú Trung huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71655",
+    "place": "Bưu cục Thị Trấn Củ Chi huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71656",
+    "place": "Bưu cục Tân Phú Trung huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71657",
+    "place": "Bưu cục Tân Trung huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71658",
+    "place": "Bưu cục Phú Hòa Đông huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71659",
+    "place": "Bưu cục Phạm Văn Cội huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71660",
+    "place": "Bưu cục An Nhơn Tây huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71661",
+    "place": "Bưu cục An Phú huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71662",
+    "place": "Bưu cục Trung Lập huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71663",
+    "place": "Bưu cục Phước Thạnh huyện Củ Chi thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71700",
+    "place": "Bưu cục Trung tâm huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71701",
+    "place": "Huyện ủy huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71702",
+    "place": "Hội đồng nhân dân huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71703",
+    "place": "Ủy ban nhân dân huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71706",
+    "place": "Thị trấn Hóc Môn huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71707",
+    "place": "Xã Thới Tam Thôn huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71708",
+    "place": "Xã Đông Thạnh huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71709",
+    "place": "Xã Nhị Bình huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71710",
+    "place": "Xã Tân Hiệp huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71711",
+    "place": "Xã Tân Thới Nhì huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71712",
+    "place": "Xã Xuân Thới Sơn huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71713",
+    "place": "Xã Xuân Thới Thượng huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71714",
+    "place": "Xã Bà Điểm huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71715",
+    "place": "Xã Xuân Thới Đông huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71716",
+    "place": "Xã Trung Chánh huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71717",
+    "place": "Xã Tân Xuân huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71750",
+    "place": "Bưu cục phát Hóc Môn A huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71751",
+    "place": "Bưu cục phát Hóc Môn B huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71752",
+    "place": "Bưu cục TTDVKH Hóc Môn huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71753",
+    "place": "Bưu cục KHL Hóc Môn huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71754",
+    "place": "Bưu cục Đông Thạnh huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71755",
+    "place": "Bưu cục Nhị Xuân huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71756",
+    "place": "Bưu cục Bà Điểm huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71757",
+    "place": "Bưu cục An Sương huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71758",
+    "place": "Bưu cục Ngã Ba Bầu huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71759",
+    "place": "Bưu cục Trung Chánh huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71760",
+    "place": "Bưu cục Tân Thới Nhì huyện Hóc Môn thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71800",
+    "place": "Bưu cục Trung tâm huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71801",
+    "place": "Huyện ủy huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71802",
+    "place": "Hội đồng nhân dân huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71803",
+    "place": "Ủy ban nhân dân huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71806",
+    "place": "Thị trấn Tân Túc huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71807",
+    "place": "Xã Tân Quý Tây huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71808",
+    "place": "Xã An Phú Tây huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71809",
+    "place": "Xã Hưng Long huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71810",
+    "place": "Xã Quy Đức huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71811",
+    "place": "Xã Đa Phước huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71812",
+    "place": "Xã Phong Phú huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71813",
+    "place": "Xã Bình Hưng huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71814",
+    "place": "Xã Bình Chánh huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71815",
+    "place": "Xã Tân Kiên huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71816",
+    "place": "Xã Tân Nhựt huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71817",
+    "place": "Xã Lê Minh Xuân huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71818",
+    "place": "Xã Bình Lợi huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71819",
+    "place": "Xã Vĩnh Lộc B huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71820",
+    "place": "Xã Phạm Văn Hai huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71821",
+    "place": "Xã Vĩnh Lộc A huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71850",
+    "place": "Bưu cục phát Tân Túc huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71851",
+    "place": "Bưu cục phát Lê Minh Xuân huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71852",
+    "place": "Bưu cục phát Hưng Long huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71853",
+    "place": "Bưu cục phát Vĩnh Lộc huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71854",
+    "place": "Bưu cục phát Phong Phú huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71855",
+    "place": "Bưu cục Chợ Đệm huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71856",
+    "place": "Bưu cục Ghisê 2 Chợ Bình Chánh huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71857",
+    "place": "Bưu cục Quy Đức huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71858",
+    "place": "Bưu cục Phong Phú huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71859",
+    "place": "Bưu cục Bình Hưng huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71860",
+    "place": "Bưu cục Chợ Bình Chánh huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71861",
+    "place": "Bưu cục Láng Le huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71862",
+    "place": "Bưu cục Lê Minh Xuân huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71863",
+    "place": "Bưu cục Vĩnh Lộc huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71864",
+    "place": "Bưu cục Cầu Xáng huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71865",
+    "place": "Bưu điện văn hóa xã Láng Le 1 huyện Bình Chánh thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71900",
+    "place": "Bưu cục Trung tâm quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71901",
+    "place": "Quận ủy quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71902",
+    "place": "Hội đồng nhân dân quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71903",
+    "place": "Ủy ban nhân dân quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71904",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71906",
+    "place": "Phường An Lạc quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71907",
+    "place": "Phường An Lạc A quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71908",
+    "place": "Phường Bình Trị Đông B quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71909",
+    "place": "Phường Tân Tạo A quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71910",
+    "place": "Phường Bình Trị Đông quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71911",
+    "place": "Phường Bình Trị Đông A quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71912",
+    "place": "Phường Binh Hưng Hoà A quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71913",
+    "place": "Phường Bình Hưng Hòa quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71914",
+    "place": "Phường Binh Hưng Hoà B quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71915",
+    "place": "Phường Tân Tạo quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71950",
+    "place": "Bưu cục phát Bình Trị Đông quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71951",
+    "place": "Bưu cục phát Gò Mây quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71952",
+    "place": "Bưu cục phát An Lạc quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71953",
+    "place": "Bưu cục phát Tân Tạo quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71954",
+    "place": "Bưu cục phát TTDVKH Bình Chánh quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71955",
+    "place": "Bưu cục phát Gò Xoài quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71956",
+    "place": "Bưu cục KHL Bình Tân quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71957",
+    "place": "Bưu cục Hồ Học Lãm quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71958",
+    "place": "Bưu cục Tên Lửa quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71959",
+    "place": "Bưu cục Bốn Xã quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71960",
+    "place": "Bưu cục Bình Trị Đông quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71961",
+    "place": "Bưu cục Bình Hưng Hòa quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71962",
+    "place": "Bưu cục Gò Xoài quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71963",
+    "place": "Bưu cục Gò Mây quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71964",
+    "place": "Bưu cục Bà Hom quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71965",
+    "place": "Bưu cục Tân Kiên quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71966",
+    "place": "Bưu cục An Lạc quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "71967",
+    "place": "Bưu cục Mũi Tàu quận Bình Tân thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72000",
+    "place": "Bưu cục Trung tâm quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72001",
+    "place": "Quận ủy quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72002",
+    "place": "Hội đồng nhân dân quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72003",
+    "place": "Ủy ban nhân dân quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72004",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72006",
+    "place": "Phường Hoà Thạnh quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72007",
+    "place": "Phường Tân Thành quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72008",
+    "place": "Phường Tân Sơn Nhì quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72009",
+    "place": "Phường Tây Thạnh quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72010",
+    "place": "Phường Sơn Kỳ quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72011",
+    "place": "Phường Tân Quý quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72012",
+    "place": "Phường Phú Thọ Hoà quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72013",
+    "place": "Phường Phú Thạnh quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72014",
+    "place": "Phường Hiệp Tân quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72015",
+    "place": "Phường Tân Thới Hoà quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72016",
+    "place": "Phường Phú Trung quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72050",
+    "place": "Bưu cục phát Tân Phú quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72051",
+    "place": "Bưu cục phát TTDVKH Gia Định 2 quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72052",
+    "place": "Bưu cục KHL Tân Quý quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72053",
+    "place": "Bưu cục TMĐT Tân Bình quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72054",
+    "place": "Bưu cục Gò Dầu quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72055",
+    "place": "Bưu cục Tây Thạnh quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72056",
+    "place": "Bưu cục KCN Tân Bình quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72057",
+    "place": "Bưu cục Phú Thọ Hòa quận Tân Phú thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72100",
+    "place": "Bưu cục Trung tâm quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72101",
+    "place": "Quận ủy quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72102",
+    "place": "Hội đồng nhân dân quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72103",
+    "place": "Ủy ban nhân dân quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72104",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72106",
+    "place": "Phường 4 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72107",
+    "place": "Phường 1 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72108",
+    "place": "Phường 2 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72109",
+    "place": "Phường 15 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72110",
+    "place": "Phường 13 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72111",
+    "place": "Phường 12 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72112",
+    "place": "Phường 14 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72113",
+    "place": "Phường 11 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72114",
+    "place": "Phường 10 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72115",
+    "place": "Phường 9 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72116",
+    "place": "Phường 8 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72117",
+    "place": "Phường 6 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72118",
+    "place": "Phường 7 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72119",
+    "place": "Phường 5 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72120",
+    "place": "Phường 3 quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72150",
+    "place": "Bưu cục phát Tân Bình quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72151",
+    "place": "Bưu cục Phạm Văn Hai quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72152",
+    "place": "Bưu cục Tân Sơn Nhất quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72153",
+    "place": "Bưu cục Bà Quẹo quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72154",
+    "place": "Bưu cục Bàu Cát quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72155",
+    "place": "Bưu cục Hoàng Hoa Thám quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72157",
+    "place": "Bưu cục Lý Thường Kiệt quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72158",
+    "place": "Bưu cục Bảy Hiền quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72159",
+    "place": "Bưu cục Chí Hòa quận Tân Bình thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72200",
+    "place": "Bưu cục Trung tâm quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72201",
+    "place": "Quận ủy quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72202",
+    "place": "Hội đồng nhân dân quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72203",
+    "place": "Ủy ban nhân dân quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72204",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72206",
+    "place": "Phường 11 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72207",
+    "place": "Phường 12 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72208",
+    "place": "Phường 17 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72209",
+    "place": "Phường 15 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72210",
+    "place": "Phường 2 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72211",
+    "place": "Phường 1 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72212",
+    "place": "Phường 7 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72213",
+    "place": "Phường 3 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72214",
+    "place": "Phường 4 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72215",
+    "place": "Phường 5 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72216",
+    "place": "Phường 9 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72217",
+    "place": "Phường 8 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72218",
+    "place": "Phường 10 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72219",
+    "place": "Phường 14 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72220",
+    "place": "Phường 13 quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72250",
+    "place": "Bưu cục phát Phú Nhuận quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72251",
+    "place": "Bưu cục Đông Ba quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72252",
+    "place": "Bưu cục Lê Văn Sỹ quận Phú Nhuận thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72300",
+    "place": "Bưu cục Trung tâm quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72301",
+    "place": "Quận ủy quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72302",
+    "place": "Hội đồng nhân dân quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72303",
+    "place": "Ủy ban nhân dân quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72304",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72306",
+    "place": "Phường 14 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72307",
+    "place": "Phường 24 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72308",
+    "place": "Phường 25 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72309",
+    "place": "Phường 27 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72310",
+    "place": "Phường 26 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72311",
+    "place": "Phường 13 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72312",
+    "place": "Phường 12 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72313",
+    "place": "Phường 11 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72314",
+    "place": "Phường 5 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72315",
+    "place": "Phường 6 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72316",
+    "place": "Phường 7 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72317",
+    "place": "Phường 3 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72318",
+    "place": "Phường 1 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72319",
+    "place": "Phường 2 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72320",
+    "place": "Phường 15 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72321",
+    "place": "Phường 17 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72322",
+    "place": "Phường 21 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72323",
+    "place": "Phường 19 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72324",
+    "place": "Phường 22 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72325",
+    "place": "Phường 28 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72350",
+    "place": "Bưu cục phát Bình Thạnh quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72351",
+    "place": "Bưu cục phát Trung Tâm 2 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72352",
+    "place": "Bưu cục TTDVKH Gia Định 1 quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72353",
+    "place": "Bưu cục Thanh Đa quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72354",
+    "place": "Bưu cục Hàng Xanh quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72355",
+    "place": "Bưu cục Thị Nghè quận Bình Thạch thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72400",
+    "place": "Bưu cục Trung tâm quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72401",
+    "place": "Quận ủy quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72402",
+    "place": "Hội đồng nhân dân quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72403",
+    "place": "Ủy ban nhân dân quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72404",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72406",
+    "place": "Phường 5 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72407",
+    "place": "Phường 6 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72408",
+    "place": "Phường 8 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72409",
+    "place": "Phường 14 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72410",
+    "place": "Phường 12 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72411",
+    "place": "Phường 11 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72412",
+    "place": "Phường 13 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72413",
+    "place": "Phường 10 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72414",
+    "place": "Phường 9 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72415",
+    "place": "Phường 7 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72416",
+    "place": "Phường 4 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72417",
+    "place": "Phường 3 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72418",
+    "place": "Phường 2 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72419",
+    "place": "Phường 1 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72450",
+    "place": "Bưu cục phát Quận 3 quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72451",
+    "place": "Bưu cục Vườn Xoài quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72452",
+    "place": "Bưu cục Nguyễn Văn Trỗi quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72453",
+    "place": "Bưu cục Bàn Cờ quận 3 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72500",
+    "place": "Bưu cục Trung tâm quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72501",
+    "place": "Quận ủy quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72502",
+    "place": "Hội đồng nhân dân quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72503",
+    "place": "Ủy ban nhân dân quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72504",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72506",
+    "place": "Phường 14 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72507",
+    "place": "Phường 9 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72508",
+    "place": "Phường 10 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72509",
+    "place": "Phường 11 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72510",
+    "place": "Phường 12 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72511",
+    "place": "Phường 13 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72512",
+    "place": "Phường 15 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72513",
+    "place": "Phường 8 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72514",
+    "place": "Phường 7 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72515",
+    "place": "Phường 6 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72516",
+    "place": "Phường 5 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72517",
+    "place": "Phường 4 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72518",
+    "place": "Phường 3 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72519",
+    "place": "Phường 2 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72520",
+    "place": "Phường 1 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72550",
+    "place": "Bưu cục phát Quận 10 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72551",
+    "place": "Bưu cục phát Trung tâm 4 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72552",
+    "place": "Bưu cục phát Logistics quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72553",
+    "place": "Bưu cục KHL Chợ Lớn 2 quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72555",
+    "place": "Bưu cục Phú Thọ quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72557",
+    "place": "Bưu cục Bà Hạt quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72558",
+    "place": "Bưu cục Ngã Sáu Dân Chủ quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72559",
+    "place": "Bưu cục Sư Vạn Hạnh quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72560",
+    "place": "Bưu cục Hoà Hưng quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72561",
+    "place": "Bưu cục Ngô Quyền quận 10 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72600",
+    "place": "Bưu cục Trung tâm quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72601",
+    "place": "Quận ủy quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72602",
+    "place": "Hội đồng nhân dân quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72603",
+    "place": "Ủy ban nhân dân quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72604",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72606",
+    "place": "Phường 10 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72607",
+    "place": "Phường 14 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72608",
+    "place": "Phường 5 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72609",
+    "place": "Phường 3 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72610",
+    "place": "Phường 1 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72611",
+    "place": "Phường 2 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72612",
+    "place": "Phường 16 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72613",
+    "place": "Phường 9 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72614",
+    "place": "Phường 8 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72615",
+    "place": "Phường 12 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72616",
+    "place": "Phường 6 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72617",
+    "place": "Phường 4 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72618",
+    "place": "Phường 7 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72619",
+    "place": "Phường 13 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72620",
+    "place": "Phường 11 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72621",
+    "place": "Phường 15 quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72650",
+    "place": "Bưu cục Đầm Sen quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72651",
+    "place": "Bưu cục Lạc Long Quân quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72652",
+    "place": "Bưu cục Phó Cơ Điều quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72653",
+    "place": "Bưu cục Tôn Thất Hiệp quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72654",
+    "place": "Bưu cục Lữ Gia quận 11 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72700",
+    "place": "Bưu cục Trung tâm quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72701",
+    "place": "Quận ủy quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72702",
+    "place": "Hội đồng nhân dân quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72703",
+    "place": "Ủy ban nhân dân quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72704",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72706",
+    "place": "Phường 8 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72707",
+    "place": "Phường 7 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72708",
+    "place": "Phường 1 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72709",
+    "place": "Phường 2 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72710",
+    "place": "Phường 3 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72711",
+    "place": "Phường 4 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72712",
+    "place": "Phường 9 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72713",
+    "place": "Phường 12 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72714",
+    "place": "Phường 11 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72715",
+    "place": "Phường 15 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72716",
+    "place": "Phường 14 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72717",
+    "place": "Phường 13 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72718",
+    "place": "Phường 10 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72719",
+    "place": "Phường 6 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72720",
+    "place": "Phường 5 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72750",
+    "place": "Bưu cục phát Quận 5 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72751",
+    "place": "Bưu cục phát Trung Tâm 3 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72752",
+    "place": "Bưu cục phát Quận 11 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72753",
+    "place": "Bưu cục phát Quận 6 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72754",
+    "place": "Bưu cục TTDVKH Chợ Lớn quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72755",
+    "place": "Bưu cục phát Quận 8 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72756",
+    "place": "Bưu cục KHL Chợ Lớn 1 quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72757",
+    "place": "Bưu cục Nguyễn Tri Phương quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72758",
+    "place": "Bưu cục Nguyễn Duy Dương quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72759",
+    "place": "Bưu cục Nguyễn Trãi quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72760",
+    "place": "Bưu cục Lê Hồng Phong quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72761",
+    "place": "Bưu cục Hùng Vương quận 5 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72800",
+    "place": "Bưu cục Trung tâm quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72801",
+    "place": "Quận ủy quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72802",
+    "place": "Hội đồng nhân dân quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72803",
+    "place": "Ủy ban nhân dân quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72804",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72806",
+    "place": "Phường 12 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72807",
+    "place": "Phường 9 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72808",
+    "place": "Phường 6 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72809",
+    "place": "Phường 5 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72810",
+    "place": "Phường 2 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72811",
+    "place": "Phường 1 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72812",
+    "place": "Phường 3 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72813",
+    "place": "Phường 4 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72814",
+    "place": "Phường 8 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72815",
+    "place": "Phường 10 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72816",
+    "place": "Phường 14 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72817",
+    "place": "Phường 15 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72818",
+    "place": "Phường 16 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72819",
+    "place": "Phường 18 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72820",
+    "place": "Phường 13 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72850",
+    "place": "Bưu cục phát Quận 4 quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72851",
+    "place": "Bưu cục Khánh Hội quận 4 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72900",
+    "place": "Bưu cục Trung tâm quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72901",
+    "place": "Quận ủy quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72902",
+    "place": "Hội đồng nhân dân quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72903",
+    "place": "Ủy ban nhân dân quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72904",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72906",
+    "place": "Phường Phú Mỹ quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72907",
+    "place": "Phường Phú Thuận quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72908",
+    "place": "Phường Tân Phú quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72909",
+    "place": "Phường Tân Thuận Đông quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72910",
+    "place": "Phường Tân Thuận Tây quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72911",
+    "place": "Phường Tân Kiểng quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72912",
+    "place": "Phường Tân Hưng quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72913",
+    "place": "Phường Tân Quy quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72914",
+    "place": "Phường Bình Thuận quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72915",
+    "place": "Phường Tân Phong quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72950",
+    "place": "Bưu cục phát Quận 7A quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72951",
+    "place": "Bưu cục phát Quận 7B quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72952",
+    "place": "Bưu cục TTDVKH Nam Sài Gòn quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72953",
+    "place": "Bưu cục phát Tân Hưng quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72956",
+    "place": "Bưu cục Phú Mỹ quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72957",
+    "place": "Bưu cục Tân Thuận Đông quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72958",
+    "place": "Bưu cục Tân Thuận quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72959",
+    "place": "Bưu cục Tân Quy Đông quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "72960",
+    "place": "Bưu cục Tân Phong quận 7 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73000",
+    "place": "Bưu cục Trung tâm quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73001",
+    "place": "Quận ủy quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73002",
+    "place": "Hội đồng nhân dân quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73003",
+    "place": "Ủy ban nhân dân quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73004",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73006",
+    "place": "Phường 11 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73007",
+    "place": "Phường 9 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73008",
+    "place": "Phường 8 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73009",
+    "place": "Phường 10 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73010",
+    "place": "Phường 13 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73011",
+    "place": "Phường 12 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73012",
+    "place": "Phường 14 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73013",
+    "place": "Phường 15 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73014",
+    "place": "Phường 16 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73015",
+    "place": "Phường 7 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73016",
+    "place": "Phường 6 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73017",
+    "place": "Phường 5 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73018",
+    "place": "Phường 4 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73019",
+    "place": "Phường 3 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73020",
+    "place": "Phường 2 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73021",
+    "place": "Phường 1 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73050",
+    "place": "Bưu cục phát Quận 8 quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73052",
+    "place": "Bưu cục Dã Tượng quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73053",
+    "place": "Bưu cục Chánh Hưng quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73054",
+    "place": "Bưu cục Rạch Ông quận 8 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73100",
+    "place": "Bưu cục Trung tâm quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73101",
+    "place": "Quận ủy quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73102",
+    "place": "Hội đồng nhân dân quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73103",
+    "place": "Ủy ban nhân dân quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73104",
+    "place": "Ủy ban Mặt trận Tổ quốc quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73106",
+    "place": "Phường 1 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73107",
+    "place": "Phường 2 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73108",
+    "place": "Phường 3 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73109",
+    "place": "Phường 4 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73110",
+    "place": "Phường 5 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73111",
+    "place": "Phường 6 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73112",
+    "place": "Phường 9 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73113",
+    "place": "Phường 8 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73114",
+    "place": "Phường 7 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73115",
+    "place": "Phường 10 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73116",
+    "place": "Phường 11 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73117",
+    "place": "Phường 12 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73118",
+    "place": "Phường 13 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73119",
+    "place": "Phường 14 quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73150",
+    "place": "Bưu cục Minh Phụng quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73151",
+    "place": "Bưu cục Lý Chiêu Hoàng quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73152",
+    "place": "Bưu cục Phú Lâm quận 6 thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73200",
+    "place": "Bưu cục Trung tâm huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73201",
+    "place": "Huyện ủy huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73202",
+    "place": "Hội đồng nhân dân huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73203",
+    "place": "Ủy ban nhân dân huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73206",
+    "place": "Thị trấn Nhà Bè huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73207",
+    "place": "Xã Phước Kiển huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73208",
+    "place": "Xã Phước Lộc huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73209",
+    "place": "Xã Nhơn Đức huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73210",
+    "place": "Xã Phú Xuân huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73211",
+    "place": "Xã Long Thới huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73212",
+    "place": "Xã Hiệp Phước huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73250",
+    "place": "Bưu cục phát Nhà Bè huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73251",
+    "place": "Bưu cục Phước Kiển huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73253",
+    "place": "Bưu cục Hiệp Phước huyện Nhà Bè thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73300",
+    "place": "Bưu cục Trung tâm huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73301",
+    "place": "Huyện ủy huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73302",
+    "place": "Hội đồng nhân dân huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73303",
+    "place": "Ủy ban nhân dân huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73306",
+    "place": "Thị trấn Cần Thạnh huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73307",
+    "place": "Xã Long Hòa huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73308",
+    "place": "Xã Thạnh An huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73309",
+    "place": "Xã Tam Thôn Hiệp huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73310",
+    "place": "Xã Bình Khánh huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73311",
+    "place": "Xã An Thới Đông huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73312",
+    "place": "Xã Lý Nhơn huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73350",
+    "place": "Bưu cục phát Cần Giờ huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73351",
+    "place": "Bưu cục phát Bình Khánh huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73352",
+    "place": "Bưu cục Cần Thạnh huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73353",
+    "place": "Bưu cục 30/4 huyện Cần Giờ thành phố Hồ Chí Minh"
+  },
+  {
+    "zip": "73354",
+    "place": "Bưu cục Bình Khánh huyện Cần Giờ thành phố Hồ Chí Minh"
+  }
+]

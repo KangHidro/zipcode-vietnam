@@ -1,0 +1,902 @@
+[
+  {
+    "zip": "78000",
+    "place": "Bưu cục Trung tâm tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy Bà Rịa"
+  },
+  {
+    "zip": "78002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78009",
+    "place": "Đảng ủy khối cơ quan tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78016",
+    "place": "Báo Bà Rịa"
+  },
+  {
+    "zip": "78021",
+    "place": "Hội đồng nhân dân tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78035",
+    "place": "Tòa án nhân dân tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78037",
+    "place": "Kiểm toán nhà nước tại khu vực VIII tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78041",
+    "place": "Sở Công Thương tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "78044",
+    "place": "Sở Ngoại vụ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78045",
+    "place": "Sở Tài chính tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78047",
+    "place": "Sở Văn hoá và Thể thao tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78048",
+    "place": "Sở Du lịch tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78049",
+    "place": "Công an tỉnh tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78050",
+    "place": "Cảnh sát phòng cháy và chữa cháy tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78051",
+    "place": "Sở Nội vụ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78052",
+    "place": "Sở Tư pháp tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78054",
+    "place": "Sở Giao thông vận tải tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78058",
+    "place": "Sở Xây dựng tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78060",
+    "place": "Sở Y tế tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78062",
+    "place": "Ban Dân tộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78064",
+    "place": "Thanh tra tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78065",
+    "place": "Trường chính trị tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78070",
+    "place": "Bảo hiểm xã hội tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78078",
+    "place": "Cục Thuế tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78079",
+    "place": "Cục Hải quan tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78080",
+    "place": "Cục Thống kê tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78081",
+    "place": "Kho bạc Nhà nước tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78088",
+    "place": "Liên đoàn Lao động tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78089",
+    "place": "Hội Nông dân tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78091",
+    "place": "Tỉnh Đoàn tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78093",
+    "place": "Hội Cựu chiến binh tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78100",
+    "place": "Bưu cục Trung tâm thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78101",
+    "place": "Thành ủy thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78102",
+    "place": "Hội đồng nhân dân thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78103",
+    "place": "Ủy ban nhân dân thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78106",
+    "place": "Phường Phước Hiệp thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78107",
+    "place": "Phường Phước Trung thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78108",
+    "place": "Phường Phước Nguyên thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78109",
+    "place": "Phường Long Toàn thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78110",
+    "place": "Phường Long Tâm thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78111",
+    "place": "Xã Long Phước thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78112",
+    "place": "Xã Hòa Long thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78113",
+    "place": "Xã Tân Hưng thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78114",
+    "place": "Phường Phước Hưng thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78115",
+    "place": "Phường Kim Dinh thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78116",
+    "place": "Phường Long Hương thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78150",
+    "place": "Bưu cục phát Bà Rịa thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78151",
+    "place": "Bưu cục Kim Hải thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78152",
+    "place": "Bưu cục Hòa Long thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78154",
+    "place": "Bưu cục Trung Tâm Hành Chính thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78198",
+    "place": "Bưu cục HCC Bà Rịa thành phố Bà Rịa tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78200",
+    "place": "Bưu cục Trung tâm thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78201",
+    "place": "Thành ủy thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78202",
+    "place": "Hội đồng nhân dân thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78203",
+    "place": "Ủy ban nhân dân thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78204",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78206",
+    "place": "Phường 1 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78207",
+    "place": "Phường 2 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78208",
+    "place": "Phường 3 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78209",
+    "place": "Phường 4 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78210",
+    "place": "Phường Thắng Tam thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78211",
+    "place": "Phường 8 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78212",
+    "place": "Phường 7 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78213",
+    "place": "Phường Thắng Nhì thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78214",
+    "place": "Phường 5 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78215",
+    "place": "Phường 9 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78216",
+    "place": "Phường Nguyễn An Ninh thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78217",
+    "place": "Phường 10 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78218",
+    "place": "Phường Thắng Nhất thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78219",
+    "place": "Phường Rạch Dừa thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78220",
+    "place": "Phường 11 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78221",
+    "place": "Phường 12 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78222",
+    "place": "Xã Long Sơn thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78250",
+    "place": "Bưu cục phát Bà Rịa"
+  },
+  {
+    "zip": "78251",
+    "place": "Bưu cục Phường 1 thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78252",
+    "place": "Bưu cục Bãi Trước thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78253",
+    "place": "Bưu cục Kinh doanh tiếp thị Vũng Tàu thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78254",
+    "place": "Bưu cục TMĐT Vũng Tàu thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78255",
+    "place": "Bưu cục 5 Tầng thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78256",
+    "place": "Bưu cục Bến Đình thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78257",
+    "place": "Bưu cục Bến Đá thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78258",
+    "place": "Bưu cục 18 Tầng thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78259",
+    "place": "Bưu cục Chí Linh thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78260",
+    "place": "Bưu cục Thắng Nhất thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78261",
+    "place": "Bưu cục Phước Thắng thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78262",
+    "place": "Bưu cục Long Sơn thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78298",
+    "place": "Bưu cục HCC Vũng Tàu thành phố Vũng Tàu tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78299",
+    "place": "Bưu cục Hệ 1 Bà Rịa"
+  },
+  {
+    "zip": "78300",
+    "place": "Bưu cục Trung tâm huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78301",
+    "place": "Huyện ủy huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78302",
+    "place": "Hội đồng nhân dân huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78303",
+    "place": "Ủy ban nhân dân huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78306",
+    "place": "Thị trấn Đất Đỏ huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78307",
+    "place": "Xã Phước Long Thọ huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78308",
+    "place": "Xã Long Tân huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78309",
+    "place": "Xã Láng Dài huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78310",
+    "place": "Xã Lộc An huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78311",
+    "place": "Xã Phước Hội huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78312",
+    "place": "Xã Long Mỹ huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78313",
+    "place": "Thị trấn Phước Hải huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78350",
+    "place": "Bưu cục phát Đất Đỏ huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78351",
+    "place": "Bưu cục Phước Hải huyện Đất Đỏ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78400",
+    "place": "Bưu cục Trung tâm huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78401",
+    "place": "Huyện ủy huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78402",
+    "place": "Hội đồng nhân dân huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78403",
+    "place": "Ủy ban nhân dân huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78406",
+    "place": "Thị trấn Long Điền huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78407",
+    "place": "Xã An Nhứt huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78408",
+    "place": "Xã An Ngãi huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78409",
+    "place": "Xã Tam Phước huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78410",
+    "place": "Xã Phước Hưng huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78411",
+    "place": "Xã Phước Tỉnh huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78412",
+    "place": "Thị trấn Long Hải huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78450",
+    "place": "Bưu cục phát Long Điền huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78451",
+    "place": "Bưu cục Lò Vôi huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78452",
+    "place": "Bưu cục Phước Tỉnh huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78453",
+    "place": "Bưu cục Long Hải huyện Long Điền tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78500",
+    "place": "Bưu cục Trung tâm huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78501",
+    "place": "Huyện ủy huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78502",
+    "place": "Hội đồng nhân dân huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78503",
+    "place": "Ủy ban nhân dân huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78506",
+    "place": "Thị trấn Phước Bửu huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78507",
+    "place": "Xã Phước Thuận huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78508",
+    "place": "Xã Bông Trang huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78509",
+    "place": "Xã Bưng Riềng huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78510",
+    "place": "Xã Bình Châu huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78511",
+    "place": "Xã Hòa Hội huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78512",
+    "place": "Xã Hòa Hiệp huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78513",
+    "place": "Xã Tân Lâm huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78514",
+    "place": "Xã Bàu Lâm huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78515",
+    "place": "Xã Hòa Hưng huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78516",
+    "place": "Xã Hòa Bình huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78517",
+    "place": "Xã Phước Tân huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78518",
+    "place": "Xã Xuyên Mộc huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78550",
+    "place": "Bưu cục phát Xuyên Mộc huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78551",
+    "place": "Bưu cục Bình Châu huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78552",
+    "place": "Bưu cục Hòa Hiệp huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78553",
+    "place": "Bưu cục Bàu Lâm huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78554",
+    "place": "Bưu cục Hòa Bình huyện Xuyên Mộc tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78600",
+    "place": "Bưu cục Trung tâm huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78601",
+    "place": "Huyện ủy huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78602",
+    "place": "Hội đồng nhân dân huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78603",
+    "place": "Ủy ban nhân dân huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78606",
+    "place": "Thị trấn Ngãi Giao huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78607",
+    "place": "Xã Bình Giã huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78608",
+    "place": "Xã Bình Trung huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78609",
+    "place": "Xã Quảng Thành huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78610",
+    "place": "Xã Xà Bang huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78611",
+    "place": "Xã Kim Long huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78612",
+    "place": "Xã Cù Bị huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78613",
+    "place": "Xã Bàu Chinh huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78614",
+    "place": "Xã Láng Lớn huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78615",
+    "place": "Xã Bình Ba huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78616",
+    "place": "Xã Suối Nghệ huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78617",
+    "place": "Xã Nghĩa Thành huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78618",
+    "place": "Xã Đá Bạc huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78619",
+    "place": "Xã Xuân Sơn huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78620",
+    "place": "Xã Sơn Bình huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78621",
+    "place": "Xã Suối Rao huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78650",
+    "place": "Bưu cục phát Châu Đức huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78651",
+    "place": "Bưu cục Kim Long huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78652",
+    "place": "Bưu cục Suối Nghệ huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78653",
+    "place": "Bưu cục Sơn Bình huyện Châu Đức tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78700",
+    "place": "Bưu cục Trung tâm thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78701",
+    "place": "Thị ủy thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78702",
+    "place": "Hội đồng nhân dân thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78703",
+    "place": "Ủy ban nhân dân thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78704",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78706",
+    "place": "Phường Phú Mỹ thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78707",
+    "place": "Phường Mỹ Xuân thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78708",
+    "place": "Phường Hắc Dịch thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78709",
+    "place": "Xã Sông Xoài thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78710",
+    "place": "Xã Tóc Tiên thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78711",
+    "place": "Phường Tân Phước thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78712",
+    "place": "Xã Châu Pha thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78713",
+    "place": "Xã Tân Hoà thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78714",
+    "place": "Xã Tân Hải thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78715",
+    "place": "Phường Phước Hòa thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78750",
+    "place": "Bưu cục phát Phú Mỹ thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78751",
+    "place": "Bưu cục KHL Phú Mỹ thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78752",
+    "place": "Bưu cục Phú Mỹ thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78753",
+    "place": "Bưu cục Mỹ Xuân thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78754",
+    "place": "Bưu cục Mỹ Xuân A thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78755",
+    "place": "Bưu cục Hắc Dịch thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78756",
+    "place": "Bưu cục Sông Xoài thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78757",
+    "place": "Bưu cục Tân Phước thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78758",
+    "place": "Bưu cục Hội Bài thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78759",
+    "place": "Bưu cục Phước Hòa thị xã Phú Mỹ tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78800",
+    "place": "Bưu cục Trung tâm huyện Côn Đảo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78801",
+    "place": "Huyện ủy huyện Côn Đảo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78802",
+    "place": "Hội đồng nhân dân huyện Côn Đảo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78803",
+    "place": "Ủy ban nhân dân huyện Côn Đảo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Côn Đảo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78850",
+    "place": "Bưu cục phát Côn Đảo huyện Côn Đảo tỉnh Bà Rịa"
+  },
+  {
+    "zip": "78851",
+    "place": "Bưu cục Bến Đầm huyện Côn Đảo tỉnh Bà Rịa"
+  }
+]

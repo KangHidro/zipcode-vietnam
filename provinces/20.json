@@ -1,0 +1,1314 @@
+[
+  {
+    "zip": "20000",
+    "place": "Bưu cục Trung tâm tỉnh Hà Giang"
+  },
+  {
+    "zip": "20001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Hà Giang"
+  },
+  {
+    "zip": "20002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Hà Giang"
+  },
+  {
+    "zip": "20003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Hà Giang"
+  },
+  {
+    "zip": "20004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Hà Giang"
+  },
+  {
+    "zip": "20005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Hà Giang"
+  },
+  {
+    "zip": "20009",
+    "place": "Đảng ủy khối cơ quan tỉnh Hà Giang"
+  },
+  {
+    "zip": "20010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Hà Giang"
+  },
+  {
+    "zip": "20011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Hà Giang"
+  },
+  {
+    "zip": "20016",
+    "place": "Báo Hà Giang"
+  },
+  {
+    "zip": "20021",
+    "place": "Hội đồng nhân dân tỉnh Hà Giang"
+  },
+  {
+    "zip": "20030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Hà Giang"
+  },
+  {
+    "zip": "20035",
+    "place": "Tòa án nhân dân tỉnh Hà Giang"
+  },
+  {
+    "zip": "20036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Hà Giang"
+  },
+  {
+    "zip": "20040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Hà Giang"
+  },
+  {
+    "zip": "20041",
+    "place": "Sở Công Thương tỉnh Hà Giang"
+  },
+  {
+    "zip": "20042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Hà Giang"
+  },
+  {
+    "zip": "20043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "20044",
+    "place": "Sở Ngoại vụ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20045",
+    "place": "Sở Tài chính tỉnh Hà Giang"
+  },
+  {
+    "zip": "20046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Hà Giang"
+  },
+  {
+    "zip": "20047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Hà Giang"
+  },
+  {
+    "zip": "20049",
+    "place": "Công an tỉnh Hà Giang"
+  },
+  {
+    "zip": "20051",
+    "place": "Sở Nội vụ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20052",
+    "place": "Sở Tư pháp tỉnh Hà Giang"
+  },
+  {
+    "zip": "20053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Hà Giang"
+  },
+  {
+    "zip": "20054",
+    "place": "Sở Giao thông vận tải tỉnh Hà Giang"
+  },
+  {
+    "zip": "20055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Hà Giang"
+  },
+  {
+    "zip": "20058",
+    "place": "Sở Xây dựng tỉnh Hà Giang"
+  },
+  {
+    "zip": "20060",
+    "place": "Sở Y tế tỉnh Hà Giang"
+  },
+  {
+    "zip": "20061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Hà Giang"
+  },
+  {
+    "zip": "20062",
+    "place": "Ban Dân tộc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20064",
+    "place": "Thanh tra tỉnh Hà Giang"
+  },
+  {
+    "zip": "20065",
+    "place": "Trường chính trị tỉnh Hà Giang"
+  },
+  {
+    "zip": "20066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Hà Giang"
+  },
+  {
+    "zip": "20067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20070",
+    "place": "Bảo hiểm xã hội tỉnh Hà Giang"
+  },
+  {
+    "zip": "20078",
+    "place": "Cục Thuế tỉnh Hà Giang"
+  },
+  {
+    "zip": "20079",
+    "place": "Cục Hải quan tỉnh Hà Giang"
+  },
+  {
+    "zip": "20080",
+    "place": "Cục Thống kê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20081",
+    "place": "Kho bạc Nhà nước tỉnh Hà Giang"
+  },
+  {
+    "zip": "20085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Hà Giang"
+  },
+  {
+    "zip": "20086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Hà Giang"
+  },
+  {
+    "zip": "20087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Hà Giang"
+  },
+  {
+    "zip": "20088",
+    "place": "Liên đoàn Lao động tỉnh Hà Giang"
+  },
+  {
+    "zip": "20089",
+    "place": "Hội Nông dân tỉnh Hà Giang"
+  },
+  {
+    "zip": "20090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20091",
+    "place": "Tỉnh Đoàn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20093",
+    "place": "Hội Cựu chiến binh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20100",
+    "place": "Bưu cục Trung tâm thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20101",
+    "place": "Thành ủy thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20102",
+    "place": "Hội đồng nhân dân thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20103",
+    "place": "Ủy ban nhân dân thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20106",
+    "place": "Phường Trần Phú thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20107",
+    "place": "Phường Ngọc Hà thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20108",
+    "place": "Xã Ngọc Đường thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20109",
+    "place": "Phường Quang Trung thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20110",
+    "place": "Phường Nguyễn Trãi thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20111",
+    "place": "Phường Minh Khai thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20112",
+    "place": "Xã Phương Độ thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20113",
+    "place": "Xã Phương Thiện thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20150",
+    "place": "Bưu cục phát Hà Giang thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20151",
+    "place": "Bưu cục Công Viên thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20152",
+    "place": "Bưu cục Minh Khai thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20153",
+    "place": "Bưu cục Yên Biên thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20154",
+    "place": "Bưu cục Trần Phú thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20154",
+    "place": "Bưu cục Ngọc Hà thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20156",
+    "place": "Bưu cục Quang Trung thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20199",
+    "place": "Bưu cục Hệ 1 Hà Giang thành phố Hà Giang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20200",
+    "place": "Bưu cục Trung tâm huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20201",
+    "place": "Huyện ủy huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20202",
+    "place": "Hội đồng nhân dân huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20203",
+    "place": "Ủy ban nhân dân huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20206",
+    "place": "Thị trấn Vị Xuyên huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20207",
+    "place": "Xã Ngọc Linh huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20208",
+    "place": "Xã Ngọc Minh huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20209",
+    "place": "Xã Linh Hồ huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20210",
+    "place": "Xã Kim Linh huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20211",
+    "place": "Xã Kim Thạch huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20212",
+    "place": "Xã Tùng Bá huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20213",
+    "place": "Xã Thuận Hòa huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20214",
+    "place": "Xã Minh Tân huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20215",
+    "place": "Xã Thanh Thủy huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20216",
+    "place": "Xã Thanh Đức huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20217",
+    "place": "Xã Xín Chải huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20218",
+    "place": "Xã Lao Chải huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20219",
+    "place": "Xã Phương Tiến huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20220",
+    "place": "Xã Phong Quang huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20221",
+    "place": "Xã Phú Linh huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20222",
+    "place": "Xã Đạo Đức huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20223",
+    "place": "Xã Cao Bồ huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20224",
+    "place": "Xã Thượng Sơn huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20225",
+    "place": "Xã Quảng Ngần huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20226",
+    "place": "Xã Việt Lâm huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20227",
+    "place": "Thị trấn Nông trường Việt Lâm huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20228",
+    "place": "Xã Trung Thành huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20229",
+    "place": "Xã Bạch Ngọc huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20250",
+    "place": "Bưu cục phát Vị Xuyên huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20251",
+    "place": "Bưu cục Việt Lâm huyện Vị Xuyên tỉnh Hà Giang"
+  },
+  {
+    "zip": "20300",
+    "place": "Bưu cục Trung tâm huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20301",
+    "place": "Huyện ủy huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20302",
+    "place": "Hội đồng nhân dân huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20303",
+    "place": "Ủy ban nhân dân huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20306",
+    "place": "Thị trấn Yên Minh huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20307",
+    "place": "Xã Hữu Vinh huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20308",
+    "place": "Xã Sủng Thài huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20309",
+    "place": "Xã Sủng Tráng huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20310",
+    "place": "Xã Thắng Mố huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20311",
+    "place": "Xã Phú Lũng huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20312",
+    "place": "Xã Bạch Đích huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20313",
+    "place": "Xã Na Khê huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20314",
+    "place": "Xã Lao Và Chải huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20315",
+    "place": "Xã Đông Minh huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20316",
+    "place": "Xã Ngam La huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20317",
+    "place": "Xã Đường Thượng huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20318",
+    "place": "Xã Du Già huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20319",
+    "place": "Xã Du Tiến huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20320",
+    "place": "Xã Ngọc Long huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20321",
+    "place": "Xã Lũng Hồ huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20322",
+    "place": "Xã Mậu Long huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20323",
+    "place": "Xã Mậu Duệ huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20330",
+    "place": "Bưu cục phát Yên Minh huyện Yên Minh tỉnh Hà Giang"
+  },
+  {
+    "zip": "20350",
+    "place": "Bưu cục Trung tâm huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20351",
+    "place": "Huyện ủy huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20352",
+    "place": "Hội đồng nhân dân huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20353",
+    "place": "Ủy ban nhân dân huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20354",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20356",
+    "place": "Thị trấn Tam Sơn huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20357",
+    "place": "Xã Cán Tỷ huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20358",
+    "place": "Xã Bát Đại Sơn huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20359",
+    "place": "Xã Nghĩa Thuận huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20360",
+    "place": "Xã Cao Mã Pờ huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20361",
+    "place": "Xã Tùng Vài huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20362",
+    "place": "Xã Tả Ván huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20363",
+    "place": "Xã Thanh Vân huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20364",
+    "place": "Xã Quyết Tiến huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20365",
+    "place": "Xã Quản Bạ huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20366",
+    "place": "Xã Đông Hà huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20367",
+    "place": "Xã Thái An huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20368",
+    "place": "Xã Lùng Tám huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20375",
+    "place": "Bưu cục phát Quản Bạ huyện Quản Bạ tỉnh Hà Giang"
+  },
+  {
+    "zip": "20400",
+    "place": "Bưu cục Trung tâm huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20401",
+    "place": "Huyện ủy huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20402",
+    "place": "Hội đồng nhân dân huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20403",
+    "place": "Ủy ban nhân dân huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20406",
+    "place": "Thị trấn Mèo Vạc huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20407",
+    "place": "Xã Giàng Chu Phìn huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20408",
+    "place": "Xã Xín Cái huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20409",
+    "place": "Xã Thượng Phùng huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20410",
+    "place": "Xã Pải Lủng huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20411",
+    "place": "Xã Pả Vi huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20412",
+    "place": "Xã Sủng Trà huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20413",
+    "place": "Xã Sủng Máng huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20414",
+    "place": "Xã Lũng Chinh huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20415",
+    "place": "Xã Nậm Ban huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20416",
+    "place": "Xã Niêm Sơn huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20417",
+    "place": "Xã Niêm Tòng huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20418",
+    "place": "Xã Khâu Vai huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20419",
+    "place": "Xã Tát Ngà huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20420",
+    "place": "Xã Tả Lủng huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20421",
+    "place": "Xã Cán Chu Phìn huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20422",
+    "place": "Xã Lũng Phù huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20423",
+    "place": "Xã Sơn Vĩ huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20450",
+    "place": "Bưu cục phát Mèo Vạc huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20451",
+    "place": "Bưu điện văn hóa xã Cán Chu Phìn huyện Mèo Vạc tỉnh Hà Giang"
+  },
+  {
+    "zip": "20500",
+    "place": "Bưu cục Trung tâm huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20501",
+    "place": "Huyện ủy huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20502",
+    "place": "Hội đồng nhân dân huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20503",
+    "place": "Ủy ban nhân dân huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20506",
+    "place": "Thị trấn Đồng Văn huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20507",
+    "place": "Xã Má Lé huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20508",
+    "place": "Xã Lũng Cú huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20509",
+    "place": "Xã Lũng Táo huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20510",
+    "place": "Xã Xà Phìn huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20511",
+    "place": "Xã Sủng Là huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20512",
+    "place": "Xã Phó Bảng huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20513",
+    "place": "Xã Phố Là huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20514",
+    "place": "Xã Phố Cáo huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20515",
+    "place": "Xã Lũng Thầu huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20516",
+    "place": "Xã Vần Chải huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20517",
+    "place": "Xã Sủng Trái huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20518",
+    "place": "Xã Lũng Phìn huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20519",
+    "place": "Xã Hố Quáng Phìn huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20520",
+    "place": "Xã Sảng Tủng huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20521",
+    "place": "Xã Sính Lủng huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20522",
+    "place": "Xã Thài Phìn Tủng huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20523",
+    "place": "Xã Tả Phìn huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20524",
+    "place": "Xã Tả Lủng huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20550",
+    "place": "Bưu cục phát Đồng Văn huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20551",
+    "place": "Bưu cục Phó Bảng huyện Đồng Văn tỉnh Hà Giang"
+  },
+  {
+    "zip": "20600",
+    "place": "Bưu cục Trung tâm huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20601",
+    "place": "Huyện ủy huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20602",
+    "place": "Hội đồng nhân dân huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20603",
+    "place": "Ủy ban nhân dân huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20606",
+    "place": "Thị trấn Vinh Quang huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20607",
+    "place": "Xã Tân Tiến huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20608",
+    "place": "Xã Túng Sán huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20609",
+    "place": "Xã Đản Ván huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20610",
+    "place": "Xã Thèn Chu Phìn huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20611",
+    "place": "Xã Pố Lồ huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20612",
+    "place": "Xã Thàng Tín huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20613",
+    "place": "Xã Bản Máy huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20614",
+    "place": "Xã Bản Phùng huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20615",
+    "place": "Xã Chiến Phố huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20616",
+    "place": "Xã Tụ Nhân huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20617",
+    "place": "Xã Nàng Đôn huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20618",
+    "place": "Xã Pờ Ly Ngài huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20619",
+    "place": "Xã Sán Xả Hồ huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20620",
+    "place": "Xã Bản Luốc huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20621",
+    "place": "Xã Hồ Thầu huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20622",
+    "place": "Xã Nậm Khòa huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20623",
+    "place": "Xã Thông Nguyên huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20624",
+    "place": "Xã Nậm Tỵ huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20625",
+    "place": "Xã Nam Sơn huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20626",
+    "place": "Xã Bản Péo huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20627",
+    "place": "Xã Nậm Dịch huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20628",
+    "place": "Xã Ngàm Đăng Vài huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20629",
+    "place": "Xã Bản Nhùng huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20630",
+    "place": "Xã Tả Sử Choóng huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20650",
+    "place": "Bưu cục phát Hoàng Su Phì huyện Hoàng Su Phì tỉnh Hà Giang"
+  },
+  {
+    "zip": "20700",
+    "place": "Bưu cục Trung tâm huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20701",
+    "place": "Huyện ủy huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20702",
+    "place": "Hội đồng nhân dân huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20703",
+    "place": "Ủy ban nhân dân huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20706",
+    "place": "Thị trấn Cốc Pài huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20707",
+    "place": "Xã Thèn Phàng huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20708",
+    "place": "Xã Bản Díu huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20709",
+    "place": "Xã Nàn Xỉn huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20710",
+    "place": "Xã Xín Mần huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20711",
+    "place": "Xã Chí Cà huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20712",
+    "place": "Xã Pà Vầy Sủ huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20713",
+    "place": "Xã Nàn Ma huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20714",
+    "place": "Xã Bản Ngò huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20715",
+    "place": "Xã Nấm Dẩn huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20716",
+    "place": "Xã Nà Chì huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20717",
+    "place": "Xã Khuôn Lùng huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20718",
+    "place": "Xã Quảng Nguyên huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20719",
+    "place": "Xã Chế Là huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20720",
+    "place": "Xã Tả Nhìu huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20721",
+    "place": "Xã Cốc Rế huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20722",
+    "place": "Xã Thu Tà huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20723",
+    "place": "Xã Ngán Chiên huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20724",
+    "place": "Xã Trung Thịnh huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20730",
+    "place": "Bưu cục phát Xín Mần huyện Xín Mần tỉnh Hà Giang"
+  },
+  {
+    "zip": "20750",
+    "place": "Bưu cục Trung tâm huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20751",
+    "place": "Huyện ủy huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20752",
+    "place": "Hội đồng nhân dân huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20753",
+    "place": "Ủy ban nhân dân huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20754",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20756",
+    "place": "Thị trấn Yên Bình huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20757",
+    "place": "Xã Tân Bắc huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20758",
+    "place": "Xã Tân Thịnh huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20759",
+    "place": "Xã Xuân Minh huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20760",
+    "place": "Xã Tiên Nguyên huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20761",
+    "place": "Xã Tân Nam huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20762",
+    "place": "Xã Yên Thành huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20763",
+    "place": "Xã Bản Rịa huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20764",
+    "place": "Xã Bằng Lang huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20765",
+    "place": "Xã Nà Khương huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20766",
+    "place": "Xã Xuân Giang huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20767",
+    "place": "Xã Tiên Yên huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20768",
+    "place": "Xã Vĩ Thương huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20769",
+    "place": "Xã Hương Sơn huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20770",
+    "place": "Xã Yên Hà huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20780",
+    "place": "Bưu cục phát Quang Bình huyện Quang Bình tỉnh Hà Giang"
+  },
+  {
+    "zip": "20800",
+    "place": "Bưu cục Trung tâm huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20801",
+    "place": "Huyện ủy huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20802",
+    "place": "Hội đồng nhân dân huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20803",
+    "place": "Ủy ban nhân dân huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20806",
+    "place": "Thị trấn Việt Quang huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20807",
+    "place": "Xã Việt Vinh huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20808",
+    "place": "Xã Đồng Tâm huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20809",
+    "place": "Xã Đồng Tiến huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20810",
+    "place": "Xã Tân Thành huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20811",
+    "place": "Xã Tân Lập huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20812",
+    "place": "Xã Tân Quang huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20813",
+    "place": "Xã Việt Hồng huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20814",
+    "place": "Xã Tiên Kiều huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20815",
+    "place": "Xã Vĩnh Phúc huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20816",
+    "place": "Xã Đồng Yên huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20817",
+    "place": "Xã Đông Thành huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20818",
+    "place": "Xã Vĩnh Hảo huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20819",
+    "place": "Thị trấn Vĩnh Tuy huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20820",
+    "place": "Xã Hùng An huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20821",
+    "place": "Xã Quang Minh huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20822",
+    "place": "Xã Vô Điếm huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20823",
+    "place": "Xã Đức Xuân huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20824",
+    "place": "Xã Liên Hiệp huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20825",
+    "place": "Xã Hữu Sản huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20826",
+    "place": "Xã Thượng Bình huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20827",
+    "place": "Xã Kim Ngọc huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20828",
+    "place": "Xã Bằng Hành huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20850",
+    "place": "Bưu cục phát Bắc Quang huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20851",
+    "place": "Bưu cục Tân Quang huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20852",
+    "place": "Bưu cục Hùng An huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20853",
+    "place": "Bưu cục Vĩnh Tuy huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20854",
+    "place": "Bưu cục Đồng Yên huyện Bắc Quang tỉnh Hà Giang"
+  },
+  {
+    "zip": "20900",
+    "place": "Bưu cục Trung tâm huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20901",
+    "place": "Huyện ủy huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20902",
+    "place": "Hội đồng nhân dân huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20903",
+    "place": "Ủy ban nhân dân huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20906",
+    "place": "Thị trấn Yên Phú huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20907",
+    "place": "Xã Yên Phong huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20908",
+    "place": "Xã Giáp Trung huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20909",
+    "place": "Xã Minh Sơn huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20910",
+    "place": "Xã Yên Định huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20911",
+    "place": "Xã Minh Ngọc huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20912",
+    "place": "Xã Lạc Nông huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20913",
+    "place": "Xã Thượng Tân huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20914",
+    "place": "Xã Phiêng Luông huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20915",
+    "place": "Xã Yên Cường huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20916",
+    "place": "Xã Đường Hồng huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20917",
+    "place": "Xã Đường Âm huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20918",
+    "place": "Xã Phú Nam huyện Bắc Mê tỉnh Hà Giang"
+  },
+  {
+    "zip": "20950",
+    "place": "Bưu cục phát Bắc Mê huyện Bắc Mê tỉnh Hà Giang"
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "zip": "94000",
+    "place": "Bưu cục Trung tâm thành phố Cần Thơ"
+  },
+  {
+    "zip": "94001",
+    "place": "Ủy ban Kiểm tra thành ủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94002",
+    "place": "Ban Tổ chức thành ủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94003",
+    "place": "Ban Tuyên giáo thành ủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94004",
+    "place": "Ban Dân vận thành ủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94005",
+    "place": "Ban Nội chính thành ủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94009",
+    "place": "Đảng ủy khối cơ quan thành phố Cần Thơ"
+  },
+  {
+    "zip": "94010",
+    "place": "Thành ủy và Văn phòng thành ủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94011",
+    "place": "Đảng ủy khối doanh nghiệp thành phố Cần Thơ"
+  },
+  {
+    "zip": "94016",
+    "place": "Báo Cần Thơ"
+  },
+  {
+    "zip": "94021",
+    "place": "Hội đồng nhân dân thành phố Cần Thơ"
+  },
+  {
+    "zip": "94030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội thành phố Cần Thơ"
+  },
+  {
+    "zip": "94035",
+    "place": "Tòa án nhân dân thành phố Cần Thơ"
+  },
+  {
+    "zip": "94036",
+    "place": "Viện Kiểm sát nhân dân thành phố Cần Thơ "
+  },
+  {
+    "zip": "94037",
+    "place": "Kiểm toán nhà nước khu vực V thành phố Cần Thơ"
+  },
+  {
+    "zip": "94040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân thành phố Cần Thơ"
+  },
+  {
+    "zip": "94041",
+    "place": "Sở Công Thương thành phố Cần Thơ"
+  },
+  {
+    "zip": "94042",
+    "place": "Sở Kế hoạch và Đầu tư thành phố Cần Thơ"
+  },
+  {
+    "zip": "94043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "94044",
+    "place": "Sở Ngoại vụ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94045",
+    "place": "Sở Tài chính thành phố Cần Thơ"
+  },
+  {
+    "zip": "94046",
+    "place": "Sở Thông tin và Truyền thông thành phố Cần Thơ"
+  },
+  {
+    "zip": "94047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch thành phố Cần Thơ"
+  },
+  {
+    "zip": "94049",
+    "place": "Công an thành phố thành phố Cần Thơ"
+  },
+  {
+    "zip": "94050",
+    "place": "Sở Cảnh sát phòng cháy chữa cháy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94051",
+    "place": "Sở Nội vụ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94052",
+    "place": "Sở Tư pháp thành phố Cần Thơ"
+  },
+  {
+    "zip": "94053",
+    "place": "Sở Giáo dục và Đào tạo thành phố Cần Thơ"
+  },
+  {
+    "zip": "94054",
+    "place": "Sở Giao thông vận tải thành phố Cần Thơ"
+  },
+  {
+    "zip": "94055",
+    "place": "Sở Khoa học và Công nghệ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94057",
+    "place": "Sở Tài nguyên và Môi trường thành phố Cần Thơ"
+  },
+  {
+    "zip": "94058",
+    "place": "Sở Xây dựng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94060",
+    "place": "Sở Y tế thành phố Cần Thơ"
+  },
+  {
+    "zip": "94061",
+    "place": "Bộ chỉ huy Quân sự thành phố Cần Thơ"
+  },
+  {
+    "zip": "94062",
+    "place": "Ban Dân tộc thành phố Cần Thơ"
+  },
+  {
+    "zip": "94063",
+    "place": "Ngân hàng nhà nước chi nhánh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94064",
+    "place": "Thanh tra thành phố Cần Thơ"
+  },
+  {
+    "zip": "94065",
+    "place": "Trường chính trị thành phố Cần Thơ"
+  },
+  {
+    "zip": "94066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam thành phố Cần Thơ"
+  },
+  {
+    "zip": "94067",
+    "place": "Đài Phát thanh và Truyền hình thành phố Cần Thơ"
+  },
+  {
+    "zip": "94070",
+    "place": "Bảo hiểm xã hội thành phố Cần Thơ"
+  },
+  {
+    "zip": "94078",
+    "place": "Cục Thuế thành phố Cần Thơ"
+  },
+  {
+    "zip": "94079",
+    "place": "Cục Hải quan thành phố Cần Thơ"
+  },
+  {
+    "zip": "94080",
+    "place": "Cục Thống kê thành phố Cần Thơ"
+  },
+  {
+    "zip": "94081",
+    "place": "Kho bạc Nhà nước thành phố Cần Thơ"
+  },
+  {
+    "zip": "94085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật thành phố Cần Thơ"
+  },
+  {
+    "zip": "94086",
+    "place": "Liên hiệp các tổ chức hữu nghị thành phố Cần Thơ"
+  },
+  {
+    "zip": "94087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật thành phố Cần Thơ"
+  },
+  {
+    "zip": "94088",
+    "place": "Liên đoàn Lao động thành phố Cần Thơ"
+  },
+  {
+    "zip": "94089",
+    "place": "Hội Nông dân thành phố Cần Thơ"
+  },
+  {
+    "zip": "94090",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố"
+  },
+  {
+    "zip": "94091",
+    "place": "Thành đoàn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94092",
+    "place": "Hội Liên hiệp Phụ nữ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94093",
+    "place": "Hội Cựu chiến binh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94100",
+    "place": "Bưu cục Trung tâm quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94101",
+    "place": "Quận ủy quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94102",
+    "place": "Hội đồng nhân dân quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94103",
+    "place": "Ủy ban nhân dân quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94104",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94106",
+    "place": "Phường Thới Bình quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94107",
+    "place": "Phường Cái Khế quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94108",
+    "place": "Phường An Hòa quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94109",
+    "place": "Phường An Nghiệp quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94110",
+    "place": "Phường An Cư quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94111",
+    "place": "Phường An Hội quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94112",
+    "place": "Phường Tân An quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94113",
+    "place": "Phường An Lạc quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94114",
+    "place": "Phường An Phú quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94115",
+    "place": "Phường Xuân Khánh quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94116",
+    "place": "Phường Hưng Lợi quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94117",
+    "place": "Phường An Khánh quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94118",
+    "place": "Phường An Bình quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94150",
+    "place": "Bưu cục phát Cần Thơ quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94151",
+    "place": "Bưu cục KHL Cần Thơ quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94152",
+    "place": "Bưu cục Cái Khế quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94153",
+    "place": "Bưu cục Chợ Cái Khế quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94154",
+    "place": "Bưu cục An Hòa quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94155",
+    "place": "Bưu cục Xuân Khánh quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94156",
+    "place": "Bưu cục Mậu Thân quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94157",
+    "place": "Bưu cục Hưng Lợi quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94158",
+    "place": "Bưu cục An Khánh quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94159",
+    "place": "Bưu cục An Bình quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94198",
+    "place": "Bưu cục HCC Cần Thơ quận Ninh Kiều thành phố Cần Thơ"
+  },
+  {
+    "zip": "94200",
+    "place": "Bưu cục Trung tâm quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94201",
+    "place": "Quận ủy quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94202",
+    "place": "Hội đồng nhân dân quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94203",
+    "place": "Ủy ban nhân dân quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94204",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94206",
+    "place": "Phường Bình Thủy quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94207",
+    "place": "Phường Bùi Hữu Nghĩa quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94208",
+    "place": "Phường Trà An quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94209",
+    "place": "Phường Trà Nóc quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94210",
+    "place": "Phường Thới An Đông quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94211",
+    "place": "Phường Long Tuyền quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94212",
+    "place": "Phường Long Hòa quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94213",
+    "place": "Phường An Thới quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94250",
+    "place": "Bưu cục phát Trà Nóc quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94251",
+    "place": "Bưu cục KCN Trà Nóc quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94252",
+    "place": "Bưu cục Bình Thủy quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94253",
+    "place": "Bưu cục Trà An quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94254",
+    "place": "Bưu cục An Thới quận Bình Thủy thành phố Cần Thơ"
+  },
+  {
+    "zip": "94300",
+    "place": "Bưu cục Trung tâm quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94301",
+    "place": "Quận ủy quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94302",
+    "place": "Hội đồng nhân dân quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94303",
+    "place": "Ủy ban nhân dân quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94304",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94306",
+    "place": "Phường Châu Văn Liêm quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94307",
+    "place": "Phường Trường Lạc quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94308",
+    "place": "Phường Phước Thới quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94309",
+    "place": "Phường Thới An quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94310",
+    "place": "Phường Thới Long quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94311",
+    "place": "Phường Long Hưng quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94312",
+    "place": "Phường Thới Hòa quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94350",
+    "place": "Bưu cục phát Ô Môn quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94351",
+    "place": "Bưu cục Châu Văn Liêm quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94352",
+    "place": "Bưu cục Long Hưng quận Ô Môn thành phố Cần Thơ"
+  },
+  {
+    "zip": "94400",
+    "place": "Bưu cục Trung tâm quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94401",
+    "place": "Quận ủy quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94402",
+    "place": "Hội đồng nhân dân quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94403",
+    "place": "Ủy ban nhân dân quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94404",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94406",
+    "place": "Phường Thốt Nốt quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94407",
+    "place": "Phường Thới Thuận quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94408",
+    "place": "Phường Thuận An quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94409",
+    "place": "Phường Trung Nhứt quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94410",
+    "place": "Phường Thạnh Hoà quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94411",
+    "place": "Phường Trung Kiên quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94412",
+    "place": "Phường Tân Lộc quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94413",
+    "place": "Phường Thuận Hưng quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94414",
+    "place": "Phường Tân Hưng quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94450",
+    "place": "Bưu cục phát Thốt Nốt quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94451",
+    "place": "Bưu cục Thới Thuận quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94452",
+    "place": "Bưu cục Thuận Hưng 1 quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94453",
+    "place": "BĐVHX Tân Lộc 1 quận Thốt Nốt thành phố Cần Thơ"
+  },
+  {
+    "zip": "94500",
+    "place": "Bưu cục Trung tâm huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94501",
+    "place": "Huyện ủy huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94502",
+    "place": "Hội đồng nhân dân huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94503",
+    "place": "Ủy ban nhân dân huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94506",
+    "place": "Thị trấn Vĩnh Thạnh huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94507",
+    "place": "Xã Thạnh Mỹ huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94508",
+    "place": "Xã Thạnh Qưới huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94509",
+    "place": "Xã Thạnh An huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94510",
+    "place": "Xã Thạnh Lợi huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94511",
+    "place": "Xã Thạnh Thắng huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94512",
+    "place": "Thị trấn Thanh An huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94513",
+    "place": "Xã Thạnh Tiến huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94514",
+    "place": "Xã Thạnh Lộc huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94515",
+    "place": "Xã Vĩnh Bình huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94516",
+    "place": "Xã Vĩnh Trinh huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94550",
+    "place": "Bưu cục phát Vĩnh Thạnh huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94551",
+    "place": "Bưu cục Thạnh An huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94552",
+    "place": "Bưu điện văn hóa xã Thạnh Quới 1 huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94553",
+    "place": "Bưu điện văn hóa xã Thạnh An 1 huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94554",
+    "place": "Bưu điện văn hóa xã Vĩnh Trinh 1 huyện Vĩnh Thạnh thành phố Cần Thơ"
+  },
+  {
+    "zip": "94600",
+    "place": "Bưu cục Trung tâm huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94601",
+    "place": "Huyện ủy huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94602",
+    "place": "Hội đồng nhân dân huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94603",
+    "place": "Ủy ban nhân dân huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94606",
+    "place": "Thị trấn Cờ Đỏ huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94607",
+    "place": "Xã Thới Hưng huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94608",
+    "place": "Xã Trung Thạnh huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94609",
+    "place": "Xã Trung An huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94610",
+    "place": "Xã Trung Hưng huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94611",
+    "place": "Xã Thạnh Phú huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94612",
+    "place": "Xã Thới Đông huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94613",
+    "place": "Xã Thới Xuân huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94614",
+    "place": "Xã Đông Thắng huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94615",
+    "place": "Xã Đông Hiệp huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94650",
+    "place": "Bưu cục phát Cờ Đỏ huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94651",
+    "place": "Bưu cục Cờ Đỏ huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94652",
+    "place": "Bưu cục Trung An huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94653",
+    "place": "Bưu điện văn hóa xã Sông Hậu huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94654",
+    "place": "Bưu điện văn hóa xã Nông Trường Cờ Đỏ huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94655",
+    "place": "Bưu điện văn hóa xã Khu Vực Nông Trường Cờ Đỏ huyện Cờ Đỏ thành phố Cần Thơ"
+  },
+  {
+    "zip": "94700",
+    "place": "Bưu cục Trung tâm huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94701",
+    "place": "Huyện ủy huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94702",
+    "place": "Hội đồng nhân dân huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94703",
+    "place": "Ủy ban nhân dân huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94706",
+    "place": "Thị trấn Thới Lai huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94707",
+    "place": "Xã Định Môn huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94708",
+    "place": "Xã Thới Thạnh huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94709",
+    "place": "Xã Tân Thạnh huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94710",
+    "place": "Xã Xuân Thắng huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94711",
+    "place": "Xã Thới Tân huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94712",
+    "place": "Xã Đông Thuận huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94713",
+    "place": "Xã Đông Bình huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94714",
+    "place": "Xã Trường Xuân A huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94715",
+    "place": "Xã Trường Xuân B huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94716",
+    "place": "Xã Trường Xuân huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94717",
+    "place": "Xã Trường Thắng huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94718",
+    "place": "Xã Trường Thành huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94750",
+    "place": "Bưu cục phát Thới Lai huyện Thới Lai thành phố Cần Thơ"
+  },
+  {
+    "zip": "94800",
+    "place": "Bưu cục Trung tâm huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94801",
+    "place": "Huyện ủy huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94802",
+    "place": "Hội đồng nhân dân huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94803",
+    "place": "Ủy ban nhân dân huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94806",
+    "place": "Thị trấn Phong Điền huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94807",
+    "place": "Xã Mỹ Khánh huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94808",
+    "place": "Xã Giai Xuân huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94809",
+    "place": "Xã Tân Thới huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94810",
+    "place": "Xã Trường Long huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94811",
+    "place": "Xã Nhơn Ái huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94812",
+    "place": "Xã Nhơn Nghĩa huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94850",
+    "place": "Bưu cục phát Phong Điền huyện Phong Điền thành phố Cần Thơ"
+  },
+  {
+    "zip": "94900",
+    "place": "Bưu cục Trung tâm quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94901",
+    "place": "Quận ủy quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94902",
+    "place": "Hội đồng nhân dân quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94903",
+    "place": "Ủy ban nhân dân quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94904",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94906",
+    "place": "Phường Lê Bình quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94907",
+    "place": "Phường Ba Láng quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94908",
+    "place": "Phường Thường Thạnh quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94909",
+    "place": "Phường Hưng Thạnh quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94910",
+    "place": "Phường Phú Thứ quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94911",
+    "place": "Phường Tân Phú quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94912",
+    "place": "Phường Hưng Phú quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94950",
+    "place": "Bưu cục phát Cần Thơ quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94951",
+    "place": "Bưu cục phát TMĐT Cần Thơ quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94952",
+    "place": "Bưu cục phát Cái Răng quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94953",
+    "place": "Bưu cục Ba Láng quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94954",
+    "place": "Bưu cục Thường Thạnh quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94955",
+    "place": "Bưu cục Phú Thứ quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94956",
+    "place": "Bưu cục TMĐT Cần Thơ quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94957",
+    "place": "Bưu cục Bưu chính ủy thác quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94958",
+    "place": "Bưu cục Tổ phát thư báo quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94959",
+    "place": "Bưu cục Tổ phát thư CPN quận Cái Răng thành phố Cần Thơ"
+  },
+  {
+    "zip": "94999",
+    "place": "Bưu cục Hệ 1 Cần Thơ quận Cái Răng thành phố Cần Thơ"
+  }
+]

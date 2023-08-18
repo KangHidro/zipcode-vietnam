@@ -1,0 +1,5070 @@
+[
+  {
+    "zip": "10000",
+    "place": "Bưu cục Trung tâm thành phố Hà Nội"
+  },
+  {
+    "zip": "10001",
+    "place": "Ủy ban Kiểm tra Trung ương"
+  },
+  {
+    "zip": "10002",
+    "place": "Ban Tổ chức Trung ương"
+  },
+  {
+    "zip": "10003",
+    "place": "Ban Tuyên giáo Trung ương"
+  },
+  {
+    "zip": "10004",
+    "place": "Ban Dân vận Trung ương"
+  },
+  {
+    "zip": "10005",
+    "place": "Ban Nội chính Trung ương"
+  },
+  {
+    "zip": "10006",
+    "place": "Ban Đối ngoại Trung ương"
+  },
+  {
+    "zip": "10007",
+    "place": "Ban Kinh tế Trung ương"
+  },
+  {
+    "zip": "10008",
+    "place": "Đảng ủy Ngoài nước"
+  },
+  {
+    "zip": "10009",
+    "place": "Đảng ủy khối cơ quan Trung ương"
+  },
+  {
+    "zip": "10010",
+    "place": "Văn phòng Trung ương Đảng"
+  },
+  {
+    "zip": "10011",
+    "place": "Đảng ủy khối doanh nghiệp Trung ương"
+  },
+  {
+    "zip": "10012",
+    "place": "Hội đồng lý luận Trung ương"
+  },
+  {
+    "zip": "10015",
+    "place": "Ban Bảo vệ chăm sóc sức khỏe cán bộ Trung ương"
+  },
+  {
+    "zip": "10016",
+    "place": "Báo Nhân Dân"
+  },
+  {
+    "zip": "10017",
+    "place": "Tạp chí Cộng Sản"
+  },
+  {
+    "zip": "10020",
+    "place": "Văn phòng Chủ tịch nước"
+  },
+  {
+    "zip": "10021",
+    "place": "Ủy ban thường vụ Quốc hội"
+  },
+  {
+    "zip": "10022",
+    "place": "Hội đồng Dân tộc"
+  },
+  {
+    "zip": "10023",
+    "place": "Ủy ban pháp luật"
+  },
+  {
+    "zip": "10024",
+    "place": "Ủy ban tư pháp"
+  },
+  {
+    "zip": "10025",
+    "place": "Ủy ban kinh tế"
+  },
+  {
+    "zip": "10026",
+    "place": "Ủy ban tài chính ngân sách"
+  },
+  {
+    "zip": "10027",
+    "place": "Ủy ban quốc phòng và an ninh"
+  },
+  {
+    "zip": "10028",
+    "place": "Ủy ban văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng"
+  },
+  {
+    "zip": "10029",
+    "place": "Ủy ban các vấn đề xã hội"
+  },
+  {
+    "zip": "10030",
+    "place": "Văn phòng Quốc hội"
+  },
+  {
+    "zip": "10031",
+    "place": "Ủy ban khoa học công nghệ và môi trường"
+  },
+  {
+    "zip": "10032",
+    "place": "Ủy ban đối ngoại"
+  },
+  {
+    "zip": "10033",
+    "place": "Văn phòng Ban chỉ đạo cải cách tư pháp Trung ương"
+  },
+  {
+    "zip": "10035",
+    "place": "Toà án nhân dân tối cao"
+  },
+  {
+    "zip": "10036",
+    "place": "Viện kiểm sát nhân dân tối cao"
+  },
+  {
+    "zip": "10037",
+    "place": "Kiểm toán nhà nước"
+  },
+  {
+    "zip": "10040",
+    "place": "Văn phòng Chính phủ"
+  },
+  {
+    "zip": "10041",
+    "place": "Bộ Công Thương"
+  },
+  {
+    "zip": "10042",
+    "place": "Bộ Kế hoạch và Đầu tư"
+  },
+  {
+    "zip": "10043",
+    "place": "Bộ Lao động-Thương binh và Xã hội"
+  },
+  {
+    "zip": "10044",
+    "place": "Bộ Ngoại giao"
+  },
+  {
+    "zip": "10045",
+    "place": "Bộ Tài chính"
+  },
+  {
+    "zip": "10046",
+    "place": "Bộ Thông tin và Truyền thông"
+  },
+  {
+    "zip": "10047",
+    "place": "Bộ Văn hóa, Thể thao và Du lịch"
+  },
+  {
+    "zip": "10049",
+    "place": "Bộ Công an"
+  },
+  {
+    "zip": "10051",
+    "place": "Bộ Nội vụ"
+  },
+  {
+    "zip": "10052",
+    "place": "Bộ Tư pháp"
+  },
+  {
+    "zip": "10053",
+    "place": "Bộ Giáo dục và Đào tạo"
+  },
+  {
+    "zip": "10054",
+    "place": "Bộ Giao thông vận tải"
+  },
+  {
+    "zip": "10055",
+    "place": "Bộ Khoa học và Công nghệ"
+  },
+  {
+    "zip": "10056",
+    "place": "Bộ Nông nghiệp và Phát triển nông thôn"
+  },
+  {
+    "zip": "10057",
+    "place": "Bộ Tài nguyên và Môi trường"
+  },
+  {
+    "zip": "10058",
+    "place": "Bộ Xây dựng"
+  },
+  {
+    "zip": "10060",
+    "place": "Bộ Y tế"
+  },
+  {
+    "zip": "10061",
+    "place": "Bộ Quốc phòng"
+  },
+  {
+    "zip": "10062",
+    "place": "Ủy ban Dân tộc"
+  },
+  {
+    "zip": "10063",
+    "place": "Ngân hàng Nhà nước"
+  },
+  {
+    "zip": "10064",
+    "place": "Thanh tra Chính phủ"
+  },
+  {
+    "zip": "10065",
+    "place": "Học viện Chính trị Quốc gia Hồ Chí Minh"
+  },
+  {
+    "zip": "10066",
+    "place": "Thông tấn Xã Việt Nam"
+  },
+  {
+    "zip": "10067",
+    "place": "Đài Truyền hình Việt Nam"
+  },
+  {
+    "zip": "10068",
+    "place": "Đài Tiếng nói Việt Nam"
+  },
+  {
+    "zip": "10069",
+    "place": "Ban Quản lý lăng Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "zip": "10070",
+    "place": "Bảo hiểm Xã hội Việt Nam"
+  },
+  {
+    "zip": "10071",
+    "place": "Viện Hàn lâm Khoa học Xã hội Việt Nam"
+  },
+  {
+    "zip": "10072",
+    "place": "Viện Hàn lâm Khoa học và Công nghệ Việt Nam"
+  },
+  {
+    "zip": "10073",
+    "place": "Ban cơ yếu Chính phủ"
+  },
+  {
+    "zip": "10074",
+    "place": "Ban Tôn giáo Chính phủ"
+  },
+  {
+    "zip": "10075",
+    "place": "Ban Thi đua Khen thưởng Trung ương"
+  },
+  {
+    "zip": "10076",
+    "place": "Ủy ban Biên giới quốc gia"
+  },
+  {
+    "zip": "10077",
+    "place": "Ủy ban Giám sát Tài chính Quốc gia"
+  },
+  {
+    "zip": "10078",
+    "place": "Tổng cục Thuế"
+  },
+  {
+    "zip": "10079",
+    "place": "Tổng cục Hải quan"
+  },
+  {
+    "zip": "10080",
+    "place": "Tổng cục Thống kê"
+  },
+  {
+    "zip": "10081",
+    "place": "Kho bạc Nhà nước"
+  },
+  {
+    "zip": "10082",
+    "place": "Ban Dân nguyện"
+  },
+  {
+    "zip": "10083",
+    "place": "Ban công tác Đại biểu"
+  },
+  {
+    "zip": "10084",
+    "place": "Viện nghiên cứu Lập pháp"
+  },
+  {
+    "zip": "10085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam"
+  },
+  {
+    "zip": "10086",
+    "place": "Liên hiệp các tổ chức hữu nghị Việt Nam"
+  },
+  {
+    "zip": "10087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật Việt Nam"
+  },
+  {
+    "zip": "10088",
+    "place": "Tổng Liên đoàn Lao động Việt Nam"
+  },
+  {
+    "zip": "10089",
+    "place": "Hội Nông dân Việt Nam"
+  },
+  {
+    "zip": "10090",
+    "place": "Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+  },
+  {
+    "zip": "10091",
+    "place": "Đoàn Thanh niên Cộng sản Hồ Chí Minh"
+  },
+  {
+    "zip": "10092",
+    "place": "Hội Liên hiệp phụ nữ Việt Nam"
+  },
+  {
+    "zip": "10093",
+    "place": "Hội Cựu chiến binh Việt Nam"
+  },
+  {
+    "zip": "10094",
+    "place": "Ủy ban Quản lý vốn nhà nước tại doanh nghiệp"
+  },
+  {
+    "zip": "10101",
+    "place": "Ủy ban Kiểm tra thành ủy thành phố Hà Nội"
+  },
+  {
+    "zip": "10102",
+    "place": "Ban Tổ chức thành ủy thành phố Hà Nội"
+  },
+  {
+    "zip": "10103",
+    "place": "Ban Tuyên giáo thành ủy thành phố Hà Nội"
+  },
+  {
+    "zip": "10104",
+    "place": "Ban Dân vận thành ủy thành phố Hà Nội"
+  },
+  {
+    "zip": "10105",
+    "place": "Ban Nội chính thành ủy thành phố Hà Nội"
+  },
+  {
+    "zip": "10109",
+    "place": "Đảng ủy khối cơ quan thành phố Hà Nội"
+  },
+  {
+    "zip": "10110",
+    "place": "Thành ủy và Văn phòng thành ủy thành phố Hà Nội"
+  },
+  {
+    "zip": "10111",
+    "place": "Đảng ủy khối doanh nghiệp thành phố Hà Nội"
+  },
+  {
+    "zip": "10116",
+    "place": "Báo Hà Nội Mới"
+  },
+  {
+    "zip": "10121",
+    "place": "Hội đồng Nhân dân thành phố Hà Nội"
+  },
+  {
+    "zip": "10130",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội thành phố Hà Nội"
+  },
+  {
+    "zip": "10135",
+    "place": "Tòa án nhân dân thành phố Hà Nội"
+  },
+  {
+    "zip": "10136",
+    "place": "Viện Kiểm sát nhân dân thành phố Hà Nội"
+  },
+  {
+    "zip": "10137",
+    "place": "Kiểm toán nhà nước khu vực I"
+  },
+  {
+    "zip": "10140",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân thành phố Hà Nội"
+  },
+  {
+    "zip": "10141",
+    "place": "Sở Công Thương thành phố Hà Nội"
+  },
+  {
+    "zip": "10142",
+    "place": "Sở Kế hoạch và Đầu tư thành phố Hà Nội"
+  },
+  {
+    "zip": "10143",
+    "place": "Sở Lao động-Thương binh và Xã hội thành phố Hà Nội"
+  },
+  {
+    "zip": "10144",
+    "place": "Sở Ngoại vụ thành phố Hà Nội"
+  },
+  {
+    "zip": "10145",
+    "place": "Sở Tài chính thành phố Hà Nội"
+  },
+  {
+    "zip": "10146",
+    "place": "Sở Thông tin và Truyền thông thành phố Hà Nội"
+  },
+  {
+    "zip": "10147",
+    "place": "Sở Văn hóa và Thể thao thành phố Hà Nội"
+  },
+  {
+    "zip": "10148",
+    "place": "Sở Du lịch thành phố Hà Nội"
+  },
+  {
+    "zip": "10149",
+    "place": "Công an thành phố Hà Nội"
+  },
+  {
+    "zip": "10150",
+    "place": "Cảnh sát Phòng cháy và Chữa cháy thành phố Hà Nội "
+  },
+  {
+    "zip": "10151",
+    "place": "Sở Nội vụ thành phố Hà Nội"
+  },
+  {
+    "zip": "10152",
+    "place": "Sở Tư pháp thành phố Hà Nội"
+  },
+  {
+    "zip": "10153",
+    "place": "Sở Giáo dục và Đào tạo thành phố Hà Nội"
+  },
+  {
+    "zip": "10154",
+    "place": "Sở Giao thông vận tải thành phố Hà Nội"
+  },
+  {
+    "zip": "10155",
+    "place": "Sở Khoa học và Công nghệ thành phố Hà Nội"
+  },
+  {
+    "zip": "10156",
+    "place": "Sở Nông nghiệp và Phát triển Nông thôn thành phố Hà Nội"
+  },
+  {
+    "zip": "10157",
+    "place": "Sở Tài nguyên và Môi trường thành phố Hà Nội"
+  },
+  {
+    "zip": "10158",
+    "place": "Sở Xây dựng thành phố Hà Nội"
+  },
+  {
+    "zip": "10159",
+    "place": "Sở Quy hoạch-Kiến trúc thành phố Hà Nội"
+  },
+  {
+    "zip": "10160",
+    "place": "Sở Y tế thành phố Hà Nội"
+  },
+  {
+    "zip": "10161",
+    "place": "Bộ tư lệnh Thủ đô thành phố Hà Nội"
+  },
+  {
+    "zip": "10162",
+    "place": "Ban Dân tộc thành phố Hà Nội"
+  },
+  {
+    "zip": "10163",
+    "place": "Ngân hàng nhà nước chi nhánh thành phố Hà Nội"
+  },
+  {
+    "zip": "10164",
+    "place": "Thanh tra thành phố Hà Nội"
+  },
+  {
+    "zip": "10165",
+    "place": "Trường Đào tạo cán bộ Lê Hồng Phong"
+  },
+  {
+    "zip": "10166",
+    "place": "Cơ quan thường trú Thông tấn xã Việt Nam tại Hà Nội "
+  },
+  {
+    "zip": "10167",
+    "place": "Đài Phát thanh và Truyền hình thành phố Hà Nội"
+  },
+  {
+    "zip": "10170",
+    "place": "Bảo hiểm xã hội thành phố Hà Nội"
+  },
+  {
+    "zip": "10178",
+    "place": "Cục Thuế thành phố Hà Nội"
+  },
+  {
+    "zip": "10179",
+    "place": "Cục Hải quan thành phố Hà Nội"
+  },
+  {
+    "zip": "10180",
+    "place": "Cục Thống kê thành phố Hà Nội"
+  },
+  {
+    "zip": "10181",
+    "place": "Kho bạc Nhà nước thành phố Hà Nội"
+  },
+  {
+    "zip": "10185",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật thành phố Hà Nội"
+  },
+  {
+    "zip": "10186",
+    "place": "Liên hiệp các tổ chức hữu nghị thành phố Hà Nội"
+  },
+  {
+    "zip": "10187",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật thành phố Hà Nội"
+  },
+  {
+    "zip": "10188",
+    "place": "Liên đoàn Lao động thành phố Hà Nội"
+  },
+  {
+    "zip": "10189",
+    "place": "Hội Nông dân thành phố Hà Nội"
+  },
+  {
+    "zip": "10190",
+    "place": "Ủy ban mặt trận Tổ quốc Việt Nam thành phố Hà Nội"
+  },
+  {
+    "zip": "10191",
+    "place": "Thành Đoàn thành phố Hà Nội"
+  },
+  {
+    "zip": "10192",
+    "place": "Hội Liên hiệp Phụ nữ thành phố Hà Nội"
+  },
+  {
+    "zip": "10193",
+    "place": "Hội Cựu chiến binh thành phố Hà Nội"
+  },
+  {
+    "zip": "10195",
+    "place": "Điểm phục vụ tại Văn phòng Trung ương"
+  },
+  {
+    "zip": "10196",
+    "place": "Điểm phục vụ tại Văn phòng Quốc hội"
+  },
+  {
+    "zip": "10197",
+    "place": "Điểm phục vụ tại Văn phòng Chính phủ"
+  },
+  {
+    "zip": "10198",
+    "place": "Cục Bưu điện Trung ương"
+  },
+  {
+    "zip": "10199",
+    "place": "Điểm phục vụ Bưu điện CP16"
+  },
+  {
+    "zip": "10200",
+    "place": "Đại sứ quán Cộng hòa A-déc-bai-gian"
+  },
+  {
+    "zip": "10201",
+    "place": "Đại sứ quán Cộng hòa A-rập Ai-cập"
+  },
+  {
+    "zip": "10202",
+    "place": "Đại sứ quán Các tiểu Vương quốc A-rập Thống nhất"
+  },
+  {
+    "zip": "10203",
+    "place": "Đại sứ quán Vương quốc A-rập Xê-út"
+  },
+  {
+    "zip": "10204",
+    "place": "Đại sứ quán Cộng hòa Ả-rập Xi-ri"
+  },
+  {
+    "zip": "10205",
+    "place": "Đại sứ quán Cộng hòa Ác-hen-ti-na"
+  },
+  {
+    "zip": "10206",
+    "place": "Đại sứ quán Cộng hòa Ác-mê-ni-a"
+  },
+  {
+    "zip": "10207",
+    "place": "Đại sứ quán Ai-Len"
+  },
+  {
+    "zip": "10208",
+    "place": "Đại sứ quán Cộng hòa Ai-xơ-len"
+  },
+  {
+    "zip": "10209",
+    "place": "Đại sứ quán Cộng hòa An-ba-ni"
+  },
+  {
+    "zip": "10210",
+    "place": "Đại sứ quán Cộng hòa An-giê-ri Dân chủ và Nhân dân"
+  },
+  {
+    "zip": "10211",
+    "place": "Đại sứ quán Liên hiệp Vương quốc Anh và Bắc Ai-len"
+  },
+  {
+    "zip": "10212",
+    "place": "Đại sứ quán Cộng hòa Áo"
+  },
+  {
+    "zip": "10213",
+    "place": "Đại sứ quán Cộng hòa Ăng-gô-la"
+  },
+  {
+    "zip": "10214",
+    "place": "Đại sứ quán Cộng hòa Ấn-độ"
+  },
+  {
+    "zip": "10215",
+    "place": "Đại sứ quán Cộng hòa Hồi giáo Áp-ga-ni-xtan"
+  },
+  {
+    "zip": "10216",
+    "place": "Đại sứ quán Cộng hòa Ba Lan"
+  },
+  {
+    "zip": "10217",
+    "place": "Đại sứ quán Vương quốc Ba-ranh"
+  },
+  {
+    "zip": "10218",
+    "place": "Đại sứ quán Cộng hòa nhân dân Băng-la-đét"
+  },
+  {
+    "zip": "10219",
+    "place": "Đại sứ quán Cộng hòa Bê-la-rút"
+  },
+  {
+    "zip": "10220",
+    "place": "Đại sứ quán Cộng hòa Bê-nanh"
+  },
+  {
+    "zip": "10221",
+    "place": "Đại sứ quán Vương quốc Bỉ"
+  },
+  {
+    "zip": "10222",
+    "place": "Đại sứ quán Nhà nước Đa dân tộc Bô-li-vi-a"
+  },
+  {
+    "zip": "10223",
+    "place": "Đại sứ quán Cộng hòa Bô-xni-a Hec-dê-gô-vi-na"
+  },
+  {
+    "zip": "10224",
+    "place": "Đại sứ quán Cộng hòa Bồ Đào Nha"
+  },
+  {
+    "zip": "10225",
+    "place": "Đại sứ quán Cộng hòa liên bang Bra-xin"
+  },
+  {
+    "zip": "10226",
+    "place": "Đại sứ quán Cộng hòa Bru-nây"
+  },
+  {
+    "zip": "10227",
+    "place": "Đại sứ quán Vương quốc Bu-tan"
+  },
+  {
+    "zip": "10228",
+    "place": "Đại sứ quán Cộng hòa Bu-run-đi"
+  },
+  {
+    "zip": "10229",
+    "place": "Đại sứ quán Cộng hòa Bun-ga-ri"
+  },
+  {
+    "zip": "10230",
+    "place": "Đại sứ quán Buốc-ki-na Pha-xô"
+  },
+  {
+    "zip": "10231",
+    "place": "Đại sứ quán Cộng hòa Ca-dắc-xtan"
+  },
+  {
+    "zip": "10232",
+    "place": "Đại sứ quán Ca-na-đa"
+  },
+  {
+    "zip": "10233",
+    "place": "Đại sứ quán Nhà nước Ca-ta"
+  },
+  {
+    "zip": "10234",
+    "place": "Đại sứ quán Vương quốc Cam-pu-chia"
+  },
+  {
+    "zip": "10235",
+    "place": "Đại sứ quán Cộng hòa Chi-lê"
+  },
+  {
+    "zip": "10236",
+    "place": "Đại sứ quán Cộng hòa Cô-lôm-bi-a"
+  },
+  {
+    "zip": "10237",
+    "place": "Đại sứ quán Nhà nước Cô-oét"
+  },
+  {
+    "zip": "10238",
+    "place": "Đại sứ quán Cộng hòa Công-gô"
+  },
+  {
+    "zip": "10239",
+    "place": "Đại sứ quán Cộng hòa dân chủ Công-gô"
+  },
+  {
+    "zip": "10240",
+    "place": "Đại sứ quán Cộng hòa Cốt-đi-voa"
+  },
+  {
+    "zip": "10241",
+    "place": "Đại sứ quán Cộng hòa Cro-a-ti-a"
+  },
+  {
+    "zip": "10242",
+    "place": "Đại sứ quán Cộng hòa Cu-ba"
+  },
+  {
+    "zip": "10243",
+    "place": "Đại sứ quán Cộng hòa Dăm-bi-a"
+  },
+  {
+    "zip": "10244",
+    "place": "Đại sứ quán Cộng hòa Dim-ba-bu-ê"
+  },
+  {
+    "zip": "10245",
+    "place": "Đại sứ quán Vương quốc Đan Mạch"
+  },
+  {
+    "zip": "10246",
+    "place": "Đại sứ quán Cộng hòa Đô-mi-ni-ca-na"
+  },
+  {
+    "zip": "10247",
+    "place": "Đại sứ quán Cộng hòa Liên bang Đức"
+  },
+  {
+    "zip": "10248",
+    "place": "Đại sứ quán Cộng hòa Ê-cu-a-đo"
+  },
+  {
+    "zip": "10249",
+    "place": "Đại sứ quán Cộng hòa Dân chủ Liên bang Ê-ti-ô-pi-a"
+  },
+  {
+    "zip": "10250",
+    "place": "Đại sứ quán Nhà nước Ê-ri-tơ-rê-a"
+  },
+  {
+    "zip": "10251",
+    "place": "Đại sứ quán Cộng hòa En-xan-va-đo"
+  },
+  {
+    "zip": "10252",
+    "place": "Liên minh Châu Âu Phái đoàn Liên minh Châu Âu"
+  },
+  {
+    "zip": "10253",
+    "place": "Đại sứ quán Cộng hòa E-xtô-ni-a"
+  },
+  {
+    "zip": "10254",
+    "place": "Đại sứ quán Cộng hòa Ga-bông"
+  },
+  {
+    "zip": "10255",
+    "place": "Đại sứ quán Cộng hòa Ga-na"
+  },
+  {
+    "zip": "10256",
+    "place": "Đại sứ quán Cộng hòa Gi-bu-ti"
+  },
+  {
+    "zip": "10257",
+    "place": "Đại sứ quán Cộng hòa Ghi-nê"
+  },
+  {
+    "zip": "10258",
+    "place": "Đại sứ quán Cộng hòa Ghi-nê Xích Đạo"
+  },
+  {
+    "zip": "10259",
+    "place": "Đại sứ quán Cộng hòa Gru-đi-a"
+  },
+  {
+    "zip": "10260",
+    "place": "Đại sứ quán Gia-mai-ca"
+  },
+  {
+    "zip": "10261",
+    "place": "Đại sứ quán Vương quốc Ha-si-mít Gioóc-đa-ni"
+  },
+  {
+    "zip": "10262",
+    "place": "Đại sứ quán Vương quốc Hà Lan"
+  },
+  {
+    "zip": "10263",
+    "place": "Đại sứ quán Cộng hòa Ha-i-ti"
+  },
+  {
+    "zip": "10264",
+    "place": "Đại sứ quán Đại Hàn Dân Quốc"
+  },
+  {
+    "zip": "10265",
+    "place": "Đại sứ quán Hợp chủng quốc Hoa Kỳ"
+  },
+  {
+    "zip": "10266",
+    "place": "Đại sứ quán Hung-ga-ri"
+  },
+  {
+    "zip": "10267",
+    "place": "Đại sứ quán Cộng hòa Hy Lạp"
+  },
+  {
+    "zip": "10268",
+    "place": "Đại sứ quán Cộng hòa Hồi giáo I-ran"
+  },
+  {
+    "zip": "10269",
+    "place": "Đại sứ quán Cộng hòa I-ta-li-a"
+  },
+  {
+    "zip": "10270",
+    "place": "Đại sứ quán Cộng hòa In-đô-nê-xi-a"
+  },
+  {
+    "zip": "10271",
+    "place": "Đại sứ quán Nhà nước I-xra-en"
+  },
+  {
+    "zip": "10272",
+    "place": "Đại sứ quán Cộng hòa Kê-ni-a"
+  },
+  {
+    "zip": "10273",
+    "place": "Đại sứ quán Cộng hòa Lát-vi-a"
+  },
+  {
+    "zip": "10274",
+    "place": "Đại sứ quán Cộng hòa Dân chủ Nhân dân Lào"
+  },
+  {
+    "zip": "10275",
+    "place": "Đại sứ quán Vương quốc Lê-xô-thô"
+  },
+  {
+    "zip": "10276",
+    "place": "Đại sứ quán Nhà nước Li-bi"
+  },
+  {
+    "zip": "10277",
+    "place": "Đại sứ quán Cộng hòa Lít-va"
+  },
+  {
+    "zip": "10278",
+    "place": "Đại sứ quán Đại Công quốc Lúc-xăm-bua"
+  },
+  {
+    "zip": "10279",
+    "place": "Đại sứ quán Cộng hòa Ma-đa-ga-xca"
+  },
+  {
+    "zip": "10280",
+    "place": "Đại sứ quán Ma-lai-xi-a"
+  },
+  {
+    "zip": "10281",
+    "place": "Đại sứ quán Cộng hòa Ma-li"
+  },
+  {
+    "zip": "10282",
+    "place": "Đại sứ quán Vương quốc Ma Rốc"
+  },
+  {
+    "zip": "10283",
+    "place": "Đại sứ quán Cộng hòa Ma-xê-đô-ni-a"
+  },
+  {
+    "zip": "10284",
+    "place": "Đại sứ quán Cộng hòa Man-đi-vơ"
+  },
+  {
+    "zip": "10285",
+    "place": "Đại sứ quán Cộng hòa Man-ta"
+  },
+  {
+    "zip": "10286",
+    "place": "Đại sứ quán Liên bang Mai-crô-nê-xi-a"
+  },
+  {
+    "zip": "10287",
+    "place": "Đại sứ quán Liên bang Mê-hi-cô"
+  },
+  {
+    "zip": "10288",
+    "place": "Đại sứ quán Cộng hòa Mi-an-ma"
+  },
+  {
+    "zip": "10289",
+    "place": "Đại sứ quán Cộng hòa Mô-dăm-bích"
+  },
+  {
+    "zip": "10290",
+    "place": "Đại sứ quán Cộng hòa Hồi giáo Mô-ri-ta-ni"
+  },
+  {
+    "zip": "10291",
+    "place": "Đại sứ quán Cộng hòa Môn-đô-va"
+  },
+  {
+    "zip": "10292",
+    "place": "Lãnh sự quán Mô-na-cô"
+  },
+  {
+    "zip": "10293",
+    "place": "Đại sứ quán Mông cổ"
+  },
+  {
+    "zip": "10294",
+    "place": "Đại sứ quán Vương quốc Na uy"
+  },
+  {
+    "zip": "10295",
+    "place": "Đại sứ quán Cộng hòa Nam-mi-bia"
+  },
+  {
+    "zip": "10296",
+    "place": "Đại sứ quán Cộng hòa Nam Phi"
+  },
+  {
+    "zip": "10297",
+    "place": "Đại sứ quán Cộng hòa Dân chủ liên bang Nê-pan"
+  },
+  {
+    "zip": "10298",
+    "place": "Đại sứ quán Liên bang Nga"
+  },
+  {
+    "zip": "10299",
+    "place": "Đại sứ quán Nhật Bản"
+  },
+  {
+    "zip": "10300",
+    "place": "Đại sứ quán Cộng hòa Liên bang Ni-giê-ri-a"
+  },
+  {
+    "zip": "10301",
+    "place": "Đại sứ quán Niu Di-lân"
+  },
+  {
+    "zip": "10302",
+    "place": "Đại sứ quán Vương quốc Ô-man"
+  },
+  {
+    "zip": "10303",
+    "place": "Đại sứ quán Ô-xtơ-rây-li-a"
+  },
+  {
+    "zip": "10304",
+    "place": "Đại sứ quán Cộng hòa hồi giáo Pa-ki-xtan"
+  },
+  {
+    "zip": "10305",
+    "place": "Đại sứ quán Cộng hòa Pa-lau"
+  },
+  {
+    "zip": "10306",
+    "place": "Đại sứ quán Nhà nước Pa-le-xtin"
+  },
+  {
+    "zip": "10307",
+    "place": "Đại sứ quán Cộng hòa Pa-na-ma"
+  },
+  {
+    "zip": "10308",
+    "place": "Đại sứ quán Nhà nước Pa-pua Niu Ghi-nê Độc lập"
+  },
+  {
+    "zip": "10309",
+    "place": "Đại sứ quán Cộng hòa Pa-ra-guay"
+  },
+  {
+    "zip": "10310",
+    "place": "Đại sứ quán Cộng hòa Pê-ru"
+  },
+  {
+    "zip": "10311",
+    "place": "Lãnh sự quán Cộng hòa Pê-ru"
+  },
+  {
+    "zip": "10312",
+    "place": "Đại sứ quán Cộng hòa Pháp"
+  },
+  {
+    "zip": "10313",
+    "place": "Đại sứ quán Cộng hòa Phần lan"
+  },
+  {
+    "zip": "10314",
+    "place": "Đại sứ quán Cộng hòa Phi-líp-pin"
+  },
+  {
+    "zip": "10315",
+    "place": "Đại sứ quán Cộng hòa Ru-an-đa"
+  },
+  {
+    "zip": "10316",
+    "place": "Đại sứ quán Ru-ma-ni"
+  },
+  {
+    "zip": "10317",
+    "place": "Lãnh sự quán San Ma-ri-nô"
+  },
+  {
+    "zip": "10318",
+    "place": "Đại sứ quán Cộng hòa Séc"
+  },
+  {
+    "zip": "10319",
+    "place": "Đại sứ quán Cộng hòa Sê-nê-gan"
+  },
+  {
+    "zip": "10320",
+    "place": "Đại sứ quán Cộng hòa Si-ê-ra Lê-ôn"
+  },
+  {
+    "zip": "10321",
+    "place": "Đại sứ quán Cộng hòa Síp"
+  },
+  {
+    "zip": "10322",
+    "place": "Đại sứ quán Cộng hòa Thống nhất Tan-da-ni-a"
+  },
+  {
+    "zip": "10323",
+    "place": "Đại sứ quán Vương quốc Tây Ban Nha"
+  },
+  {
+    "zip": "10324",
+    "place": "Đại sứ quán Vương quốc Thái Lan"
+  },
+  {
+    "zip": "10325",
+    "place": "Đại sứ quán Cộng hòa Thổ Nhĩ Kỳ"
+  },
+  {
+    "zip": "10326",
+    "place": "Đại sứ quán Thụy Điển"
+  },
+  {
+    "zip": "10327",
+    "place": "Đại sứ quán Liên Bang Thụy Sỹ"
+  },
+  {
+    "zip": "10328",
+    "place": "Đại sứ quán Cộng hòa Tô-gô"
+  },
+  {
+    "zip": "10329",
+    "place": "Đại sứ quán Cộng hòa Dân chủ Nhân dân Triều Tiên"
+  },
+  {
+    "zip": "10330",
+    "place": "Đại sứ quán Cộng hòa Dân chủ Nhân dân Trung Hoa"
+  },
+  {
+    "zip": "10331",
+    "place": "Đại sứ quán Cộng hòa Dân chủ Ti-mo Lex-te"
+  },
+  {
+    "zip": "10332",
+    "place": "Đại sứ quán Cộng hòa Tuy-ni-di"
+  },
+  {
+    "zip": "10333",
+    "place": "Đại sứ quán U-crai-na"
+  },
+  {
+    "zip": "10334",
+    "place": "Đại sứ quán Cộng hòa U-dơ-bê-ki-xtan"
+  },
+  {
+    "zip": "10335",
+    "place": "Lãnh sự quán Cộng hòa U-dơ-bê-ki-xtan"
+  },
+  {
+    "zip": "10336",
+    "place": "Đại sứ quán Cộng hòa U-gan-da"
+  },
+  {
+    "zip": "10337",
+    "place": "Đại sứ quán Cộng hòa Đông U-ru-goay"
+  },
+  {
+    "zip": "10338",
+    "place": "Đại sứ quán Cộng hòa Bô-li-va Ri-a-na Vê-nê-du-ê-la"
+  },
+  {
+    "zip": "10339",
+    "place": "Đại sứ quán Cộng hòa Xây-sen"
+  },
+  {
+    "zip": "10340",
+    "place": "Lãnh sự quán Cộng hòa Xây-sen"
+  },
+  {
+    "zip": "10341",
+    "place": "Đại sứ quán Cộng hòa Xéc-bi-a"
+  },
+  {
+    "zip": "10342",
+    "place": "Đại sứ quán Cộng hòa Xinh-ga-po"
+  },
+  {
+    "zip": "10343",
+    "place": "Đại sứ quán Cộng hòa Xlô-va-ki-a"
+  },
+  {
+    "zip": "10344",
+    "place": "Đại sứ quán Cộng hòa Xlô-ven-ni-a"
+  },
+  {
+    "zip": "10345",
+    "place": "Đại sứ quán Cộng hòa Liên bang Xô-ma-li"
+  },
+  {
+    "zip": "10346",
+    "place": "Đại sứ quán Cộng hòa XHCN Dân chủ Xri-lan-ca"
+  },
+  {
+    "zip": "10347",
+    "place": "Đại sứ quán Cộng hòa Xu-đăng"
+  },
+  {
+    "zip": "10348",
+    "place": "Đại sứ quán Cộng hòa Y-ê-men"
+  },
+  {
+    "zip": "10349",
+    "place": "Chương trình của Liên hợp quốc về Phát triển"
+  },
+  {
+    "zip": "10350",
+    "place": "Quỹ Nhi đồng Liên hợp quốc"
+  },
+  {
+    "zip": "10351",
+    "place": "Quỹ Dân số Liêp hợp quốc"
+  },
+  {
+    "zip": "10352",
+    "place": "Cơ quan phòng chống Ma Túy và Tội phạm của Liên hợp quốc "
+  },
+  {
+    "zip": "10353",
+    "place": "Tổ chức Lương thực và Nông nghiệp của Liên hợp quốc "
+  },
+  {
+    "zip": "10354",
+    "place": "Chương trình phối hợp của Liên hợp quốc tế về HIV/AIDS"
+  },
+  {
+    "zip": "10355",
+    "place": "Tổ chức Giáo dục, Khoa học và Văn hóa của Liên hợp quốc"
+  },
+  {
+    "zip": "10356",
+    "place": "Tổ chức Phát triển Công nghiệp Liên hợp quốc"
+  },
+  {
+    "zip": "10357",
+    "place": "Tổ chức y tế Thế giới"
+  },
+  {
+    "zip": "10358",
+    "place": "Ngân hàng Phát triển Châu Á"
+  },
+  {
+    "zip": "10359",
+    "place": "Quỹ Tiền tệ Quốc tế"
+  },
+  {
+    "zip": "10360",
+    "place": "Ngân hàng Thế giới"
+  },
+  {
+    "zip": "10361",
+    "place": "Tổ chức Tài chính Quốc tế"
+  },
+  {
+    "zip": "10362",
+    "place": "Tổ chức Quốc tế Pháp ngữ Văn phòng khu vực Châu Á- Thái Bình Dương"
+  },
+  {
+    "zip": "10363",
+    "place": "Tổ chức di cư Quốc tế"
+  },
+  {
+    "zip": "10364",
+    "place": "Tổ chức Lao động Quốc tế"
+  },
+  {
+    "zip": "10365",
+    "place": "Quỹ Phát triển Nông nghiệp Quốc tế"
+  },
+  {
+    "zip": "10366",
+    "place": "Tổ chức Liên hợp quốc về bình đẳng giới và tăng quyền cho Phụ nữ"
+  },
+  {
+    "zip": "11000",
+    "place": "Bưu cục Trung tâm quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11001",
+    "place": "Quận ủy quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11002",
+    "place": "Hội đồng nhân dân quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11003",
+    "place": "Ủy ban nhân dân quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11004",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11006",
+    "place": "Phường Hàng Trống quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11007",
+    "place": "Phường Lý Thái Tổ quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11008",
+    "place": "Phường Phúc Tân quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11009",
+    "place": "Phường Đồng Xuân quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11010",
+    "place": "Phường Hàng Buồm quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11011",
+    "place": "Phường Hàng Bạc quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11012",
+    "place": "Phường Hàng Đào quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11013",
+    "place": "Phường Hàng Mã quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11014",
+    "place": "Phường Hàng Bồ quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11015",
+    "place": "Phường Hàng Gai quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11016",
+    "place": "Phường Cửa Đông quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11017",
+    "place": "Phường Hàng Bông quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11018",
+    "place": "Phường Cửa Nam quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11019",
+    "place": "Phường Trần Hưng Đạo quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11020",
+    "place": "Phường Hàng Bài quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11021",
+    "place": "Phường Phan Chu Trinh quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11022",
+    "place": "Phường Tràng Tiền quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11023",
+    "place": "Phường Chương Dương quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11050",
+    "place": "Bưu cục phát Tràng Tiền quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11051",
+    "place": "Bưu cục KHL Tràng Tiền quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11052",
+    "place": "Bưu cục KHL Hoàn Kiếm quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11053",
+    "place": "Bưu cục KHL Ba Đình quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11054",
+    "place": "Bưu cục Quốc Tế quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11055",
+    "place": "Bưu cục Đại Sứ"
+  },
+  {
+    "zip": "11056",
+    "place": "Bưu cục Phát Nhanh quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11057",
+    "place": "Bưu cục Lương Văn Can quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11058",
+    "place": "Bưu cục Đồng Xuân quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11059",
+    "place": "Bưu cục Hàng Cót quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11060",
+    "place": "Bưu cục Cửa Nam quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11061",
+    "place": "Bưu cục Ga Hà Nội quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11062",
+    "place": "Bưu cục Tháp Hà Nội quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11063",
+    "place": "Bưu cục Giao Dịch 5 quận Hoàn Kiếm thành phố Hà Nội"
+  },
+  {
+    "zip": "11100",
+    "place": "Bưu cục Trung tâm quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11101",
+    "place": "Quận ủy quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11102",
+    "place": "Hội đồng nhân dân quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11103",
+    "place": "Ủy ban nhân dân quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11104",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11106",
+    "place": "Phường Liễu Giai quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11107",
+    "place": "Phường Vĩnh Phúc quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11108",
+    "place": "Phường Cống Vị quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11109",
+    "place": "Phường Ngọc Khánh quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11110",
+    "place": "Phường Giảng Võ quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11111",
+    "place": "Phường Thành Công quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11112",
+    "place": "Phường Kim Mã quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11113",
+    "place": "Phường Đội Cấn quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11114",
+    "place": "Phường Điện Biên quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11115",
+    "place": "Phường Nguyễn Trung Trực quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11116",
+    "place": "Phường Phúc Xá quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11117",
+    "place": "Phường Trúc Bạch quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11118",
+    "place": "Phường Quán Thánh quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11119",
+    "place": "Phường Ngọc Hà quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11150",
+    "place": "Bưu cục phát Ba Đình 1 quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11151",
+    "place": "Bưu cục phát Ba Đình 2 quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11152",
+    "place": "Bưu cục phát Hoàn Kiếm quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11153",
+    "place": "Bưu cục Vĩnh Phúc quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11154",
+    "place": "Bưu cục Cống Vị quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11155",
+    "place": "Bưu cục Giảng Võ quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11156",
+    "place": "Bưu cục Nguyễn Thái Học quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11157",
+    "place": "Bưu cục Quán Thánh quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11158",
+    "place": "Bưu cục Thanh Niên quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11159",
+    "place": "Bưu cục Giao dịch 3 quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11198",
+    "place": "Bưu cục HCC Hoàn Kiếm quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11199",
+    "place": "Bưu cục Hệ 1 Hà Nội quận Ba Đình thành phố Hà Nội"
+  },
+  {
+    "zip": "11200",
+    "place": "Bưu cục Trung tâm quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11201",
+    "place": "Quận ủy quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11202",
+    "place": "Hội đồng nhân dân quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11203",
+    "place": "Ủy ban nhân dân quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11204",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11206",
+    "place": "Phường Xuân La quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11207",
+    "place": "Phường Quảng An quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11208",
+    "place": "Phường Tứ Liên quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11209",
+    "place": "Phường Nhật Tân quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11210",
+    "place": "Phường Phú Thượng quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11211",
+    "place": "Phường Bưởi quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11212",
+    "place": "Phường Thuỵ Khuê quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11213",
+    "place": "Phường Yên Phụ quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11250",
+    "place": "Bưu cục phát Tây Hồ 1 quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11251",
+    "place": "Bưu cục KĐT Ciputra quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11252",
+    "place": "Bưu cục Lạc Long Quân quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11253",
+    "place": "Bưu cục Âu Cơ quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11254",
+    "place": "Bưu cục Yên Thái quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11255",
+    "place": "Bưu cục Yên Phụ quận Tây Hồ thành phố Hà Nội"
+  },
+  {
+    "zip": "11300",
+    "place": "Bưu cục Trung tâm quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11301",
+    "place": "Quận ủy quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11302",
+    "place": "Hội đồng nhân dân quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11303",
+    "place": "Ủy ban nhân dân quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11304",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11306",
+    "place": "Phường Quan Hoa quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11307",
+    "place": "Phường Nghĩa Đô quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11308",
+    "place": "Phường Nghĩa Tân quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11309",
+    "place": "Phường Mai Dịch quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11310",
+    "place": "Phường Dịch Vọng Hậu quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11311",
+    "place": "Phường Dịch Vọng quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11312",
+    "place": "Phường Yên Hoà quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11313",
+    "place": "Phường Trung Hoà quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11350",
+    "place": "Bưu cục phát Cầu Giấy 1 quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11351",
+    "place": "Bưu cục phát Cầu Giấy 2 quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11352",
+    "place": "Bưu cục KHL Cầu Giấy quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11353",
+    "place": "Bưu cục Hoàng Sâm quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11354",
+    "place": "Bưu cục Nghĩa Tân quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11355",
+    "place": "Bưu cục Hoàng Quốc Việt quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11356",
+    "place": "Bưu cục Nguyễn Khánh Toàn quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11357",
+    "place": "Bưu cục KHL Trung Yên quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11358",
+    "place": "Bưu cục Trung Hòa quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11398",
+    "place": "Bưu cục HCC Đống Đa quận Cầu Giấy thành phố Hà Nội"
+  },
+  {
+    "zip": "11400",
+    "place": "Bưu cục Trung tâm quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11401",
+    "place": "Quận ủy quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11402",
+    "place": "Hội đồng nhân dân quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11403",
+    "place": "Ủy ban nhân dân quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11404",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11406",
+    "place": "Phường Thanh Xuân Bắc quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11407",
+    "place": "Phường Thanh Xuân Nam quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11408",
+    "place": "Phường Hạ Đình quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11409",
+    "place": "Phường Kim Giang quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11410",
+    "place": "Phường Khương Đình quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11411",
+    "place": "Phường Khương Mai quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11412",
+    "place": "Phường Phương Liệt quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11413",
+    "place": "Phường Khương Trung quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11414",
+    "place": "Phường Thượng Đình quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11415",
+    "place": "Phường Nhân Chính quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11416",
+    "place": "Phường Thanh Xuân Trung quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11450",
+    "place": "Bưu cục phát Thanh Xuân quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11451",
+    "place": "Bưu cục phát TMĐT Thanh Xuân quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11452",
+    "place": "Bưu cục KHL Thanh Xuân quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11453",
+    "place": "Bưu cục Thanh Xuân Bắc quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11454",
+    "place": "Bưu cục Bùi Xương Trạch quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11455",
+    "place": "Bưu cục Khương Mai quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11456",
+    "place": "Bưu cục Phương Liệt quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11457",
+    "place": "Bưu cục Khương Đình quận Thanh Xuân thành phố Hà Nội"
+  },
+  {
+    "zip": "11500",
+    "place": "Bưu cục Trung tâm quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11501",
+    "place": "Quận ủy quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11502",
+    "place": "Hội đồng nhân dân quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11503",
+    "place": "Ủy ban nhân dân quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11504",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11506",
+    "place": "Phường Hàng Bột quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11507",
+    "place": "Phường Văn Chương quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11508",
+    "place": "Phường Văn Miếu quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11509",
+    "place": "Phường Quốc Tử Giám quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11510",
+    "place": "Phường Cát Linh quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11511",
+    "place": "Phường Ô Chợ Dừa quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11512",
+    "place": "Phường Láng Thượng quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11513",
+    "place": "Phường Láng Hạ quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11514",
+    "place": "Phường Quang Trung quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11515",
+    "place": "Phường Trung Liệt quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11516",
+    "place": "Phường Thịnh Quang quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11517",
+    "place": "Phường Ngã Tư Sở quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11518",
+    "place": "Phường Khương Thượng quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11519",
+    "place": "Phường Phương Mai quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11520",
+    "place": "Phường Kim Liên quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11521",
+    "place": "Phường Trung Tự quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11522",
+    "place": "Phường Phương Liên quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11523",
+    "place": "Phường Trung Phụng quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11524",
+    "place": "Phường Nam Đồng quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11525",
+    "place": "Phường Thổ Quan quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11526",
+    "place": "Phường Khâm Thiên quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11550",
+    "place": "Bưu cục phát Đống Đa 1 quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11551",
+    "place": "Bưu cục phát Đống Đa 2 quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11552",
+    "place": "Bưu cục KHL Đống Đa quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11553",
+    "place": "Bưu cục Hoàng Cầu quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11554",
+    "place": "Bưu cục Láng Trung quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11555",
+    "place": "Bưu cục Đặng Tiến Đông quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11556",
+    "place": "Bưu cục Kim Liên quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11557",
+    "place": "Bưu cục Xã Đàn quận Đống Đa thành phố Hà Nội"
+  },
+  {
+    "zip": "11600",
+    "place": "Bưu cục Trung tâm quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11601",
+    "place": "Quận ủy quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11602",
+    "place": "Hội đồng nhân dân quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11603",
+    "place": "Ủy ban nhân dân quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11604",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11606",
+    "place": "Phường Lê Đại Hành quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11607",
+    "place": "Phường Phố Huế quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11608",
+    "place": "Phường Đồng Nhân quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11609",
+    "place": "Phường Đống Mác quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11610",
+    "place": "Phường Bạch Đằng quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11611",
+    "place": "Phường Phạm Đình Hổ quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11612",
+    "place": "Phường Ngô Thì Nhậm quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11613",
+    "place": "Phường Bùi Thị Xuân quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11614",
+    "place": "Phường Nguyễn Du quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11615",
+    "place": "Phường Bách Khoa quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11616",
+    "place": "Phường Đồng Tâm quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11617",
+    "place": "Phường Trương Định quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11618",
+    "place": "Phường Bạch Mai quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11619",
+    "place": "Phường Minh Khai quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11620",
+    "place": "Phường Quỳnh Lôi quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11621",
+    "place": "Phường Quỳnh Mai quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11622",
+    "place": "Phường Vĩnh Tuy quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11623",
+    "place": "Phường Thanh Lương quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11624",
+    "place": "Phường Thanh Nhàn quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11625",
+    "place": "Phường Cầu Dền quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11650",
+    "place": "Bưu cục phát Hai Bà Trưng 1 quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11651",
+    "place": "Bưu cục phát Hai Bà Trưng 2 quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11652",
+    "place": "Bưu cục phát TMĐT Bạch Đằng quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11653",
+    "place": "Bưu cục Giao dịch 6 quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11654",
+    "place": "Bưu cục Nguyễn Công Trứ quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11655",
+    "place": "Bưu cục Lò Đúc quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11656",
+    "place": "Bưu cục Đầm Trấu quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11657",
+    "place": "Bưu cục Bách Khoa quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11658",
+    "place": "Bưu cục Chợ Mơ quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11659",
+    "place": "Bưu cục KHL Hai Bà Trưng quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11660",
+    "place": "Bưu cục TMĐT Bạch Đằng quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11661",
+    "place": "Bưu cục Lạc Trung quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11662",
+    "place": "Bưu cục Võ Thị Sáu quận Hai Bà Trưng thành phố Hà Nội"
+  },
+  {
+    "zip": "11700",
+    "place": "Bưu cục Trung tâm quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11701",
+    "place": "Quận ủy quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11702",
+    "place": "Hội đồng nhân dân quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11703",
+    "place": "Ủy ban nhân dân quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11704",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11706",
+    "place": "Phường Thịnh Liệt quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11707",
+    "place": "Phường Yên Sở quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11708",
+    "place": "Phường Trần Phú quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11709",
+    "place": "Phường Lĩnh Nam quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11710",
+    "place": "Phường Mai Động quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11711",
+    "place": "Phường Thanh Trì quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11712",
+    "place": "Phường Vĩnh Hưng quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11713",
+    "place": "Phường Hoàng Văn Thụ quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11714",
+    "place": "Phường Tân Mai quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11715",
+    "place": "Phường Tương Mai quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11716",
+    "place": "Phường Giáp Bát quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11717",
+    "place": "Phường Định Công quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11718",
+    "place": "Phường Đại Kim quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11719",
+    "place": "Phường Hoàng Liệt quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11750",
+    "place": "Bưu cục phát Hoàng Mai quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11751",
+    "place": "Bưu cục phát TMĐT Hoàng Mai quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11752",
+    "place": "Bưu cục phát Bưu Tá Trần Phú quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11753",
+    "place": "Bưu cục Trần Phú quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11754",
+    "place": "Bưu cục Tam Trinh quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11755",
+    "place": "Bưu cục Nguyễn An Ninh quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11756",
+    "place": "Bưu cục Đô Thị Định Công quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11757",
+    "place": "Bưu cục Bắc Linh Đàm quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11758",
+    "place": "Bưu cục Nguyễn Hữu Thọ quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11798",
+    "place": "Bưu cục HCC Hai Bà Trưng quận Hoàng Mai thành phố Hà Nội"
+  },
+  {
+    "zip": "11800",
+    "place": "Bưu cục Trung tâm quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11801",
+    "place": "Quận ủy quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11802",
+    "place": "Hội đồng nhân dân quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11803",
+    "place": "Ủy ban nhân dân quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11804",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11806",
+    "place": "Phường Việt Hưng quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11807",
+    "place": "Phường Giang Biên quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11808",
+    "place": "Phường Thượng Thanh quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11809",
+    "place": "Phường Đức Giang quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11810",
+    "place": "Phường Ngọc Thuỵ quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11811",
+    "place": "Phường Ngọc Lâm quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11812",
+    "place": "Phường Gia Thuỵ quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11813",
+    "place": "Phường Bồ Đề quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11814",
+    "place": "Phường Long Biên quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11815",
+    "place": "Phường Cự Khối quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11816",
+    "place": "Phường Thạch Bàn quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11817",
+    "place": "Phường Phúc Lợi quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11818",
+    "place": "Phường Sài Đồng quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11819",
+    "place": "Phường Phúc Đồng quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11850",
+    "place": "Bưu cục phát Long Biên quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11851",
+    "place": "Bưu cục KHL Trung tâm 5 quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11852",
+    "place": "Bưu cục Đức Giang quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11853",
+    "place": "Bưu cục Ngô Gia Tự quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11854",
+    "place": "Bưu cục Long Biên quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11855",
+    "place": "Bưu cục Nguyễn Văn Cừ quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11856",
+    "place": "Bưu cục Sài Đồng quận Long Biên thành phố Hà Nội"
+  },
+  {
+    "zip": "11900",
+    "place": "Bưu cục Trung tâm quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11901",
+    "place": "Quận ủy quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11902",
+    "place": "Hội đồng nhân dân quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11903",
+    "place": "Ủy ban nhân dân quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11904",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11906",
+    "place": "Phường Phúc Diễn quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11907",
+    "place": "Phường Cổ Nhuế 2 quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11908",
+    "place": "Phường Xuân Đỉnh quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11909",
+    "place": "Phường Đông Ngạc quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11910",
+    "place": "Phường Đức Thắng quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11911",
+    "place": "Phường Liên Mạc quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11912",
+    "place": "Phường Thượng Cát quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11913",
+    "place": "Phường Thuỵ Phương quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11914",
+    "place": "Phường Tây Tựu quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11915",
+    "place": "Phường Minh Khai quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11916",
+    "place": "Phường Phú Diễn quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11917",
+    "place": "Phường Cổ Nhuế 1 quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11918",
+    "place": "Phường Xuân Tảo quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11950",
+    "place": "Bưu cục phát Bắc Từ Liêm quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11951",
+    "place": "Bưu cục KHL Thăng Long 1 quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11952",
+    "place": "Bưu cục Tân Xuân quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11953",
+    "place": "Bưu cục Tài Chính quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11954",
+    "place": "Bưu cục Nhổn 1 quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11955",
+    "place": "Bưu cục Nhổn 2 quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "11956",
+    "place": "Bưu cục Cổ Nhuế quận Bắc Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12000",
+    "place": "Bưu cục Trung tâm quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12001",
+    "place": "Quận ủy quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12002",
+    "place": "Hội đồng nhân dân quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12003",
+    "place": "Ủy ban nhân dân quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12004",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12006",
+    "place": "Phường Cầu Diễn quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12007",
+    "place": "Phường Phương Canh quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12008",
+    "place": "Phường Xuân Phương quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12009",
+    "place": "Phường Tây Mỗ quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12010",
+    "place": "Phường Đại Mỗ quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12011",
+    "place": "Phường Trung Văn quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12012",
+    "place": "Phường Mễ Trì quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12013",
+    "place": "Phường Phú Đô quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12014",
+    "place": "Phường Mỹ Đình 2 quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12015",
+    "place": "Phường Mỹ Đình 1 quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12050",
+    "place": "Bưu cục phát Từ Liêm quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12051",
+    "place": "Bưu cục phát TMĐT Nguyễn Cơ Thạch quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12052",
+    "place": "Bưu cục phát Ngoại Dịch quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12053",
+    "place": "Bưu cục phát Phạm Hùng quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12054",
+    "place": "Bưu cục Xuân Phương quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12055",
+    "place": "Bưu cục Đại Mỗ quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12056",
+    "place": "Bưu cục Ngoại Dịch quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12057",
+    "place": "Bưu cục Nội Dịch quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12058",
+    "place": "Bưu cục KHL Thăng Long quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12059",
+    "place": "Bưu cục KHL Mỹ Đình quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12060",
+    "place": "Bưu cục TMĐT Nguyễn Cơ Thạch quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12061",
+    "place": "Bưu cục TMĐT Thường Tín quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12062",
+    "place": "Bưu cục Thăng Long quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12063",
+    "place": "Bưu cục Mỹ Đình 2 quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12064",
+    "place": "Bưu cục Mỹ Đình 3 quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12098",
+    "place": "Bưu cục HCC Từ Liêm quận Nam Từ Liêm thành phố Hà Nội"
+  },
+  {
+    "zip": "12100",
+    "place": "Bưu cục Trung tâm quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12101",
+    "place": "Quận ủy quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12102",
+    "place": "Hội đồng nhân dân quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12103",
+    "place": "Ủy ban nhân dân quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12104",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12106",
+    "place": "Phường Hà Cầu quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12107",
+    "place": "Phường Nguyễn Trãi quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12108",
+    "place": "Phường Phúc La quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12109",
+    "place": "Phường Văn Quán quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12110",
+    "place": "Phường Mộ Lao quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12111",
+    "place": "Phường Yết Kiêu quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12112",
+    "place": "Phường Vạn Phúc quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12113",
+    "place": "Phường La Khê quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12114",
+    "place": "Phường Dương Nội quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12115",
+    "place": "Phường Quang Trung quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12116",
+    "place": "Phường Yên Nghĩa quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12117",
+    "place": "Phường Biên Giang quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12118",
+    "place": "Phường Đồng Mai quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12119",
+    "place": "Phường Phú Lãm quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12120",
+    "place": "Phường Phú Lương quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12121",
+    "place": "Phường Kiến Hưng quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12122",
+    "place": "Phường Phú La quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12150",
+    "place": "Bưu cục phát Hà Đông 1 quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12151",
+    "place": "Bưu cục phát Hà Đông 2 quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12152",
+    "place": "Bưu cục KHL Hà Đông quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12153",
+    "place": "Bưu cục KHL Văn Phú quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12154",
+    "place": "Bưu cục Lê Lợi quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12155",
+    "place": "Bưu cục Nguyễn Chánh quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12156",
+    "place": "Bưu cục Văn Mỗ quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12157",
+    "place": "Bưu cục Nguyễn Trãi quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12158",
+    "place": "Bưu cục La Khê quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12159",
+    "place": "Bưu cục Phú Lãm quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12160",
+    "place": "Bưu cục Ba La quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12161",
+    "place": "Bưu điện văn hóa xã Kiến Hưng quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12198",
+    "place": "Bưu cục HCC Hà Đông quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12199",
+    "place": "Bưu cục Hệ 1 Hà Tây quận Hà Đông thành phố Hà Nội"
+  },
+  {
+    "zip": "12200",
+    "place": "Bưu cục Trung tâm huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12201",
+    "place": "Huyện ủy huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12202",
+    "place": "Hội đồng nhân dân huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12203",
+    "place": "Ủy ban nhân dân huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12206",
+    "place": "Thị trấn Sóc Sơn huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12207",
+    "place": "Xã Tân Minh huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12208",
+    "place": "Xã Bắc Phú huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12209",
+    "place": "Xã Tân Hưng huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12210",
+    "place": "Xã Trung Giã huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12211",
+    "place": "Xã Hồng Kỳ huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12212",
+    "place": "Xã Phù Linh huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12213",
+    "place": "Xã Nam Sơn huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12214",
+    "place": "Xã Bắc Sơn huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12215",
+    "place": "Xã Minh Trí huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12216",
+    "place": "Xã Minh Phú huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12217",
+    "place": "Xã Tân Dân huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12218",
+    "place": "Xã Hiền Ninh huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12219",
+    "place": "Xã Thanh Xuân huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12220",
+    "place": "Xã Quang Tiến huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12221",
+    "place": "Xã Phú Cường huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12222",
+    "place": "Xã Phú Minh huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12223",
+    "place": "Xã Mai Đình huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12224",
+    "place": "Xã Phù Lỗ huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12225",
+    "place": "Xã Đông Xuân huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12226",
+    "place": "Xã Tiên Dược huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12227",
+    "place": "Xã Đức Hoà huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12228",
+    "place": "Xã Xuân Thu huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12229",
+    "place": "Xã Kim Lũ huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12230",
+    "place": "Xã Xuân Giang huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12231",
+    "place": "Xã Việt Long huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12250",
+    "place": "Bưu cục phát Sóc Sơn huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12251",
+    "place": "Bưu cục Trung Giã huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12252",
+    "place": "Bưu cục Minh Trí huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12253",
+    "place": "Bưu cục Tân Dân huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12254",
+    "place": "Bưu cục Kim Anh huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12255",
+    "place": "Bưu cục Nhà Ga T2 huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12256",
+    "place": "Bưu cục Nhà Ga T1 huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12257",
+    "place": "Bưu cục Nội Bài huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12258",
+    "place": "Bưu cục Phủ Lỗ huyện Sóc Sơn thành phố Hà Nội"
+  },
+  {
+    "zip": "12300",
+    "place": "Bưu cục Trung tâm huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12301",
+    "place": "Huyện ủy huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12302",
+    "place": "Hội đồng nhân dân huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12303",
+    "place": "Ủy ban nhân dân huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12306",
+    "place": "Thị trấn Đông Anh huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12307",
+    "place": "Xã Uy Nỗ huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12308",
+    "place": "Xã Việt Hùng huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12309",
+    "place": "Xã Liên Hà huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12310",
+    "place": "Xã Vân Hà huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12311",
+    "place": "Xã Xuân Nộn huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12312",
+    "place": "Xã Nguyên Khê huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12313",
+    "place": "Xã Tiên Dương huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12314",
+    "place": "Xã Vân Nội huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12315",
+    "place": "Xã Thuỵ Lâm huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12316",
+    "place": "Xã Bắc Hồng huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12317",
+    "place": "Xã Nam Hồng huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12318",
+    "place": "Xã Kim Nỗ huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12319",
+    "place": "Xã Kim Chung huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12320",
+    "place": "Xã Đại Mạch huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12321",
+    "place": "Xã Võng La huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12322",
+    "place": "Xã Hải Bối huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12323",
+    "place": "Xã Vĩnh Ngọc huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12324",
+    "place": "Xã Xuân Canh huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12325",
+    "place": "Xã Tầm Xá huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12326",
+    "place": "Xã Đông Hội huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12327",
+    "place": "Xã Mai Lâm huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12328",
+    "place": "Xã Cổ Loa huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12329",
+    "place": "Xã Dục Tú huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12350",
+    "place": "Bưu cục phát Đông Anh huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12351",
+    "place": "Bưu cục phát KCN Thăng Long huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12352",
+    "place": "Bưu cục Ga Đông Anh huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12353",
+    "place": "Bưu cục Vân Trì huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12354",
+    "place": "Bưu cục KCN Thăng Long huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12355",
+    "place": "Bưu cục Bắc Thăng Long huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12356",
+    "place": "Bưu cục Lộc Hà huyện Đông Anh thành phố Hà Nội"
+  },
+  {
+    "zip": "12400",
+    "place": "Bưu cục Trung tâm huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12401",
+    "place": "Huyện ủy huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12402",
+    "place": "Hội đồng nhân dân huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12403",
+    "place": "Ủy ban nhân dân huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12406",
+    "place": "Thị trấn Trâu Quỳ huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12407",
+    "place": "Xã Dương Xá huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12408",
+    "place": "Xã Dương Quang huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12409",
+    "place": "Xã Phú Thị huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12410",
+    "place": "Xã Kim Sơn huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12411",
+    "place": "Xã Lệ Chi huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12412",
+    "place": "Xã Trung Mầu huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12413",
+    "place": "Xã Phù Đổng huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12414",
+    "place": "Xã Ninh Hiệp huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12415",
+    "place": "Xã Yên Thường huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12416",
+    "place": "Xã Yên Viên huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12417",
+    "place": "Thị trấn Yên Viên huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12418",
+    "place": "Xã Đình Xuyên huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12419",
+    "place": "Xã Dương Hà huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12420",
+    "place": "Xã Đặng Xá huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12421",
+    "place": "Xã Cổ Bi huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12422",
+    "place": "Xã Đông Dư huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12423",
+    "place": "Xã Bát Tràng huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12424",
+    "place": "Xã Kim Lan huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12425",
+    "place": "Xã Văn Đức huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12426",
+    "place": "Xã Đa Tốn huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12427",
+    "place": "Xã Kiêu Kỵ huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12450",
+    "place": "Bưu cục phát Gia Lâm huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12451",
+    "place": "Bưu cục KHL Gia Lâm huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12452",
+    "place": "Bưu cục Yên Viên huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12453",
+    "place": "Bưu cục Đa Tốn huyện Gia Lâm thành phố Hà Nội"
+  },
+  {
+    "zip": "12500",
+    "place": "Bưu cục Trung tâm huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12501",
+    "place": "Huyện ủy huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12502",
+    "place": "Hội đồng nhân dân huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12503",
+    "place": "Ủy ban nhân dân huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12506",
+    "place": "Thị trấn Văn Điển huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12507",
+    "place": "Xã Yên Mỹ huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12508",
+    "place": "Xã Tứ Hiệp huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12509",
+    "place": "Xã Tam Hiệp huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12510",
+    "place": "Xã Thanh Liệt huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12511",
+    "place": "Xã Tân Triều huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12512",
+    "place": "Xã Hữu Hoà huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12513",
+    "place": "Xã Vĩnh Quỳnh huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12514",
+    "place": "Xã Tả Thanh Oai huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12515",
+    "place": "Xã Đại Áng huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12516",
+    "place": "Xã Ngọc Hồi huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12517",
+    "place": "Xã Liên Ninh huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12518",
+    "place": "Xã Đông Mỹ huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12519",
+    "place": "Xã Vạn Phúc huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12520",
+    "place": "Xã Duyên Hà huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12521",
+    "place": "Xã Ngũ Hiệp huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12550",
+    "place": "Bưu cục phát Thanh Trì huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12551",
+    "place": "Bưu cục KHL Thanh Trì huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12552",
+    "place": "Bưu cục Đông Mỹ huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12553",
+    "place": "Bưu cục Ngọc Hồi huyện Thanh Trì thành phố Hà Nội"
+  },
+  {
+    "zip": "12600",
+    "place": "Bưu cục Trung tâm huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12601",
+    "place": "Huyện ủy huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12602",
+    "place": "Hội đồng nhân dân huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12603",
+    "place": "Ủy ban nhân dân huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12606",
+    "place": "Thị trấn Tây Đằng huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12607",
+    "place": "Xã Chu Minh huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12608",
+    "place": "Xã Minh Châu huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12609",
+    "place": "Xã Phú Châu huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12610",
+    "place": "Xã Phú Phương huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12611",
+    "place": "Xã Châu Sơn huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12612",
+    "place": "Xã Tản Hồng huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12613",
+    "place": "Xã Phú Cường huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12614",
+    "place": "Xã Cổ Đô huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12615",
+    "place": "Xã Vạn Thắng huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12616",
+    "place": "Xã Phú Đông huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12617",
+    "place": "Xã Phong Vân huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12618",
+    "place": "Xã Thái Hòa huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12619",
+    "place": "Xã Đồng Thái huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12620",
+    "place": "Xã Vật Lại huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12621",
+    "place": "Xã Phú Sơn huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12622",
+    "place": "Xã Cẩm Lĩnh huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12623",
+    "place": "Xã Tòng Bạt huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12624",
+    "place": "Xã Sơn Đà huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12625",
+    "place": "Xã Thuần Mỹ huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12626",
+    "place": "Xã Ba Trại huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12627",
+    "place": "Xã Minh Quang huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12628",
+    "place": "Xã Khánh Thượng huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12629",
+    "place": "Xã Ba Vì huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12630",
+    "place": "Xã Yên Bài huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12631",
+    "place": "Xã Vân Hòa huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12632",
+    "place": "Xã Tản Lĩnh huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12633",
+    "place": "Xã Thụy An huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12634",
+    "place": "Xã Tiên Phong huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12635",
+    "place": "Xã Đông Quang huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12636",
+    "place": "Xã Cam Thượng huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12650",
+    "place": "Bưu cục phát Ba Vì huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12651",
+    "place": "Bưu cục Vạn Thắng huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12652",
+    "place": "Bưu cục Nhông huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12653",
+    "place": "Bưu cục Suối Hai huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12654",
+    "place": "Bưu cục Sơn Đà huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12655",
+    "place": "Bưu cục Chợ Mộc huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12656",
+    "place": "Bưu cục Tản Lĩnh huyện Ba Vì thành phố Hà Nội"
+  },
+  {
+    "zip": "12700",
+    "place": "Bưu cục Trung tâm thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12701",
+    "place": "Thị ủy thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12702",
+    "place": "Hội đồng nhân dân thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12703",
+    "place": "Ủy ban nhân dân thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12704",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12706",
+    "place": "Phường Lê Lợi thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12707",
+    "place": "Phường Viên Sơn thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12708",
+    "place": "Phường Phú Thịnh thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12709",
+    "place": "Xã Đường Lâm thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12710",
+    "place": "Xã Xuân Sơn thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12711",
+    "place": "Xã Thanh Mỹ thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12712",
+    "place": "Phường Xuân Khanh thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12713",
+    "place": "Xã Kim Sơn thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12714",
+    "place": "Xã Cổ Đông thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12715",
+    "place": "Xã Sơn Đông thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12716",
+    "place": "Phường Trung Sơn Trầm thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12717",
+    "place": "Phường Sơn Lộc thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12718",
+    "place": "Phường Trung Hưng thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12719",
+    "place": "Phường Quang Trung thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12720",
+    "place": "Phường Ngô Quyền thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12750",
+    "place": "Bưu cục phát Sơn Tây thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12751",
+    "place": "Bưu cục Xuân Khanh thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12752",
+    "place": "Bưu cục Đồng Mô thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12753",
+    "place": "Bưu cục Sơn Lộc thị xã Sơn Tây thành phố Hà Nội"
+  },
+  {
+    "zip": "12800",
+    "place": "Bưu cục Trung tâm huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12801",
+    "place": "Huyện ủy huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12802",
+    "place": "Hội đồng nhân dân huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12803",
+    "place": "Ủy ban nhân dân huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12806",
+    "place": "Thị trấn Phúc Thọ huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12807",
+    "place": "Xã Phúc Hòa huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12808",
+    "place": "Xã Long Xuyên huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12809",
+    "place": "Xã Thượng Cốc huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12810",
+    "place": "Xã Hát Môn huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12811",
+    "place": "Xã Vân Nam huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12812",
+    "place": "Xã Vân Hà huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12813",
+    "place": "Xã Vân Phúc huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12814",
+    "place": "Xã Xuân Phú huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12815",
+    "place": "Xã Võng Xuyên huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12816",
+    "place": "Xã Cẩm Đình huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12817",
+    "place": "Xã Sen Chiểu huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12818",
+    "place": "Xã Phương Độ huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12819",
+    "place": "Xã Thọ Lộc huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12820",
+    "place": "Xã Tích Giang huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12821",
+    "place": "Xã Trạch Mỹ Lộc huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12822",
+    "place": "Xã Phụng Thượng huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12823",
+    "place": "Xã Ngọc Tảo huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12824",
+    "place": "Xã Tam Hiệp huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12825",
+    "place": "Xã Hiệp Thuận huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12826",
+    "place": "Xã Liên Hiệp huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12827",
+    "place": "Xã Tam Thuấn huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12828",
+    "place": "Xã Thanh Đa huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12850",
+    "place": "Bưu cục phát Phúc Thọ huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12851",
+    "place": "Bưu cục Vân Nam huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12852",
+    "place": "Bưu cục Ngọc Tảo huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12853",
+    "place": "Bưu cục Tam Hiệp huyện Phúc Thọ thành phố Hà Nội"
+  },
+  {
+    "zip": "12900",
+    "place": "Bưu cục Trung tâm huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12901",
+    "place": "Huyện ủy huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12902",
+    "place": "Hội đồng nhân dân huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12903",
+    "place": "Ủy ban nhân dân huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12906",
+    "place": "Xã Đại Thịnh huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12907",
+    "place": "Thị trấn Quang Minh huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12908",
+    "place": "Thị trấn Chi Đông huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12909",
+    "place": "Xã Kim Hoa huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12910",
+    "place": "Xã Thanh Lâm huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12911",
+    "place": "Xã Tam Đồng huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12912",
+    "place": "Xã Tiến Thắng huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12913",
+    "place": "Xã Tự Lập huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12914",
+    "place": "Xã Liên Mạc huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12915",
+    "place": "Xã Vạn Yên huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12916",
+    "place": "Xã Tiến Thịnh huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12917",
+    "place": "Xã Chu Phan huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12918",
+    "place": "Xã Thạch Đà huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12919",
+    "place": "Xã Hoàng Kim huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12920",
+    "place": "Xã Văn Khê huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12921",
+    "place": "Xã Tráng Việt huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12922",
+    "place": "Xã Tiền Phong huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12923",
+    "place": "Xã Mê Linh huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12950",
+    "place": "Bưu cục phát Mê Linh huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12951",
+    "place": "Bưu cục KCN Quang Minh huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12952",
+    "place": "Bưu cục Thạch Đà huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "12953",
+    "place": "Bưu cục Tiền Phong huyện Mê Linh thành phố Hà Nội"
+  },
+  {
+    "zip": "13000",
+    "place": "Bưu cục Trung tâm huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13001",
+    "place": "Huyện ủy huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13002",
+    "place": "Hội đồng nhân dân huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13003",
+    "place": "Ủy ban nhân dân huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13004",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13006",
+    "place": "Thị trấn Phùng huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13007",
+    "place": "Xã Đan Phượng huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13008",
+    "place": "Xã Thượng Mỗ huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13009",
+    "place": "Xã Hạ Mỗ huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13010",
+    "place": "Xã Tân Hội huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13011",
+    "place": "Xã Tân Lập huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13012",
+    "place": "Xã Liên Trung huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13013",
+    "place": "Xã Liên Hà huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13014",
+    "place": "Xã Liên Hồng huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13015",
+    "place": "Xã Hồng Hà huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13016",
+    "place": "Xã Trung Châu huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13017",
+    "place": "Xã Thọ Xuân huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13018",
+    "place": "Xã Thọ An huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13019",
+    "place": "Xã Phương Đình huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13020",
+    "place": "Xã Đồng Tháp huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13021",
+    "place": "Xã Song Phượng huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13050",
+    "place": "Bưu cục phát Đan Phượng huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13051",
+    "place": "Bưu cục Bến Xe Phùng huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13052",
+    "place": "Bưu cục Tân Hội huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13053",
+    "place": "Bưu cục Thọ An huyện Đan Phượng thành phố Hà Nội"
+  },
+  {
+    "zip": "13100",
+    "place": "Bưu cục Trung tâm huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13101",
+    "place": "Huyện ủy huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13102",
+    "place": "Hội đồng nhân dân huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13103",
+    "place": "Ủy ban nhân dân huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13104",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13106",
+    "place": "Thị trấn Liên Quan huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13107",
+    "place": "Xã Phú Kim huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13108",
+    "place": "Xã Đại Đồng huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13109",
+    "place": "Xã Cẩm Yên huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13110",
+    "place": "Xã Lại Thượng huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13111",
+    "place": "Xã Bình Yên huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13112",
+    "place": "Xã Tân Xã huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13113",
+    "place": "Xã Thạch Hoà huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13114",
+    "place": "Xã Yên Bình huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13115",
+    "place": "Xã Yên Trung huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13116",
+    "place": "Xã Tiến Xuân huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13117",
+    "place": "Xã Hạ Bằng huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13118",
+    "place": "Xã Đồng Trúc huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13119",
+    "place": "Xã Cần Kiệm huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13120",
+    "place": "Xã Kim Quan huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13121",
+    "place": "Xã Thạch Xá huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13122",
+    "place": "Xã Bình Phú huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13123",
+    "place": "Xã Phùng Xá huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13124",
+    "place": "Xã Hữu Bằng huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13125",
+    "place": "Xã Dị Nậu huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13126",
+    "place": "Xã Canh Nậu huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13127",
+    "place": "Xã Hương Ngải huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13128",
+    "place": "Xã Chàng Sơn huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13150",
+    "place": "Bưu cục phát Thạch Thất huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13151",
+    "place": "Bưu cục Hoà Lạc huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13152",
+    "place": "Bưu cục Yên Bình huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13153",
+    "place": "Bưu cục Bình Phú huyện Thạnh Thất thành phố Hà Nội"
+  },
+  {
+    "zip": "13200",
+    "place": "Bưu cục Trung tâm huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13201",
+    "place": "Huyện ủy huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13202",
+    "place": "Hội đồng nhân dân huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13203",
+    "place": "Ủy ban nhân dân huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13206",
+    "place": "Thị trấn Trạm Trôi huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13207",
+    "place": "Xã Đức Thượng huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13208",
+    "place": "Xã Minh Khai huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13209",
+    "place": "Xã Dương Liễu huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13210",
+    "place": "Xã Cát Quế huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13211",
+    "place": "Xã Yên Sở huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13212",
+    "place": "Xã Đắc Sở huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13213",
+    "place": "Xã Tiền Yên huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13214",
+    "place": "Xã Song Phương huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13215",
+    "place": "Xã Vân Côn huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13216",
+    "place": "Xã An Thượng huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13217",
+    "place": "Xã Đông La huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13218",
+    "place": "Xã La Phù huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13219",
+    "place": "Xã An Khánh huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13220",
+    "place": "Xã Lại Yên huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13221",
+    "place": "Xã Vân Canh huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13222",
+    "place": "Xã Di Trạch huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13223",
+    "place": "Xã Kim Chung huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13224",
+    "place": "Xã Sơn Đồng huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13225",
+    "place": "Xã Đức Giang huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13250",
+    "place": "Bưu cục phát Hoài Đức huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13251",
+    "place": "Bưu cục Chợ Sấu huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13252",
+    "place": "Bưu cục Vân Côn huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13253",
+    "place": "Bưu cục Ngãi Cầu huyện Hoài Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13300",
+    "place": "Bưu cục Trung tâm huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13301",
+    "place": "Huyện ủy huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13302",
+    "place": "Hội đồng nhân dân huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13303",
+    "place": "Ủy ban nhân dân huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13306",
+    "place": "Thị trấn Quốc Oai huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13307",
+    "place": "Xã Yên Sơn huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13308",
+    "place": "Xã Phượng Cách huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13309",
+    "place": "Xã Sài Sơn huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13310",
+    "place": "Xã Ngọc Mỹ huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13311",
+    "place": "Xã Ngọc Liệp huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13312",
+    "place": "Xã Liệp Tuyết huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13313",
+    "place": "Xã Tuyết Nghĩa huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13314",
+    "place": "Xã Phú Cát huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13315",
+    "place": "Xã Đông Xuân huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13316",
+    "place": "Xã Phú Mãn huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13317",
+    "place": "Xã Hòa Thạch huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13318",
+    "place": "Xã Đông Yên huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13319",
+    "place": "Xã Cấn Hữu huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13320",
+    "place": "Xã Nghĩa Hương huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13321",
+    "place": "Xã Thạch Thán huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13322",
+    "place": "Xã Cộng Hòa huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13323",
+    "place": "Xã Đồng Quang huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13324",
+    "place": "Xã Tân Hòa huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13325",
+    "place": "Xã Tân Phú huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13326",
+    "place": "Xã Đại Thành huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13350",
+    "place": "Bưu cục phát Quốc Oai huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13351",
+    "place": "Bưu cục Sài Sơn huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13352",
+    "place": "Bưu cục Hòa Phú huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13353",
+    "place": "Bưu cục Cấn Hữu huyện Quốc Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13400",
+    "place": "Bưu cục Trung tâm huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13401",
+    "place": "Huyện ủy huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13402",
+    "place": "Hội đồng nhân dân huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13403",
+    "place": "Ủy ban nhân dân huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13406",
+    "place": "Thị trấn Chúc Sơn huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13407",
+    "place": "Xã Phụng Châu huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13408",
+    "place": "Xã Tiên Phương huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13409",
+    "place": "Xã Ngọc Hòa huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13410",
+    "place": "Xã Trường Yên huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13411",
+    "place": "Xã Phú Nghĩa huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13412",
+    "place": "Xã Đông Phương Yên huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13413",
+    "place": "Xã Trung Hòa huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13414",
+    "place": "Xã Thanh Bình huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13415",
+    "place": "Xã Đông Sơn huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13416",
+    "place": "Xã Thủy Xuân Tiên huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13417",
+    "place": "Thị trấn Xuân Mai huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13418",
+    "place": "Xã Nam Phương Tiến huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13419",
+    "place": "Xã Tân Tiến huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13420",
+    "place": "Xã Hoàng Văn Thụ huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13421",
+    "place": "Xã Hữu Văn huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13422",
+    "place": "Xã Mỹ Lương huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13423",
+    "place": "Xã Trần Phú huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13424",
+    "place": "Xã Đồng Lạc huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13425",
+    "place": "Xã Hồng Phong huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13426",
+    "place": "Xã Đồng Phú huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13427",
+    "place": "Xã Hòa Chính huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13428",
+    "place": "Xã Phú Nam An huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13429",
+    "place": "Xã Văn Võ huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13430",
+    "place": "Xã Thượng Vực huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13431",
+    "place": "Xã Hoàng Diệu huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13432",
+    "place": "Xã Quảng Bị huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13433",
+    "place": "Xã Hợp Đồng huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13434",
+    "place": "Xã Tốt Động huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13435",
+    "place": "Xã Đại Yên huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13436",
+    "place": "Xã Lam Điền huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13437",
+    "place": "Xã Thụy Hương huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13450",
+    "place": "Bưu cục phát Chương Mỹ huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13451",
+    "place": "Bưu cục Xuân Mai huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13452",
+    "place": "Bưu cục Trường Yên huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13453",
+    "place": "Bưu cục Quảng Bị huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13454",
+    "place": "Bưu cục Hoàng Văn Thụ huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13455",
+    "place": "Bưu cục Miếu Môn huyện Chương Mỹ thành phố Hà Nội"
+  },
+  {
+    "zip": "13500",
+    "place": "Bưu cục Trung tâm huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13501",
+    "place": "Huyện ủy huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13502",
+    "place": "Hội đồng nhân dân huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13503",
+    "place": "Ủy ban nhân dân huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13506",
+    "place": "Thị trấn Kim Bài huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13507",
+    "place": "Xã Đỗ Động huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13508",
+    "place": "Xã Thanh Văn huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13509",
+    "place": "Xã Thanh Thùy huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13510",
+    "place": "Xã Tam Hưng huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13511",
+    "place": "Xã Mỹ Hưng huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13512",
+    "place": "Xã Bình Minh huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13513",
+    "place": "Xã Cự Khê huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13514",
+    "place": "Xã Bích Hòa huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13515",
+    "place": "Xã Cao Viên huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13516",
+    "place": "Xã Thanh Cao huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13517",
+    "place": "Xã Thanh Mai huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13518",
+    "place": "Xã Kim An huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13519",
+    "place": "Xã Kim Thư huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13520",
+    "place": "Xã Phương Trung huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13521",
+    "place": "Xã Dân Hòa huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13522",
+    "place": "Xã Cao Dương huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13523",
+    "place": "Xã Xuân Dương huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13524",
+    "place": "Xã Hồng Dương huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13525",
+    "place": "Xã Liên Châu huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13526",
+    "place": "Xã Tân Ước huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13550",
+    "place": "Bưu cục phát Thanh Oai huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13551",
+    "place": "Bưu cục Thanh Thuỳ huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13552",
+    "place": "Bưu cục Bình Đà huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13553",
+    "place": "Bưu cục Ngã Tư Vác huyện Thanh Oai thành phố Hà Nội"
+  },
+  {
+    "zip": "13600",
+    "place": "Bưu cục Trung tâm huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13601",
+    "place": "Huyện ủy huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13602",
+    "place": "Hội đồng nhân dân huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13603",
+    "place": "Ủy ban nhân dân huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13606",
+    "place": "Thị trấn Thường Tín huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13607",
+    "place": "Xã Hà Hồi huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13608",
+    "place": "Xã Vân Tảo huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13609",
+    "place": "Xã Thư Phú huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13610",
+    "place": "Xã Tự Nhiên huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13611",
+    "place": "Xã Hồng Vân huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13612",
+    "place": "Xã Ninh Sở huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13613",
+    "place": "Xã Duyên Thái huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13614",
+    "place": "Xã Văn Bình huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13615",
+    "place": "Xã Nhị Khê huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13616",
+    "place": "Xã Khánh Hà huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13617",
+    "place": "Xã Hòa Bình huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13618",
+    "place": "Xã Văn Phú huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13619",
+    "place": "Xã Tiền Phong huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13620",
+    "place": "Xã Tân Minh huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13621",
+    "place": "Xã Nguyễn Trãi huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13622",
+    "place": "Xã Dũng Tiến huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13623",
+    "place": "Xã Nghiêm Xuyên huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13624",
+    "place": "Xã Tô Hiệu huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13625",
+    "place": "Xã Văn Tự huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13626",
+    "place": "Xã Minh Cường huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13627",
+    "place": "Xã Vạn Điểm huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13628",
+    "place": "Xã Thống Nhất huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13629",
+    "place": "Xã Lê Lợi huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13630",
+    "place": "Xã Thắng Lợi huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13631",
+    "place": "Xã Quất Động huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13632",
+    "place": "Xã Chương Dương huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13633",
+    "place": "Xã Liên Phương huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13634",
+    "place": "Xã Hiền Giang huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13650",
+    "place": "Bưu cục phát Thường Tín huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13651",
+    "place": "Bưu cục KHL Thường Tín huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13652",
+    "place": "Bưu cục Vân La huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13653",
+    "place": "Bưu cục Quán Gánh huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13654",
+    "place": "Bưu cục Dũng Tiến huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13655",
+    "place": "Bưu cục Chợ Tía huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13656",
+    "place": "Bưu cục Cầu Chiếc huyện Thường Tín thành phố Hà Nội"
+  },
+  {
+    "zip": "13700",
+    "place": "Bưu cục Trung tâm huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13701",
+    "place": "Huyện ủy huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13702",
+    "place": "Hội đồng nhân dân huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13703",
+    "place": "Ủy ban nhân dân huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13706",
+    "place": "Thị trấn Đại Nghĩa huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13707",
+    "place": "Xã Phù Lưu Tế huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13708",
+    "place": "Xã Phùng Xá huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13709",
+    "place": "Xã Xuy Xá huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13710",
+    "place": "Xã Lê Thanh huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13711",
+    "place": "Xã An Mỹ huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13712",
+    "place": "Xã Bột Xuyên huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13713",
+    "place": "Xã Mỹ Thành huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13714",
+    "place": "Xã Phúc Lâm huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13715",
+    "place": "Xã Đồng Tâm huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13716",
+    "place": "Xã Thượng Lâm huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13717",
+    "place": "Xã Tuy Lai huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13718",
+    "place": "Xã Hồng Sơn huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13719",
+    "place": "Xã Hợp Tiến huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13720",
+    "place": "Xã Hợp Thanh huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13721",
+    "place": "Xã An Tiến huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13722",
+    "place": "Xã An Phú huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13723",
+    "place": "Xã Hương Sơn huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13724",
+    "place": "Xã Hùng Tiến huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13725",
+    "place": "Xã Đốc Tín huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13726",
+    "place": "Xã Vạn Kim huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13727",
+    "place": "Xã Đại Hưng huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13750",
+    "place": "Bưu cục phát Mỹ Đức huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13751",
+    "place": "Bưu cục Kênh Đào huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13752",
+    "place": "Bưu cục Cầu Dậm huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13753",
+    "place": "Bưu cục Hương Sơn huyện Mỹ Đức thành phố Hà Nội"
+  },
+  {
+    "zip": "13800",
+    "place": "Bưu cục Trung tâm huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13801",
+    "place": "Huyện ủy huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13802",
+    "place": "Hội đồng nhân dân huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13803",
+    "place": "Ủy ban nhân dân huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13806",
+    "place": "Thị trấn Vân Đình huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13807",
+    "place": "Xã Phương Tú huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13808",
+    "place": "Xã Liên Bạt huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13809",
+    "place": "Xã Quảng Phú Cầu huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13810",
+    "place": "Xã Trường Thịnh huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13811",
+    "place": "Xã Hoa Sơn huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13812",
+    "place": "Xã Viên Nội huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13813",
+    "place": "Xã Viên An huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13814",
+    "place": "Xã Cao Thành huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13815",
+    "place": "Xã Sơn Công huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13816",
+    "place": "Xã Đồng Tiến huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13817",
+    "place": "Xã Hòa Xá huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13818",
+    "place": "Xã Vạn Thái huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13819",
+    "place": "Xã Hòa Nam huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13820",
+    "place": "Xã Hòa Phú huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13821",
+    "place": "Xã Hòa Lâm huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13822",
+    "place": "Xã Phù Lưu huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13823",
+    "place": "Xã Lưu Hoàng huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13824",
+    "place": "Xã Hồng Quang huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13825",
+    "place": "Xã Đội Bình huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13826",
+    "place": "Xã Đại Hùng huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13827",
+    "place": "Xã Trầm Lộng huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13828",
+    "place": "Xã Đại Cường huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13829",
+    "place": "Xã Đông Lỗ huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13830",
+    "place": "Xã Kim Đường huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13831",
+    "place": "Xã Minh Đức huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13832",
+    "place": "Xã Đồng Tân huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13833",
+    "place": "Xã Trung Tú huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13834",
+    "place": "Xã Tảo Dương Văn huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13850",
+    "place": "Bưu cục phát Ứng Hòa huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13851",
+    "place": "Bưu cục Cầu Lão huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13852",
+    "place": "Bưu cục Ba Thá huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13853",
+    "place": "Bưu cục Đặng Giang huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13854",
+    "place": "Bưu cục Lưu Hoàng huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13855",
+    "place": "Bưu cục Chợ Ngăm huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13856",
+    "place": "Bưu cục Chợ Cháy huyện Ứng Hòa thành phố Hà Nội"
+  },
+  {
+    "zip": "13900",
+    "place": "Bưu cục Trung tâm huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13901",
+    "place": "Huyện ủy huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13902",
+    "place": "Hội đồng nhân dân huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13903",
+    "place": "Ủy ban nhân dân huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13906",
+    "place": "Thị trấn Phú Xuyên huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13907",
+    "place": "Xã Phúc Tiến huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13908",
+    "place": "Xã Tri Thủy huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13909",
+    "place": "Xã Khai Thái huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13910",
+    "place": "Xã Nam Triều huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13911",
+    "place": "Xã Hồng Thái huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13912",
+    "place": "Thị trấn Phú Minh huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13913",
+    "place": "Xã Thụy Phú huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13914",
+    "place": "Xã Văn Nhân huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13915",
+    "place": "Xã Nam Phong huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13916",
+    "place": "Xã Sơn Hà huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13917",
+    "place": "Xã Quang Trung huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13918",
+    "place": "Xã Tân Dân huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13919",
+    "place": "Xã Đại Thắng huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13920",
+    "place": "Xã Văn Hoàng huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13921",
+    "place": "Xã Phượng Dực huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13922",
+    "place": "Xã Hồng Minh huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13923",
+    "place": "Xã Tri Trung huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13924",
+    "place": "Xã Phú Túc huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13925",
+    "place": "Xã Hoàng Long huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13926",
+    "place": "Xã Chuyên Mỹ huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13927",
+    "place": "Xã Vân Từ huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13928",
+    "place": "Xã Phú Yên huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13929",
+    "place": "Xã Châu Can huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13930",
+    "place": "Xã Đại Xuyên huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13931",
+    "place": "Xã Bạch Hạ huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13932",
+    "place": "Xã Minh Tân huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13933",
+    "place": "Xã Quang Lãng huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13950",
+    "place": "Bưu cục phát Phú Xuyên huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13951",
+    "place": "Bưu cục Chợ Bìm huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13952",
+    "place": "Bưu cục Vạn Điểm huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13953",
+    "place": "Bưu cục Tân Dân huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13954",
+    "place": "Bưu cục Đồng Quan huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13955",
+    "place": "Bưu cục Hồng Minh huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13956",
+    "place": "Bưu cục Cầu Giẽ huyện Phú Xuyên thành phố Hà Nội"
+  },
+  {
+    "zip": "13957",
+    "place": "Bưu cục Minh Tân huyện Phú Xuyên thành phố Hà Nội"
+  }
+]

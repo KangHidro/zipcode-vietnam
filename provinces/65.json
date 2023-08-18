@@ -1,0 +1,718 @@
+[
+  {
+    "zip": "65000",
+    "place": "Bưu cục Trung tâm tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65009",
+    "place": "Đảng ủy khối cơ quan tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65016",
+    "place": "Báo Đắk Nông"
+  },
+  {
+    "zip": "65021",
+    "place": "Hội đồng nhân dân tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65035",
+    "place": "Tòa án nhân dân tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65041",
+    "place": "Sở Công Thương tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "65045",
+    "place": "Sở Tài chính tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65049",
+    "place": "Công an tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65051",
+    "place": "Sở Nội vụ tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65052",
+    "place": "Sở Tư pháp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65054",
+    "place": "Sở Giao thông vận tải tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65058",
+    "place": "Sở Xây dựng tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65060",
+    "place": "Sở Y tế tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65062",
+    "place": "Ban Dân tộc tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65064",
+    "place": "Thanh tra tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65065",
+    "place": "Trường chính trị tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65070",
+    "place": "Bảo hiểm xã hội tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65078",
+    "place": "Cục Thuế tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65079",
+    "place": "Cục Hải quan tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65080",
+    "place": "Cục Thống kê tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65081",
+    "place": "Kho bạc Nhà nước tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65088",
+    "place": "Liên đoàn Lao động tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65089",
+    "place": "Hội Nông dân tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65091",
+    "place": "Tỉnh Đoàn tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65093",
+    "place": "Hội Cựu chiến binh tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65100",
+    "place": "Bưu cục Trung tâm thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65101",
+    "place": "Thị ủy thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65102",
+    "place": "Hội đồng nhân dân thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65103",
+    "place": "Ủy ban nhân dân thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65104",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65106",
+    "place": "Phường Nghĩa Thành thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65107",
+    "place": "Xã Quảng Thành thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65108",
+    "place": "Phường Nghĩa Đức thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65109",
+    "place": "Xã Đắk Nia thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65110",
+    "place": "Phường Nghĩa Trung thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65111",
+    "place": "Phường Nghĩa Tân thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65112",
+    "place": "Phường Nghĩa Phú thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65113",
+    "place": "Xã Đăk R'moan thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65150",
+    "place": "Bưu cục phát Gia Nghĩa thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65151",
+    "place": "Bưu cục KHL Gia Nghĩa thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65152",
+    "place": "Bưu cục Bưu điện 23 tháng 3 thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65198",
+    "place": "Bưu cục HCC Đắk Nông thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65199",
+    "place": "Bưu cục Hệ 1 Đắk Nông thị xã Gia Nghĩa tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65200",
+    "place": "Bưu cục Trung tâm huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65201",
+    "place": "Huyện ủy huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65202",
+    "place": "Hội đồng nhân dân huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65203",
+    "place": "Ủy ban nhân dân huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65206",
+    "place": "Xã Quảng Khê huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65207",
+    "place": "Xã Đắk Plao huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65208",
+    "place": "Xã Đắk Som huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65209",
+    "place": "Xã Đắk R'măng huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65210",
+    "place": "Xã Đắk Ha huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65211",
+    "place": "Xã Quảng Sơn huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65212",
+    "place": "Xã Quảng Hoà huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65250",
+    "place": "Bưu cục phát Đắk Glong huyện Đắk Glong tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65300",
+    "place": "Bưu cục Trung tâm huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65301",
+    "place": "Huyện ủy huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65302",
+    "place": "Hội đồng nhân dân huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65303",
+    "place": "Ủy ban nhân dân huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65306",
+    "place": "Thị trấn Đắk Mâm huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65307",
+    "place": "Xã Buôn Choah huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65308",
+    "place": "Xã Nam Đà huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65309",
+    "place": "Xã Đắk Sôr huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65310",
+    "place": "Xã Nam Xuân huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65311",
+    "place": "Xã Tân Thành huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65312",
+    "place": "Xã Đắk Drô huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65313",
+    "place": "Xã Nâm Nung huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65314",
+    "place": "Xã Nâm N'đir huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65315",
+    "place": "Xã Đức Xuyên huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65316",
+    "place": "Xã Đắk Nang huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65317",
+    "place": "Xã Quảng Phú huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65350",
+    "place": "Bưu cục phát Krông Nô huyện Krông Nô tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65400",
+    "place": "Bưu cục Trung tâm huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65401",
+    "place": "Huyện ủy huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65402",
+    "place": "Hội đồng nhân dân huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65403",
+    "place": "Ủy ban nhân dân huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65406",
+    "place": "Thị trấn Ea T'ling huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65407",
+    "place": "Xã Trúc Sơn huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65408",
+    "place": "Xã Cư Knia huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65409",
+    "place": "Xã Tâm Thắng huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65410",
+    "place": "Xã Nam Dong huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65411",
+    "place": "Xã Đắk DRông huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65412",
+    "place": "Xã Ea Pô huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65413",
+    "place": "Xã Đắk Wil huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65450",
+    "place": "Bưu cục phát Cư Jút huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65451",
+    "place": "Bưu cục Nam Dong huyện Cư Jút tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65500",
+    "place": "Bưu cục Trung tâm huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65501",
+    "place": "Huyện ủy huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65502",
+    "place": "Hội đồng nhân dân huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65503",
+    "place": "Ủy ban nhân dân huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65506",
+    "place": "Thị trấn Đắk Mil huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65507",
+    "place": "Xã Thuận An huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65508",
+    "place": "Xã Đức Minh huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65509",
+    "place": "Xã Đắk Sắk huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65510",
+    "place": "Xã Long Sơn huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65511",
+    "place": "Xã Đức Mạnh huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65512",
+    "place": "Xã Đắk N'drót huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65513",
+    "place": "Xã Đắk Gằn huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65514",
+    "place": "Xã Đắk R'la huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65515",
+    "place": "Xã Đắk Lao huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65550",
+    "place": "Bưu cục phát Ðăk Mil huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65551",
+    "place": "Bưu điện văn hóa xã Đức Lệ huyện Đắk Mil tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65600",
+    "place": "Bưu cục Trung tâm huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65601",
+    "place": "Huyện ủy huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65602",
+    "place": "Hội đồng nhân dân huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65603",
+    "place": "Ủy ban nhân dân huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65606",
+    "place": "Thị trấn Đức An huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65607",
+    "place": "Xã Nam Bình huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65608",
+    "place": "Xã Đắk Môl huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65609",
+    "place": "Xã Đắk Hòa huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65610",
+    "place": "Xã Thuận Hạnh huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65611",
+    "place": "Xã Thuận Hà huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65612",
+    "place": "Xã Đắk N'dung huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65613",
+    "place": "Xã Nâm N'jang huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65614",
+    "place": "Xã Trường Xuân huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65650",
+    "place": "Bưu cục phát Ðăk Song huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65651",
+    "place": "Bưu điện văn hóa xã Nam Bình 2 huyện Đắk Song tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65700",
+    "place": "Bưu cục Trung tâm huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65701",
+    "place": "Huyện ủy huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65702",
+    "place": "Hội đồng nhân dân huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65703",
+    "place": "Ủy ban nhân dân huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65706",
+    "place": "Xã Đắk Búk So huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65707",
+    "place": "Xã Quảng Tâm huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65708",
+    "place": "Xã Đắk R'tíh huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65709",
+    "place": "Xã Quảng Tân huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65710",
+    "place": "Xã Đắk Ngo huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65711",
+    "place": "Xã Quảng Trực huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65750",
+    "place": "Bưu cục phát Tuy Đức huyện Tuy Đức tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65800",
+    "place": "Bưu cục Trung tâm huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65801",
+    "place": "Huyện ủy huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65802",
+    "place": "Hội đồng nhân dân huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65803",
+    "place": "Ủy ban nhân dân huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65806",
+    "place": "Thị trấn Kiến Đức huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65807",
+    "place": "Xã Quảng Tín huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65808",
+    "place": "Xã Kiến Thành huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65809",
+    "place": "Xã Đắk Wer huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65810",
+    "place": "Xã Nhân Cơ huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65811",
+    "place": "Xã Nhân Đạo huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65812",
+    "place": "Xã Nghĩa Thắng huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65813",
+    "place": "Xã Đạo Nghĩa huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65814",
+    "place": "Xã Đắk Sin huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65815",
+    "place": "Xã Hưng Bình huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65816",
+    "place": "Xã Đắk Ru huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65850",
+    "place": "Bưu cục phát Đắk Rlấp huyện Đắk Rlấp tỉnh Đắk Nông"
+  },
+  {
+    "zip": "65851",
+    "place": "Bưu cục Nhân Cơ huyện Đắk Rlấp tỉnh Đắk Nông"
+  }
+]

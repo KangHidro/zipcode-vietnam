@@ -1,0 +1,862 @@
+[
+  {
+    "zip": "30000",
+    "place": "Bưu cục Trung tâm tỉnh Lai Châu"
+  },
+  {
+    "zip": "30001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Lai Châu"
+  },
+  {
+    "zip": "30002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Lai Châu"
+  },
+  {
+    "zip": "30003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Lai Châu"
+  },
+  {
+    "zip": "30004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Lai Châu"
+  },
+  {
+    "zip": "30005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Lai Châu"
+  },
+  {
+    "zip": "30009",
+    "place": "Đảng ủy khối cơ quan tỉnh Lai Châu"
+  },
+  {
+    "zip": "30010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Lai Châu"
+  },
+  {
+    "zip": "30011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Lai Châu"
+  },
+  {
+    "zip": "30016",
+    "place": "Báo Lai Châu"
+  },
+  {
+    "zip": "30021",
+    "place": "Hội đồng nhân dân tỉnh Lai Châu"
+  },
+  {
+    "zip": "30030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Lai Châu"
+  },
+  {
+    "zip": "30035",
+    "place": "Tòa án nhân dân tỉnh Lai Châu"
+  },
+  {
+    "zip": "30036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Lai Châu"
+  },
+  {
+    "zip": "30040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Lai Châu"
+  },
+  {
+    "zip": "30041",
+    "place": "Sở Công Thương tỉnh Lai Châu"
+  },
+  {
+    "zip": "30042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Lai Châu"
+  },
+  {
+    "zip": "30043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "30044",
+    "place": "Sở Ngoại vụ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30045",
+    "place": "Sở Tài chính tỉnh Lai Châu"
+  },
+  {
+    "zip": "30046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Lai Châu"
+  },
+  {
+    "zip": "30047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Lai Châu"
+  },
+  {
+    "zip": "30049",
+    "place": "Công an tỉnh Lai Châu"
+  },
+  {
+    "zip": "30051",
+    "place": "Sở Nội vụ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30052",
+    "place": "Sở Tư pháp tỉnh Lai Châu"
+  },
+  {
+    "zip": "30053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Lai Châu"
+  },
+  {
+    "zip": "30054",
+    "place": "Sở Giao thông vận tải tỉnh Lai Châu"
+  },
+  {
+    "zip": "30055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30058",
+    "place": "Sở Xây dựng tỉnh Lai Châu"
+  },
+  {
+    "zip": "30060",
+    "place": "Sở Y tế tỉnh Lai Châu"
+  },
+  {
+    "zip": "30061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Lai Châu"
+  },
+  {
+    "zip": "30062",
+    "place": "Ban Dân tộc tỉnh Lai Châu"
+  },
+  {
+    "zip": "30063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Lai Châu"
+  },
+  {
+    "zip": "30064",
+    "place": "Thanh tra tỉnh Lai Châu"
+  },
+  {
+    "zip": "30065",
+    "place": "Trường chính trị tỉnh Lai Châu"
+  },
+  {
+    "zip": "30066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Lai Châu"
+  },
+  {
+    "zip": "30067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Lai Châu"
+  },
+  {
+    "zip": "30070",
+    "place": "Bảo hiểm xã hội tỉnh Lai Châu"
+  },
+  {
+    "zip": "30078",
+    "place": "Cục Thuế tỉnh Lai Châu"
+  },
+  {
+    "zip": "30079",
+    "place": "Cục Hải quan tỉnh Lai Châu"
+  },
+  {
+    "zip": "30080",
+    "place": "Cục Thống kê tỉnh Lai Châu"
+  },
+  {
+    "zip": "30081",
+    "place": "Kho bạc Nhà nước tỉnh Lai Châu"
+  },
+  {
+    "zip": "30085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Lai Châu"
+  },
+  {
+    "zip": "30086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Lai Châu"
+  },
+  {
+    "zip": "30087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Lai Châu"
+  },
+  {
+    "zip": "30088",
+    "place": "Liên đoàn Lao động tỉnh Lai Châu"
+  },
+  {
+    "zip": "30089",
+    "place": "Hội Nông dân tỉnh Lai Châu"
+  },
+  {
+    "zip": "30090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Lai Châu"
+  },
+  {
+    "zip": "30091",
+    "place": "Tỉnh Đoàn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30093",
+    "place": "Hội Cựu chiến binh tỉnh Lai Châu"
+  },
+  {
+    "zip": "30100",
+    "place": "Bưu cục Trung tâm thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30101",
+    "place": "Thành ủy thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30102",
+    "place": "Hội đồng nhân dân thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30103",
+    "place": "Ủy ban nhân dân thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30106",
+    "place": "Phường Quyết Tiến thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30107",
+    "place": "Phường Quyết Thắng thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30108",
+    "place": "Xã Nậm Loỏng thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30109",
+    "place": "Phường Đoàn Kết thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30110",
+    "place": "Phường Tân Phong thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30111",
+    "place": "Phường Đông Phong thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30112",
+    "place": "Xã San Thàng thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30150",
+    "place": "Bưu cục phát Lai Châu thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30151",
+    "place": "Bưu cục KHL Lai Châu thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30152",
+    "place": "Bưu cục Đoàn Kết thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30199",
+    "place": "Bưu cục Hệ 1 Lai Châu thành phố Lai Châu tỉnh Lai Châu"
+  },
+  {
+    "zip": "30200",
+    "place": "Bưu cục Trung tâm huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30201",
+    "place": "Huyện ủy huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30202",
+    "place": "Hội đồng nhân dân huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30203",
+    "place": "Ủy ban nhân dân huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30206",
+    "place": "Thị trấn Tam Đường huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30207",
+    "place": "Xã Bình Lư huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30208",
+    "place": "Xã Sơn Bình huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30209",
+    "place": "Xã Hồ Thầu huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30210",
+    "place": "Xã Giang Ma huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30211",
+    "place": "Xã Tả Lèng huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30212",
+    "place": "Xã Thèn Sin huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30213",
+    "place": "Xã Sùng Phài huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30214",
+    "place": "Xã Nùng Nàng huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30215",
+    "place": "Xã Bản Giang huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30216",
+    "place": "Xã Bản Hon huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30217",
+    "place": "Xã Khun Há huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30218",
+    "place": "Xã Nà Tăm huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30219",
+    "place": "Xã Bản Bo huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30250",
+    "place": "Bưu cục phát Tam Đường huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30251",
+    "place": "Bưu cục Hồ Thầu huyện Tam Đường tỉnh Lai Châu"
+  },
+  {
+    "zip": "30300",
+    "place": "Bưu cục Trung tâm huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30301",
+    "place": "Huyện ủy huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30302",
+    "place": "Hội đồng nhân dân huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30303",
+    "place": "Ủy ban nhân dân huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30306",
+    "place": "Thị trấn Phong Thổ huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30307",
+    "place": "Xã Khổng Lào huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30308",
+    "place": "Xã Bản Lang huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30309",
+    "place": "Xã Dào San huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30310",
+    "place": "Xã Tông Qua Lìn huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30311",
+    "place": "Xã Pa Vây Sử huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30312",
+    "place": "Xã Mồ Sì San huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30313",
+    "place": "Xã Sì Lờ Lầu huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30314",
+    "place": "Xã Ma Li Chải huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30315",
+    "place": "Xã Vàng Ma Chải huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30316",
+    "place": "Xã Mù Sang huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30317",
+    "place": "Xã Ma Ly Pho huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30318",
+    "place": "Xã Hoang Thèn huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30319",
+    "place": "Xã Huổi Luông huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30320",
+    "place": "Xã Mường So huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30321",
+    "place": "Xã Lả Nhì Thàng huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30322",
+    "place": "Xã Nậm Xe huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30323",
+    "place": "Xã Sin Suối Hồ huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30350",
+    "place": "Bưu cục phát Phong Thổ huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30351",
+    "place": "Bưu cục Mường So huyện Phong Thổ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30400",
+    "place": "Bưu cục Trung tâm huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30401",
+    "place": "Huyện ủy huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30402",
+    "place": "Hội đồng nhân dân huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30403",
+    "place": "Ủy ban nhân dân huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30406",
+    "place": "Thị trấn Mường Tè huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30407",
+    "place": "Xã Bun Nưa huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30408",
+    "place": "Xã Pa Vệ Sử huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30409",
+    "place": "Xã Pa Ủ huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30410",
+    "place": "Xã Tá Bạ huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30411",
+    "place": "Xã Thu Lũm huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30412",
+    "place": "Xã Ka Lăng huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30413",
+    "place": "Xã Mù Cả huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30414",
+    "place": "Xã Mường Tè huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30415",
+    "place": "Xã Nậm Khao huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30416",
+    "place": "Xã Bun Tở huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30417",
+    "place": "Xã Tà Tổng huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30418",
+    "place": "Xã Kan Hồ huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30419",
+    "place": "Xã Vàng San huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30450",
+    "place": "Bưu cục phát Mường Tè huyện Mường Tè tỉnh Lai Châu"
+  },
+  {
+    "zip": "30500",
+    "place": "Bưu cục Trung tâm huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30501",
+    "place": "Huyện ủy huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30502",
+    "place": "Hội đồng nhân dân huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30503",
+    "place": "Ủy ban nhân dân huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30506",
+    "place": "Thị trấn Nậm Nhùn huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30507",
+    "place": "Xã Nậm Hàng huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30508",
+    "place": "Xã Pú Đao huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30509",
+    "place": "Xã Nậm Pì huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30510",
+    "place": "Xã Trung Chải huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30511",
+    "place": "Xã Nậm Ban huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30512",
+    "place": "Xã Hua Bum huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30513",
+    "place": "Xã Mường Mô huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30514",
+    "place": "Xã Nậm Chà huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30515",
+    "place": "Xã Nậm Manh huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30516",
+    "place": "Xã Lê Lợi huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30550",
+    "place": "Bưu cục phát Nậm Nhùn huyện Nậm Nhùn tỉnh Lai Châu"
+  },
+  {
+    "zip": "30600",
+    "place": "Bưu cục Trung tâm huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30601",
+    "place": "Huyện ủy huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30602",
+    "place": "Hội đồng nhân dân huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30603",
+    "place": "Ủy ban nhân dân huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30606",
+    "place": "Thị trấn Sìn Hồ huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30607",
+    "place": "Xã Phăng Sô Lin huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30608",
+    "place": "Xã Ma Quai huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30609",
+    "place": "Xã Phìn Hồ huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30610",
+    "place": "Xã Pa Tần huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30611",
+    "place": "Xã Hồng Thu huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30612",
+    "place": "Xã Tả Phìn huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30613",
+    "place": "Xã Sà Dề Phìn huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30614",
+    "place": "Xã Tả Ngảo huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30615",
+    "place": "Xã Làng Mô huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30616",
+    "place": "Xã Chăn Nưa huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30617",
+    "place": "Xã Tủa Sín Chải huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30618",
+    "place": "Xã Nậm Mạ huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30619",
+    "place": "Xã Nậm Cha huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30620",
+    "place": "Xã Căn Co huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30621",
+    "place": "Xã Nậm Hăn huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30622",
+    "place": "Xã Nậm Cuổi huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30623",
+    "place": "Xã Noong Hẻo huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30624",
+    "place": "Xã Pu Sam Cáp huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30625",
+    "place": "Xã Pa Khóa huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30626",
+    "place": "Xã Nậm Tăm huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30627",
+    "place": "Xã Lùng Thàng huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30650",
+    "place": "Bưu cục phát Sìn Hồ huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30651",
+    "place": "Bưu cục Nậm Tăm huyện Sìn Hồ tỉnh Lai Châu"
+  },
+  {
+    "zip": "30700",
+    "place": "Bưu cục Trung tâm huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30701",
+    "place": "Huyện ủy huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30702",
+    "place": "Hội đồng nhân dân huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30703",
+    "place": "Ủy ban nhân dân huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30706",
+    "place": "Thị trấn Tân Uyên huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30707",
+    "place": "Xã Phúc Khoa huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30708",
+    "place": "Xã Mường Khoa huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30709",
+    "place": "Xã Thân Thuộc huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30710",
+    "place": "Xã Nậm Cần huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30711",
+    "place": "Xã Nậm Sỏ huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30712",
+    "place": "Xã Tà Mít huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30713",
+    "place": "Xã Pắc Ta huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30714",
+    "place": "Xã Hố Mít huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30715",
+    "place": "Xã Trung Đồng huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30750",
+    "place": "Bưu cục phát Tân Uyên huyện Tân Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30800",
+    "place": "Bưu cục Trung tâm huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30801",
+    "place": "Huyện ủy huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30802",
+    "place": "Hội đồng nhân dân huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30803",
+    "place": "Ủy ban nhân dân huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30806",
+    "place": "Thị trấn Than Uyên huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30807",
+    "place": "Xã Mường Than huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30808",
+    "place": "Xã Phúc Than huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30809",
+    "place": "Xã Mường Mít huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30810",
+    "place": "Xã Mường Cang huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30811",
+    "place": "Xã Pha Mu huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30812",
+    "place": "Xã Tà Hừa huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30813",
+    "place": "Xã Tà Gia huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30814",
+    "place": "Xã Khoen On huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30815",
+    "place": "Xã Tà Mung huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30816",
+    "place": "Xã Mường Kim huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30817",
+    "place": "Xã Hua Nà huyện Than Uyên tỉnh Lai Châu"
+  },
+  {
+    "zip": "30850",
+    "place": "Bưu cục phát Than Uyên huyện Than Uyên tỉnh Lai Châu"
+  }
+]

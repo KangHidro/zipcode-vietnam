@@ -1,0 +1,918 @@
+[
+  {
+    "zip": "80000",
+    "place": "Bưu cục Trung tâm tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80009",
+    "place": "Đảng ủy khối cơ quan tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80016",
+    "place": "Báo Tây Ninh"
+  },
+  {
+    "zip": "80021",
+    "place": "Hội đồng nhân dân tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80035",
+    "place": "Tòa án nhân dân tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80041",
+    "place": "Sở Công Thương tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "80044",
+    "place": "Sở Ngoại vụ tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80045",
+    "place": "Sở Tài chính tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80049",
+    "place": "Công an tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80051",
+    "place": "Sở Nội vụ tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80052",
+    "place": "Sở Tư pháp tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80054",
+    "place": "Sở Giao thông vận tải tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80058",
+    "place": "Sở Xây dựng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80060",
+    "place": "Sở Y tế tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80062",
+    "place": "Ban Dân tộc tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80064",
+    "place": "Thanh tra tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80070",
+    "place": "Bảo hiểm xã hội tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80078",
+    "place": "Cục Thuế tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80079",
+    "place": "Cục Hải quan tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80080",
+    "place": "Cục Thống kê tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80081",
+    "place": "Kho bạc Nhà nước tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80088",
+    "place": "Liên đoàn Lao động tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80089",
+    "place": "Hội Nông dân tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80091",
+    "place": "Tỉnh Đoàn tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80093",
+    "place": "Hội Cựu chiến binh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80100",
+    "place": "Bưu cục Trung tâm thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80101",
+    "place": "Thành ủy thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80102",
+    "place": "Hội đồng nhân dân thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80103",
+    "place": "Ủy ban nhân dân thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80106",
+    "place": "Phường 1 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80107",
+    "place": "Phường 2 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80108",
+    "place": "Phường 3 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80109",
+    "place": "Phường 4 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80110",
+    "place": "Phường Hiệp Ninh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80111",
+    "place": "Phường Ninh Thạnh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80112",
+    "place": "Phường Ninh Sơn thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80113",
+    "place": "Xã Thạnh Tân thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80114",
+    "place": "Xã Tân Bình thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80115",
+    "place": "Xã Bình Minh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80150",
+    "place": "Bưu cục phát Tây Ninh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80151",
+    "place": "Bưu cục KHL Tây Ninh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80152",
+    "place": "Bưu cục Phường 1 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80153",
+    "place": "Bưu cục Hiệp Ninh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80154",
+    "place": "Bưu cục Cửa số 2 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80155",
+    "place": "Bưu cục Ninh Sơn thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80157",
+    "place": "Bưu điện văn hóa xã Thạnh Tân 1 thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80199",
+    "place": "Bưu cục Hệ 1 Tây Ninh thành phố Tây Ninh tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80200",
+    "place": "Bưu cục Trung tâm huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80201",
+    "place": "Huyện ủy huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80202",
+    "place": "Hội đồng nhân dân huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80203",
+    "place": "Ủy ban nhân dân huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80206",
+    "place": "Thị trấn Dương Minh Châu huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80207",
+    "place": "Xã Phan huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80208",
+    "place": "Xã Bàu Năng huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80209",
+    "place": "Xã Chà Là huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80210",
+    "place": "Xã Cầu Khởi huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80211",
+    "place": "Xã Truông Mít huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80212",
+    "place": "Xã Lộc Ninh huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80213",
+    "place": "Xã Bến Củi huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80214",
+    "place": "Xã Phước Minh huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80215",
+    "place": "Xã Phước Ninh huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80216",
+    "place": "Xã Suối Đá huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80250",
+    "place": "Bưu cục phát Dương Minh Châu huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80251",
+    "place": "Bưu cục Bàu Năng huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80252",
+    "place": "Bưu điện văn hóa xã Phước Minh 1 huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80253",
+    "place": "Bưu điện văn hóa xã Suối Đá 1 huyện Dương Minh Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80300",
+    "place": "Bưu cục Trung tâm huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80301",
+    "place": "Huyện ủy huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80302",
+    "place": "Hội đồng nhân dân huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80303",
+    "place": "Ủy ban nhân dân huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80306",
+    "place": "Thị trấn Tân Châu huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80307",
+    "place": "Xã Suối Dây huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80308",
+    "place": "Xã Tân Thành huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80309",
+    "place": "Xã Tân Hoà huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80310",
+    "place": "Xã Suối Ngô huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80311",
+    "place": "Xã Tân Đông huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80312",
+    "place": "Xã Tân Hà huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80313",
+    "place": "Xã Tân Hội huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80314",
+    "place": "Xã Tân Hiệp huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80315",
+    "place": "Xã Thạnh Đông huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80316",
+    "place": "Xã Tân Phú huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80317",
+    "place": "Xã Tân Hưng huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80350",
+    "place": "Bưu cục phát Tân Châu huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80351",
+    "place": "Bưu cục Tân Đông huyện Tân Châu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80400",
+    "place": "Bưu cục Trung tâm huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80401",
+    "place": "Huyện ủy huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80402",
+    "place": "Hội đồng nhân dân huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80403",
+    "place": "Ủy ban nhân dân huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80406",
+    "place": "Thị trấn Tân Biên huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80407",
+    "place": "Xã Thạnh Bình huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80408",
+    "place": "Xã Thạnh Bắc huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80409",
+    "place": "Xã Tân Lập huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80410",
+    "place": "Xã Tân Bình huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80411",
+    "place": "Xã Thạnh Tây huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80412",
+    "place": "Xã Hoà Hiệp huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80413",
+    "place": "Xã Tân Phong huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80414",
+    "place": "Xã Mỏ Công huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80415",
+    "place": "Xã Trà Vong huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80450",
+    "place": "Bưu cục phát Tân Biên huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80451",
+    "place": "Bưu cục Tân Lập huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80452",
+    "place": "Bưu cục Mỏ Công huyện Tân Biên tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80500",
+    "place": "Bưu cục Trung tâm huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80501",
+    "place": "Huyện ủy huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80502",
+    "place": "Hội đồng nhân dân huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80503",
+    "place": "Ủy ban nhân dân huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80506",
+    "place": "Thị trấn Châu Thành huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80507",
+    "place": "Xã Đồng Khởi huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80508",
+    "place": "Xã Thái Bình huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80509",
+    "place": "Xã Hảo Đước huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80510",
+    "place": "Xã An Cơ huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80511",
+    "place": "Xã Phước Vinh huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80512",
+    "place": "Xã Biên Giới huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80513",
+    "place": "Xã Hoà Thạnh huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80514",
+    "place": "Xã Hoà Hội huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80515",
+    "place": "Xã Trí Bình huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80516",
+    "place": "Xã Thành Long huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80517",
+    "place": "Xã Ninh Điền huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80518",
+    "place": "Xã Long Vĩnh huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80519",
+    "place": "Xã Thanh Điền huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80520",
+    "place": "Xã An Bình huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80550",
+    "place": "Bưu cục phát Châu Thành huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80551",
+    "place": "Bưu cục Thái Bình huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80552",
+    "place": "Bưu cục Thành Long huyện Châu Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80600",
+    "place": "Bưu cục Trung tâm huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80601",
+    "place": "Huyện ủy huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80602",
+    "place": "Hội đồng nhân dân huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80603",
+    "place": "Ủy ban nhân dân huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80606",
+    "place": "Thị trấn Hoà Thành huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80607",
+    "place": "Xã Long Thành Bắc huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80608",
+    "place": "Xã Hiệp Tân huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80609",
+    "place": "Xã Long Thành Trung huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80610",
+    "place": "Xã Long Thành Nam huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80611",
+    "place": "Xã Trường Tây huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80612",
+    "place": "Xã Trường Đông huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80613",
+    "place": "Xã Trường Hoà huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80650",
+    "place": "Bưu cục phát Hòa Thành huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80651",
+    "place": "Bưu cục Mít Một huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80652",
+    "place": "Bưu điện văn hóa xã Hiệp Tân 1 huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80653",
+    "place": "Bưu điện văn hóa xã Long Thành Nam 1 huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80654",
+    "place": "Bưu điện văn hóa xã Long Thành Nam 2 huyện Hòa Thành tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80700",
+    "place": "Bưu cục Trung tâm huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80701",
+    "place": "Huyện ủy huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80702",
+    "place": "Hội đồng nhân dân huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80703",
+    "place": "Ủy ban nhân dân huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80706",
+    "place": "Thị trấn Gò Dầu huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80707",
+    "place": "Xã Thanh Phước huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80708",
+    "place": "Xã Phước Thạnh huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80709",
+    "place": "Xã Phước Đông huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80710",
+    "place": "Xã Bàu Đồn huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80711",
+    "place": "Xã Hiệp Thạnh huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80712",
+    "place": "Xã Thạnh Đức huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80713",
+    "place": "Xã Cẩm Giang huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80714",
+    "place": "Xã Phước Trạch huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80750",
+    "place": "Bưu cục phát Gò Dầu huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80751",
+    "place": "Bưu điện văn hóa xã Thanh Phước 1 huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80752",
+    "place": "Bưu điện văn hóa xã Phước Đông 1 huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80753",
+    "place": "Bưu điện văn hóa xã Bàu Đồn 1 huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80754",
+    "place": "Bưu điện văn hóa xã Hiệp Thạnh 1 huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80755",
+    "place": "Bưu điện văn hóa xã Cẩm Giang 1 huyện Gò Dầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80800",
+    "place": "Bưu cục Trung tâm huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80801",
+    "place": "Huyện ủy huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80802",
+    "place": "Hội đồng nhân dân huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80803",
+    "place": "Ủy ban nhân dân huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80806",
+    "place": "Thị trấn Bến Cầu huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80807",
+    "place": "Xã Tiên Thuận huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80808",
+    "place": "Xã Long Chữ huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80809",
+    "place": "Xã Long Giang huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80810",
+    "place": "Xã Long Phước huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80811",
+    "place": "Xã Long Khánh huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80812",
+    "place": "Xã Long Thuận huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80813",
+    "place": "Xã Lợi Thuận huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80814",
+    "place": "Xã An Thạnh huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80850",
+    "place": "Bưu cục phát Bến Cầu huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80851",
+    "place": "Bưu cục Long Thuận huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80852",
+    "place": "Bưu cục Mộc Bài huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80853",
+    "place": "Bưu điện văn hóa xã Long Phước huyện Bến Cầu tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80900",
+    "place": "Bưu cục Trung tâm huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80901",
+    "place": "Huyện ủy huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80902",
+    "place": "Hội đồng nhân dân huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80903",
+    "place": "Ủy ban nhân dân huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80906",
+    "place": "Thị trấn Trảng Bàng huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80907",
+    "place": "Xã Gia Lộc huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80908",
+    "place": "Xã Lộc Hưng huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80909",
+    "place": "Xã Hưng Thuận huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80910",
+    "place": "Xã Đôn Thuận huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80911",
+    "place": "Xã Gia Bình huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80912",
+    "place": "Xã Phước Lưu huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80913",
+    "place": "Xã Bình Thạnh huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80914",
+    "place": "Xã Phước Chỉ huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80915",
+    "place": "Xã An Hoà huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80916",
+    "place": "Xã An Tịnh huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80950",
+    "place": "Bưu cục phát Trảng Bàng huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80951",
+    "place": "Bưu cục Linh Trung 3 huyện Trảng Bàng tỉnh Tây Ninh"
+  },
+  {
+    "zip": "80952",
+    "place": "Bưu cục KCN Trảng Bàng huyện Tràng Bảng tỉnh Tây Ninh"
+  }
+]

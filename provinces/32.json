@@ -1,0 +1,1006 @@
+[
+  {
+    "zip": "32000",
+    "place": "Bưu cục Trung tâm tỉnh Điện Biên"
+  },
+  {
+    "zip": "32001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Điện Biên"
+  },
+  {
+    "zip": "32002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Điện Biên"
+  },
+  {
+    "zip": "32003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Điện Biên"
+  },
+  {
+    "zip": "32004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Điện Biên"
+  },
+  {
+    "zip": "32005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Điện Biên"
+  },
+  {
+    "zip": "32009",
+    "place": "Đảng ủy khối cơ quan tỉnh Điện Biên"
+  },
+  {
+    "zip": "32010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Điện Biên"
+  },
+  {
+    "zip": "32011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Điện Biên"
+  },
+  {
+    "zip": "32016",
+    "place": "Báo Điện Biên"
+  },
+  {
+    "zip": "32021",
+    "place": "Hội đồng nhân dân tỉnh Điện Biên"
+  },
+  {
+    "zip": "32030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Điện Biên"
+  },
+  {
+    "zip": "32035",
+    "place": "Tòa án nhân dân tỉnh Điện Biên"
+  },
+  {
+    "zip": "32036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Điện Biên"
+  },
+  {
+    "zip": "32040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Điện Biên"
+  },
+  {
+    "zip": "32041",
+    "place": "Sở Công Thương tỉnh Điện Biên"
+  },
+  {
+    "zip": "32042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Điện Biên"
+  },
+  {
+    "zip": "32043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "32044",
+    "place": "Sở Ngoại vụ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32045",
+    "place": "Sở Tài chính tỉnh Điện Biên"
+  },
+  {
+    "zip": "32046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Điện Biên"
+  },
+  {
+    "zip": "32049",
+    "place": "Công an tỉnh Điện Biên"
+  },
+  {
+    "zip": "32051",
+    "place": "Sở Nội vụ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32052",
+    "place": "Sở Tư pháp tỉnh Điện Biên"
+  },
+  {
+    "zip": "32053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32054",
+    "place": "Sở Giao thông vận tải tỉnh Điện Biên"
+  },
+  {
+    "zip": "32055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Điện Biên"
+  },
+  {
+    "zip": "32057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Điện Biên"
+  },
+  {
+    "zip": "32058",
+    "place": "Sở Xây dựng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32060",
+    "place": "Sở Y tế tỉnh Điện Biên"
+  },
+  {
+    "zip": "32061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Điện Biên"
+  },
+  {
+    "zip": "32062",
+    "place": "Ban Dân tộc tỉnh Điện Biên"
+  },
+  {
+    "zip": "32063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Điện Biên"
+  },
+  {
+    "zip": "32064",
+    "place": "Thanh tra tỉnh Điện Biên"
+  },
+  {
+    "zip": "32065",
+    "place": "Trường chính trị tỉnh Điện Biên"
+  },
+  {
+    "zip": "32066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Điện Biên"
+  },
+  {
+    "zip": "32067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Điện Biên"
+  },
+  {
+    "zip": "32070",
+    "place": "Bảo hiểm xã hội tỉnh Điện Biên"
+  },
+  {
+    "zip": "32078",
+    "place": "Cục Thuế tỉnh Điện Biên"
+  },
+  {
+    "zip": "32079",
+    "place": "Cục Hải quan tỉnh Điện Biên"
+  },
+  {
+    "zip": "32080",
+    "place": "Cục Thống kê tỉnh Điện Biên"
+  },
+  {
+    "zip": "32081",
+    "place": "Kho bạc Nhà nước tỉnh Điện Biên"
+  },
+  {
+    "zip": "32085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Điện Biên"
+  },
+  {
+    "zip": "32086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Điện Biên"
+  },
+  {
+    "zip": "32087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Điện Biên"
+  },
+  {
+    "zip": "32088",
+    "place": "Liên đoàn Lao động tỉnh Điện Biên"
+  },
+  {
+    "zip": "32089",
+    "place": "Hội Nông dân tỉnh Điện Biên"
+  },
+  {
+    "zip": "32090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Điện Biên"
+  },
+  {
+    "zip": "32091",
+    "place": "Tỉnh Đoàn tỉnh Điện Biên"
+  },
+  {
+    "zip": "32092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32093",
+    "place": "Hội Cựu chiến binh tỉnh Điện Biên"
+  },
+  {
+    "zip": "32100",
+    "place": "Bưu cục Trung tâm thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32101",
+    "place": "Thành ủy thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32102",
+    "place": "Hội đồng nhân dân thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32103",
+    "place": "Ủy ban nhân dân thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32106",
+    "place": "Phường Him Lam thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32107",
+    "place": "Xã Thanh Minh thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32108",
+    "place": "Phường Thanh Trường thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32109",
+    "place": "Phường Thanh Bình thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32110",
+    "place": "Phường Tân Thanh thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32111",
+    "place": "Phường Mường Thanh thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32112",
+    "place": "Phường Noong Bua thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32113",
+    "place": "Phường Nam Thanh thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32114",
+    "place": "Xã Tà Lèng thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32150",
+    "place": "Bưu cục phát Điện Biên Phủ thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32151",
+    "place": "Bưu cục KHL Điện Biên Phủ thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32152",
+    "place": "Bưu cục Him Lam thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32153",
+    "place": "Bưu cụcThanh Trường thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32154",
+    "place": "Bưu cục Thanh Bình thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32155",
+    "place": "Bưu cục Nam Thanh thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32199",
+    "place": "Bưu cục Hệ 1 Điện Biên thành phố Điện Biên Phủ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32200",
+    "place": "Bưu cục Trung tâm huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32201",
+    "place": "Huyện ủy huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32202",
+    "place": "Hội đồng nhân dân huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32203",
+    "place": "Ủy ban nhân dân huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32206",
+    "place": "Xã Sam Mứn huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32207",
+    "place": "Xã Noọng Hẹt huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32208",
+    "place": "Xã Thanh An huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32209",
+    "place": "Xã Thanh Xương huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32210",
+    "place": "Xã Pá Khoang huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32211",
+    "place": "Xã Mường Phăng huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32212",
+    "place": "Xã Nà Nhạn huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32213",
+    "place": "Xã Nà Tấu huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32214",
+    "place": "Xã Mường Pồn huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32215",
+    "place": "Xã Hua Thanh huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32216",
+    "place": "Xã Thanh Nưa huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32217",
+    "place": "Xã Thanh Luông huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32218",
+    "place": "Xã Thanh Hưng huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32219",
+    "place": "Xã Thanh Chăn huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32220",
+    "place": "Xã Thanh Yên huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32221",
+    "place": "Xã Noong Luống huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32222",
+    "place": "Xã Pa Thơm huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32223",
+    "place": "Xã Pom Lót huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32224",
+    "place": "Xã Hẹ Muông huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32225",
+    "place": "Xã Na Ư huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32226",
+    "place": "Xã Núa Ngam huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32227",
+    "place": "Xã Na Tông huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32228",
+    "place": "Xã Mường Nhà huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32229",
+    "place": "Xã Phu Luông huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32230",
+    "place": "Xã Mường Lói huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32250",
+    "place": "Bưu cục phát Điện Biên huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32251",
+    "place": "Bưu cục Bản Phủ huyện Điện Biên tỉnh Điện Biên"
+  },
+  {
+    "zip": "32300",
+    "place": "Bưu cục Trung tâm huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32301",
+    "place": "Huyện ủy huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32302",
+    "place": "Hội đồng nhân dân huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32303",
+    "place": "Ủy ban nhân dân huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32306",
+    "place": "Thị trấn Điện Biên Đông huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32307",
+    "place": "Xã Phì Nhừ huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32308",
+    "place": "Xã Chiềng Sơ huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32309",
+    "place": "Xã Xa Dung huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32310",
+    "place": "Xã Na Son huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32311",
+    "place": "Xã Pu Nhi huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32312",
+    "place": "Xã Nong U huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32313",
+    "place": "Xã Keo Lôm huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32314",
+    "place": "Xã Phình Giàng huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32315",
+    "place": "Xã Pú Hồng huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32316",
+    "place": "Xã Tìa Dình huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32317",
+    "place": "Xã Háng Lìa huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32318",
+    "place": "Xã Luân Giói huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32319",
+    "place": "Xã Mường Luân huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32350",
+    "place": "Bưu cục phát Điện Biên Đông huyện Điện Biên Đông tỉnh Điện Biên"
+  },
+  {
+    "zip": "32400",
+    "place": "Bưu cục Trung tâm huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32401",
+    "place": "Huyện ủy huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32402",
+    "place": "Hội đồng nhân dân huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32403",
+    "place": "Ủy ban nhân dân huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32406",
+    "place": "Thị trấn Mường Ảng huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32407",
+    "place": "Xã Ảng Tở huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32408",
+    "place": "Xã Ngối Cáy huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32409",
+    "place": "Xã Mường Đăng huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32410",
+    "place": "Xã Ảng Nưa huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32411",
+    "place": "Xã Ảng Cang huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32412",
+    "place": "Xã Nặm Lịch huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32413",
+    "place": "Xã Mường Lạn huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32414",
+    "place": "Xã Xuân Lao huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32415",
+    "place": "Xã Búng Lao huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32450",
+    "place": "Bưu cục phát Mường Ảng huyện Mường Ảng tỉnh Điện Biên"
+  },
+  {
+    "zip": "32500",
+    "place": "Bưu cục Trung tâm huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32501",
+    "place": "Huyện ủy huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32502",
+    "place": "Hội đồng nhân dân huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32503",
+    "place": "Ủy ban nhân dân huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32506",
+    "place": "Thị trấn Tuần Giáo huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32507",
+    "place": "Xã Quài Cang huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32508",
+    "place": "Xã Tỏa Tình huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32509",
+    "place": "Xã Ta Ma huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32510",
+    "place": "Xã Phình Sáng huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32511",
+    "place": "Xã Nà Tòng huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32512",
+    "place": "Xã Rạng Đông huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32513",
+    "place": "Xã Pú Nhung huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32514",
+    "place": "Xã Quài Nưa huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32515",
+    "place": "Xã Mùn Chung huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32516",
+    "place": "Xã Mường Mùn huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32517",
+    "place": "Xã Pú Xi huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32518",
+    "place": "Xã Mường Khong huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32519",
+    "place": "Xã Mường Thín huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32520",
+    "place": "Xã Nà Sáy huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32521",
+    "place": "Xã Chiềng Sinh huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32522",
+    "place": "Xã Chiềng Đông huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32523",
+    "place": "Xã Tênh Phông huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32524",
+    "place": "Xã Quài Tở huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32550",
+    "place": "Bưu cục phát Tuần Giáo huyện Tuần Giáo tỉnh Điện Biên"
+  },
+  {
+    "zip": "32600",
+    "place": "Bưu cục Trung tâm huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32601",
+    "place": "Huyện ủy huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32602",
+    "place": "Hội đồng nhân dân huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32603",
+    "place": "Ủy ban nhân dân huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32606",
+    "place": "Thị trấn Tủa Chùa huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32607",
+    "place": "Xã Mường Báng huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32608",
+    "place": "Xã Xá Nhè huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32609",
+    "place": "Xã Mường Đun huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32610",
+    "place": "Xã Tủa Thàng huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32611",
+    "place": "Xã Huổi Só huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32612",
+    "place": "Xã Xín Chải huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32613",
+    "place": "Xã Tả Sìn Thàng huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32614",
+    "place": "Xã Lao Xả Phình huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32615",
+    "place": "Xã Trung Thu huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32616",
+    "place": "Xã Tả Phìn huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32617",
+    "place": "Xã Sính Phình huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32650",
+    "place": "Bưu cục phát Tủa Chùa huyện Tủa Chùa tỉnh Điện Biên"
+  },
+  {
+    "zip": "32700",
+    "place": "Bưu cục Trung tâm thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32701",
+    "place": "Thị ủy thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32702",
+    "place": "Hội đồng nhân dân thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32703",
+    "place": "Ủy ban nhân dân thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32704",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32706",
+    "place": "Phường Na Lay thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32707",
+    "place": "Phường Sông Đà thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32708",
+    "place": "Xã Lay Nưa thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32725",
+    "place": "Bưu cục phát Mường Lay thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32726",
+    "place": "Bưu cục Nậm Cản thị xã Mường Lay tỉnh Điện Biên"
+  },
+  {
+    "zip": "32750",
+    "place": "Bưu cục Trung tâm huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32751",
+    "place": "Huyện ủy huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32752",
+    "place": "Hội đồng nhân dân huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32753",
+    "place": "Ủy ban nhân dân huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32754",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32756",
+    "place": "Thị trấn Mường Chà huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32757",
+    "place": "Xã Huổi Mí huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32758",
+    "place": "Xã Nậm Nèn huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32759",
+    "place": "Xã Pa Ham huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32760",
+    "place": "Xã Xá Tổng huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32761",
+    "place": "Xã Hừa Ngài huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32762",
+    "place": "Xã Huổi Lèng huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32763",
+    "place": "Xã Mường Tùng huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32764",
+    "place": "Xã Ma Thì Hồ huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32765",
+    "place": "Xã Sa Lông huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32766",
+    "place": "Xã Na Sang huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32767",
+    "place": "Xã Mường Mươn huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32775",
+    "place": "Bưu cục phát Mường Chà huyện Mường Chà tỉnh Điện Biên"
+  },
+  {
+    "zip": "32800",
+    "place": "Bưu cục Trung tâm huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32801",
+    "place": "Huyện ủy huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32802",
+    "place": "Hội đồng nhân dân huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32803",
+    "place": "Ủy ban nhân dân huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32806",
+    "place": "Xã Nà Hỳ huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32807",
+    "place": "Xã Si Pa Phìn huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32808",
+    "place": "Xã Phìn Hồ huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32809",
+    "place": "Xã Chà Nưa huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32810",
+    "place": "Xã Chà Tở huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32811",
+    "place": "Xã Nậm Khăn huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32812",
+    "place": "Xã Pa Tần huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32813",
+    "place": "Xã Chà Cang huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32814",
+    "place": "Xã Nậm Tin huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32815",
+    "place": "Xã Na Cô Sa huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32816",
+    "place": "Xã Nà Khoa huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32817",
+    "place": "Xã Nậm Nhừ huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32818",
+    "place": "Xã Nậm Chua huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32819",
+    "place": "Xã Nà Bủng huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32820",
+    "place": "Xã Vàng Đán huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32850",
+    "place": "Bưu cục phát Nậm Pồ huyện Nậm Pồ tỉnh Điện Biên"
+  },
+  {
+    "zip": "32900",
+    "place": "Bưu cục Trung tâm huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32901",
+    "place": "Huyện ủy huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32902",
+    "place": "Hội đồng nhân dân huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32903",
+    "place": "Ủy ban nhân dân huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32906",
+    "place": "Xã Mường Nhé huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32907",
+    "place": "Xã Nậm Vì huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32908",
+    "place": "Xã Chung Chải huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32909",
+    "place": "Xã Leng Su Sìn huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32910",
+    "place": "Xã Sen Thượng huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32911",
+    "place": "Xã Sín Thầu huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32912",
+    "place": "Xã Nậm Kè huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32913",
+    "place": "Xã Quảng Lâm huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32914",
+    "place": "Xã Pá Mỳ huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32915",
+    "place": "Xã Huổi Lếnh huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32916",
+    "place": "Xã Mường Toong huyện Mường Nhé tỉnh Điện Biên"
+  },
+  {
+    "zip": "32950",
+    "place": "Bưu cục phát Mường Nhé huyện Mường Nhé tỉnh Điện Biên"
+  }
+]

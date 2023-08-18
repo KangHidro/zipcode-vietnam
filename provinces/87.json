@@ -1,0 +1,886 @@
+[
+  {
+    "zip": "87000",
+    "place": "Bưu cục Trung tâm tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87009",
+    "place": "Đảng ủy khối cơ quan tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87016",
+    "place": "Báo Trà Vinh"
+  },
+  {
+    "zip": "87021",
+    "place": "Hội đồng nhân dân tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87035",
+    "place": "Tòa án nhân dân tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87041",
+    "place": "Sở Công Thương tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "87045",
+    "place": "Sở Tài chính tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87049",
+    "place": "Công an tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87051",
+    "place": "Sở Nội vụ tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87052",
+    "place": "Sở Tư pháp tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87054",
+    "place": "Sở Giao thông vận tải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87058",
+    "place": "Sở Xây dựng tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87060",
+    "place": "Sở Y tế tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87062",
+    "place": "Ban Dân tộc tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87064",
+    "place": "Thanh tra tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87065",
+    "place": "Trường chính trị tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87070",
+    "place": "Bảo hiểm xã hội tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87078",
+    "place": "Cục Thuế tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87080",
+    "place": "Cục Thống kê tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87081",
+    "place": "Kho bạc Nhà nước tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87088",
+    "place": "Liên đoàn Lao động tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87089",
+    "place": "Hội Nông dân tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87091",
+    "place": "Tỉnh Đoàn tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87093",
+    "place": "Hội Cựu chiến binh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87100",
+    "place": "Bưu cục Trung tâm thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87101",
+    "place": "Thành ủy thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87102",
+    "place": "Hội đồng nhân dân thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87103",
+    "place": "Ủy ban nhân dân thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87106",
+    "place": "Phường 1 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87107",
+    "place": "Phường 4 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87108",
+    "place": "Phường 3 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87109",
+    "place": "Phường 2 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87110",
+    "place": "Phường 5 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87111",
+    "place": "Phường 6 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87112",
+    "place": "Phường 7 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87113",
+    "place": "Phường 8 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87114",
+    "place": "Phường 9 thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87115",
+    "place": "Xã Long Đức thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87150",
+    "place": "Bưu cục phát Trà Vinh thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87151",
+    "place": "Bưu cục Phan Đình Phùng thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87152",
+    "place": "Bưu cục Mậu Thân thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87198",
+    "place": "Bưu cục HCC Trà Vinh thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87199",
+    "place": "Bưu cục Hệ 1 Trà Vinh thành phố Trà Vinh tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87200",
+    "place": "Bưu cục Trung tâm huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87201",
+    "place": "Huyện ủy huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87202",
+    "place": "Hội đồng nhân dân huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87203",
+    "place": "Ủy ban nhân dân huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87206",
+    "place": "Thị trấn Càng Long huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87207",
+    "place": "Xã Nhị Long huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87208",
+    "place": "Xã Đại Phước huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87209",
+    "place": "Xã Nhị Long Phú huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87210",
+    "place": "Xã Đức Mỹ huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87211",
+    "place": "Xã Mỹ Cẩm huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87212",
+    "place": "Xã An Trường A huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87213",
+    "place": "Xã An Trường huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87214",
+    "place": "Xã Tân Bình huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87215",
+    "place": "Xã Tân An huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87216",
+    "place": "Xã Huyền Hội huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87217",
+    "place": "Xã Phương Thạnh huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87218",
+    "place": "Xã Đại Phúc huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87219",
+    "place": "Xã Bình Phú huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87250",
+    "place": "Bưu cục phát Càng Long huyện Càng Long tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87300",
+    "place": "Bưu cục Trung tâm huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87301",
+    "place": "Huyện ủy huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87302",
+    "place": "Hội đồng nhân dân huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87303",
+    "place": "Ủy ban nhân dân huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87306",
+    "place": "Thị trấn Cầu Kè huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87307",
+    "place": "Xã Hòa Ân huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87308",
+    "place": "Xã Thạnh Phú huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87309",
+    "place": "Xã Thông Hòa huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87310",
+    "place": "Xã Tam Ngãi huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87311",
+    "place": "Xã An Phú Tân huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87312",
+    "place": "Xã Hoà Tân huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87313",
+    "place": "Xã Châu Điền huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87314",
+    "place": "Xã Phong Thạnh huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87315",
+    "place": "Xã Phong Phú huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87316",
+    "place": "Xã Ninh Thới huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87350",
+    "place": "Bưu cục phát Cầu Kè huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87351",
+    "place": "Bưu điện văn hóa xã Tân Quy huyện Cầu Kè tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87400",
+    "place": "Bưu cục Trung tâm huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87401",
+    "place": "Huyện ủy huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87402",
+    "place": "Hội đồng nhân dân huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87403",
+    "place": "Ủy ban nhân dân huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87406",
+    "place": "Thị trấn Tiểu Cần huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87407",
+    "place": "Xã Tập Ngãi huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87408",
+    "place": "Xã Hiếu Tử huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87409",
+    "place": "Xã Hiếu Trung huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87410",
+    "place": "Xã Phú Cần huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87411",
+    "place": "Xã Long Thới huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87412",
+    "place": "Thị trấn Cầu Quan huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87413",
+    "place": "Xã Tân Hòa huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87414",
+    "place": "Xã Hùng Hòa huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87415",
+    "place": "Xã Tân Hùng huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87416",
+    "place": "Xã Ngãi Hùng huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87450",
+    "place": "Bưu cục phát Tiểu Cần huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87451",
+    "place": "Bưu cục Cầu Quan huyện Tiểu Cần tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87500",
+    "place": "Bưu cục Trung tâm huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87501",
+    "place": "Huyện ủy huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87502",
+    "place": "Hội đồng nhân dân huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87503",
+    "place": "Ủy ban nhân dân huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87506",
+    "place": "Thị trấn Trà Cú huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87507",
+    "place": "Xã Thanh Sơn huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87508",
+    "place": "Xã Long Hiệp huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87509",
+    "place": "Xã Tân Hiệp huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87510",
+    "place": "Xã Phước Hưng huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87511",
+    "place": "Xã Tập Sơn huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87512",
+    "place": "Xã Tân Sơn huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87513",
+    "place": "Xã An Quảng Hữu huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87514",
+    "place": "Xã Lưu Nghiệp Anh huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87515",
+    "place": "Xã Ngãi Xuyên huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87516",
+    "place": "Xã Kim Sơn huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87517",
+    "place": "Xã Hàm Tân huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87518",
+    "place": "Thị trấn Định An huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87519",
+    "place": "Xã Định An huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87520",
+    "place": "Xã Đại An huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87521",
+    "place": "Xã Hàm Giang huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87522",
+    "place": "Xã Ngọc Biên huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87550",
+    "place": "Bưu cục phát Trà Cú huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87551",
+    "place": "Bưu cục Phước Hưng huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87552",
+    "place": "Bưu cục Đại An huyện Trà Cú tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87600",
+    "place": "Bưu cục Trung tâm thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87601",
+    "place": "Thị ủy thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87602",
+    "place": "Hội đồng nhân dân thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87603",
+    "place": "Ủy ban nhân dân thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87604",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87606",
+    "place": "Phường 1 thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87607",
+    "place": "Phường 2 thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87608",
+    "place": "Xã Hiệp Thạnh thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87609",
+    "place": "Xã Long Hữu thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87610",
+    "place": "Xã Long Toàn thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87611",
+    "place": "Xã Dân Thành thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87612",
+    "place": "Xã Trường Long Hòa thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87650",
+    "place": "Bưu cục phát Duyên Hải thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87651",
+    "place": "Bưu cục Long Hữu thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87652",
+    "place": "Bưu cục Dân Thành thị xã Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87700",
+    "place": "Bưu cục Trung tâm huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87701",
+    "place": "Huyện ủy huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87702",
+    "place": "Hội đồng nhân dân huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87703",
+    "place": "Ủy ban nhân dân huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87706",
+    "place": "Thị trấn Long Thành huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87707",
+    "place": "Xã Đôn Xuân huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87708",
+    "place": "Xã Đôn Châu huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87709",
+    "place": "Xã Long Khánh huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87710",
+    "place": "Xã Ngũ Lạc huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87711",
+    "place": "Xã Long Vĩnh huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87712",
+    "place": "Xã Đông Hải huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87750",
+    "place": "Bưu cục phát Duyên Hải huyện Duyên Hải tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87801",
+    "place": "Huyện ủy huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87802",
+    "place": "Hội đồng nhân dân huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87803",
+    "place": "Ủy ban nhân dân huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87806",
+    "place": "Thị trấn Cầu Ngang huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87807",
+    "place": "Thị trấn Mỹ Long huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87808",
+    "place": "Xã Mỹ Long Bắc huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87809",
+    "place": "Xã Vĩnh Kim huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87810",
+    "place": "Xã Kim Hòa huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87811",
+    "place": "Xã Mỹ Hòa huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87812",
+    "place": "Xã Hiệp Hòa huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87813",
+    "place": "Xã Trường Thọ huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87814",
+    "place": "Xã Thuận Hòa huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87815",
+    "place": "Xã Nhị Trường huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87816",
+    "place": "Xã Long Sơn huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87817",
+    "place": "Xã Thạnh Hòa Sơn huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87818",
+    "place": "Xã Hiệp Mỹ Đông huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87819",
+    "place": "Xã Hiệp Mỹ Tây huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87820",
+    "place": "Xã Mỹ Long Nam huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87850",
+    "place": "Bưu cục phát Cầu Ngang huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87851",
+    "place": "Bưu cục Mỹ Long huyện Cầu Ngang tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87900",
+    "place": "Bưu cục Trung tâm huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87901",
+    "place": "Huyện ủy huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87902",
+    "place": "Hội đồng nhân dân huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87903",
+    "place": "Ủy ban nhân dân huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87906",
+    "place": "Thị trấn Châu Thành huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87907",
+    "place": "Xã Phước Hảo huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87908",
+    "place": "Xã Hưng Mỹ huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87909",
+    "place": "Xã Hòa Thuận huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87910",
+    "place": "Xã Hòa Lợi huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87911",
+    "place": "Xã Đa Lộc huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87912",
+    "place": "Xã Lương Hoà A huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87913",
+    "place": "Xã Lương Hòa huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87914",
+    "place": "Xã Nguyệt Hóa huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87915",
+    "place": "Xã Song Lộc huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87916",
+    "place": "Xã Thanh Mỹ huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87917",
+    "place": "Xã Mỹ Chánh huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87918",
+    "place": "Xã Hòa Minh huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87919",
+    "place": "Xã Long Hòa huyện Châu Thành tỉnh Trà Vinh"
+  },
+  {
+    "zip": "87950",
+    "place": "Bưu cục phát Châu Thành huyện Châu Thành tỉnh Trà Vinh"
+  }
+]

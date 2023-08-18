@@ -1,0 +1,1302 @@
+[
+  {
+    "zip": "84000",
+    "place": "Bưu cục Trung tâm tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84009",
+    "place": "Đảng ủy khối cơ quan tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84016",
+    "place": "Báo Ấp Bắc"
+  },
+  {
+    "zip": "84021",
+    "place": "Hội đồng nhân dân tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84035",
+    "place": "Tòa án nhân dân tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84037",
+    "place": "Kiểm toán nhà nước tại khu vực IX"
+  },
+  {
+    "zip": "84040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84041",
+    "place": "Sở Công Thương tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "84044",
+    "place": "Sở Ngoại vụ tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84045",
+    "place": "Sở Tài chính tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84049",
+    "place": "Công an tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84051",
+    "place": "Sở Nội vụ tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84052",
+    "place": "Sở Tư pháp tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84054",
+    "place": "Sở Giao thông vận tải tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84058",
+    "place": "Sở Xây dựng tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84060",
+    "place": "Sở Y tế tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84064",
+    "place": "Thanh tra tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84065",
+    "place": "Trường chính trị tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84070",
+    "place": "Bảo hiểm xã hội tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84078",
+    "place": "Cục Thuế tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84079",
+    "place": "Chi cục Hải quan tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84080",
+    "place": "Cục Thống kê tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84081",
+    "place": "Kho bạc Nhà nước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84087",
+    "place": "Hội Văn học nghệ thuật tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84088",
+    "place": "Liên đoàn Lao động tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84089",
+    "place": "Hội Nông dân tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84091",
+    "place": "Tỉnh Đoàn tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84093",
+    "place": "Hội Cựu chiến binh tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84100",
+    "place": "Bưu cục Trung tâm thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84101",
+    "place": "Thành ủy thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84102",
+    "place": "Hội đồng nhân dân thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84103",
+    "place": "Ủy ban nhân dân thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84106",
+    "place": "Phường 7 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84107",
+    "place": "Phường 3 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84108",
+    "place": "Phường 2 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84109",
+    "place": "Phường 8 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84110",
+    "place": "Phường 9 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84111",
+    "place": "Xã Tân Mỹ Chánh thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84112",
+    "place": "Xã Mỹ Phong thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84113",
+    "place": "Xã Đạo Thạnh thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84114",
+    "place": "Phường 4 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84115",
+    "place": "Phường 5 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84116",
+    "place": "Phường 10 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84117",
+    "place": "Xã Phước Thạnh thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84118",
+    "place": "Xã Trung An thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84119",
+    "place": "Phường 6 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84120",
+    "place": "Phường 1 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84121",
+    "place": "Phường Tân Long thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84122",
+    "place": "Xã Thới Sơn thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84150",
+    "place": "Bưu cục phát Mỹ Tho thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84151",
+    "place": "Bưu cục Kinh Doanh Tiếp Thị thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84152",
+    "place": "Bưu cục Mỹ Tho 2 thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84153",
+    "place": "Bưu cục Tân Mỹ Chánh thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84154",
+    "place": "Bưu cục Yersin thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84155",
+    "place": "Bưu cục Trung Lương thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84156",
+    "place": "Bưu cục Bình Đức thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84199",
+    "place": "Bưu cục Hệ 1 Tiền Giang thành phố Mỹ Tho tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84200",
+    "place": "Bưu cục Trung tâm huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84201",
+    "place": "Huyện ủy huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84202",
+    "place": "Hội đồng nhân dân huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84203",
+    "place": "Ủy ban nhân dân huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84206",
+    "place": "Xã Phú Thạnh huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84207",
+    "place": "Xã Phú Đông huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84208",
+    "place": "Xã Phú Tân huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84209",
+    "place": "Xã Tân Phú huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84210",
+    "place": "Xã Tân Thới huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84211",
+    "place": "Xã Tân Thạnh huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84250",
+    "place": "Bưu cục phát Tân Phú Đông huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84251",
+    "place": "Bưu cục Phú Thạnh huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84252",
+    "place": "Bưu cục Phú Đông huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84253",
+    "place": "Bưu cục Tân Phú huyện Tân Phú Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84300",
+    "place": "Bưu cục Trung tâm thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84301",
+    "place": "Thị ủy thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84302",
+    "place": "Hội đồng nhân dân thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84303",
+    "place": "Ủy ban nhân dân thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84304",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84306",
+    "place": "Phường 2 thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84307",
+    "place": "Phường 3 thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84308",
+    "place": "Xã Long Thuận thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84309",
+    "place": "Xã Long Hưng thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84310",
+    "place": "Xã Tân Trung thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84311",
+    "place": "Xã Bình Đông thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84312",
+    "place": "Xã Bình Xuân thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84313",
+    "place": "Xã Long Chánh thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84314",
+    "place": "Phường 4 thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84315",
+    "place": "Phường 1 thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84316",
+    "place": "Phường 5 thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84317",
+    "place": "Xã Long Hòa thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84325",
+    "place": "Bưu cục phát Gò Công thị xã Gò Công tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84350",
+    "place": "Bưu cục Trung tâm huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84351",
+    "place": "Huyện ủy huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84352",
+    "place": "Hội đồng nhân dân huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84353",
+    "place": "Ủy ban nhân dân huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84354",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84356",
+    "place": "Thị trấn Tân Hòa huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84357",
+    "place": "Xã Tăng Hoà huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84358",
+    "place": "Xã Tân Thành huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84359",
+    "place": "Xã Tân Điền huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84360",
+    "place": "Thị trấn Vàm Láng huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84361",
+    "place": "Xã Kiểng Phước huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84362",
+    "place": "Xã Gia Thuận huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84363",
+    "place": "Xã Tân Phước huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84364",
+    "place": "Xã Tân Tây huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84365",
+    "place": "Xã Tân Đông huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84366",
+    "place": "Xã Bình Ân huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84367",
+    "place": "Xã Bình Nghị huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84368",
+    "place": "Xã Phước Trung huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84375",
+    "place": "Bưu cục phát Gò Công Đông huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84376",
+    "place": "Bưu cục Tân Thành huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84377",
+    "place": "Bưu cục Tân Tây huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84378",
+    "place": "Bưu cục Vàm Láng huyện Gò Công Đông tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84400",
+    "place": "Bưu cục Trung tâm huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84401",
+    "place": "Huyện ủy huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84402",
+    "place": "Hội đồng nhân dân huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84403",
+    "place": "Ủy ban nhân dân huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84406",
+    "place": "Thị trấn Vĩnh Bình huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84407",
+    "place": "Xã Thạnh Trị huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84408",
+    "place": "Xã Yên Luông huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84409",
+    "place": "Xã Thành Công huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84410",
+    "place": "Xã Bình Phú huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84411",
+    "place": "Xã Đồng Sơn huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84412",
+    "place": "Xã Bình Nhì huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84413",
+    "place": "Xã Đồng Thạnh huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84414",
+    "place": "Xã Thạnh Nhựt huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84415",
+    "place": "Xã Vĩnh Hựu huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84416",
+    "place": "Xã Long Vĩnh huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84417",
+    "place": "Xã Long Bình huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84418",
+    "place": "Xã Bình Tân huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84450",
+    "place": "Bưu cục phát Gò Công Tây huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84451",
+    "place": "Bưu cục Đồng Sơn huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84452",
+    "place": "Bưu cục Long Bình huyện Gò Công Tây tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84500",
+    "place": "Bưu cục Trung tâm huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84501",
+    "place": "Huyện ủy huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84502",
+    "place": "Hội đồng nhân dân huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84503",
+    "place": "Ủy ban nhân dân huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84506",
+    "place": "Thị trấn Chợ Gạo huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84507",
+    "place": "Xã Bình Phan huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84508",
+    "place": "Xã Bình Phục Nhứt huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84509",
+    "place": "Xã Quơn Long huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84510",
+    "place": "Xã Tân Thuận Bình huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84511",
+    "place": "Xã Long Bình Điền huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84512",
+    "place": "Xã Xuân Đông huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84513",
+    "place": "Xã Hòa Định huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84514",
+    "place": "Xã An Thạnh Thủy huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84515",
+    "place": "Xã Bình Ninh huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84516",
+    "place": "Xã Đăng Hưng Phước huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84517",
+    "place": "Xã Thanh Bình huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84518",
+    "place": "Xã Tân Bình Thạnh huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84519",
+    "place": "Xã Trung Hòa huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84520",
+    "place": "Xã Mỹ Tịnh An huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84521",
+    "place": "Xã Hòa Tịnh huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84522",
+    "place": "Xã Phú Kiết huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84523",
+    "place": "Xã Lương Hòa Lạc huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84524",
+    "place": "Xã Song Bình huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84550",
+    "place": "Bưu cục phát Chợ Gạo huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84551",
+    "place": "Bưu cục Bến Tranh huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84552",
+    "place": "Bưu cục Thủ Khoa Huân huyện Chợ Gạo tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84600",
+    "place": "Bưu cục Trung tâm huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84601",
+    "place": "Huyện ủy huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84602",
+    "place": "Hội đồng nhân dân huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84603",
+    "place": "Ủy ban nhân dân huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84606",
+    "place": "Thị trấn Tân Hiệp huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84607",
+    "place": "Xã Tân Lý Tây huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84608",
+    "place": "Xã Tân Hương huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84609",
+    "place": "Xã Tân Hội Đông huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84610",
+    "place": "Xã Tân Lý Đông huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84611",
+    "place": "Xã Long An huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84612",
+    "place": "Xã Thân Cửu Nghĩa huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84613",
+    "place": "Xã Tam Hiệp huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84614",
+    "place": "Xã Long Định huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84615",
+    "place": "Xã Nhị Bình huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84616",
+    "place": "Xã Điềm Hy huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84617",
+    "place": "Xã Dưỡng Điềm huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84618",
+    "place": "Xã Hữu Đạo huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84619",
+    "place": "Xã Bình Trưng huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84620",
+    "place": "Xã Đông Hòa huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84621",
+    "place": "Xã Long Hưng huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84622",
+    "place": "Xã Thạnh Phú huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84623",
+    "place": "Xã Bình Đức huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84624",
+    "place": "Xã Song Thuận huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84625",
+    "place": "Xã Vĩnh Kim huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84626",
+    "place": "Xã Bàn Long huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84627",
+    "place": "Xã Kim Sơn huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84628",
+    "place": "Xã Phú Phong huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84650",
+    "place": "Bưu cục phát Châu Thành huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84651",
+    "place": "Bưu cục Dưỡng Điềm huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84652",
+    "place": "Bưu cục KCN Tân Hương huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84653",
+    "place": "Bưu cục Long Định huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84654",
+    "place": "Bưu cục Vĩnh Kim huyện Châu Thành tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84700",
+    "place": "Bưu cục Trung tâm huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84701",
+    "place": "Huyện ủy huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84702",
+    "place": "Hội đồng nhân dân huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84703",
+    "place": "Ủy ban nhân dân huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84706",
+    "place": "Thị trấn Mỹ Phước huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84707",
+    "place": "Xã Phước Lập huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84708",
+    "place": "Xã Tân Lập 1 huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84709",
+    "place": "Xã Tân Lập 2 huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84710",
+    "place": "Xã Tân Hòa Thành huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84711",
+    "place": "Xã Phú Mỹ huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84712",
+    "place": "Xã Hưng Thạnh huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84713",
+    "place": "Xã Tân Hòa Đông huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84714",
+    "place": "Xã Thạnh Mỹ huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84715",
+    "place": "Xã Thạnh Tân huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84716",
+    "place": "Xã Thạnh Hoà huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84717",
+    "place": "Xã Tân Hòa Tây huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84718",
+    "place": "Xã Mỹ Phước huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84750",
+    "place": "Bưu cục phát Tân Phước huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84751",
+    "place": "Bưu cục Phú Mỹ huyện Tân Phước tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84800",
+    "place": "Bưu cục Trung tâm huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84801",
+    "place": "Huyện ủy huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84802",
+    "place": "Hội đồng nhân dân huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84803",
+    "place": "Ủy ban nhân dân huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84806",
+    "place": "Xã Bình Phú huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84807",
+    "place": "Xã Mỹ Thành Bắc huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84808",
+    "place": "Xã Phú Cường huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84809",
+    "place": "Xã Mỹ Thành Nam huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84810",
+    "place": "Xã Phú Nhuận huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84811",
+    "place": "Xã Thạnh Lộc huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84812",
+    "place": "Xã Cẩm Sơn huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84813",
+    "place": "Xã Phú An huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84814",
+    "place": "Xã Mỹ Long huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84815",
+    "place": "Xã Long Tiên huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84816",
+    "place": "Xã Hiệp Đức huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84817",
+    "place": "Xã Long Trung huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84818",
+    "place": "Xã Hội Xuân huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84819",
+    "place": "Xã Tân Phong huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84820",
+    "place": "Xã Tam Bình huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84821",
+    "place": "Xã Ngũ Hiệp huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84830",
+    "place": "Bưu cục phát Cai Lậy huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84831",
+    "place": "Bưu cục Nhị Quý huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84832",
+    "place": "Bưu cục Mỹ Phước Tây huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84833",
+    "place": "Bưu cục Bình Phú huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84834",
+    "place": "Bưu cục Ba Dừa huyện Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84850",
+    "place": "Bưu cục trung tâm thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84851",
+    "place": "Thị ủy thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84852",
+    "place": "Hội đồng nhân dân thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84853",
+    "place": "Ủy ban nhân dân thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84854",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84856",
+    "place": "Phường 1 thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84857",
+    "place": "Phường 4 thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84858",
+    "place": "Phường 3 thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84859",
+    "place": "Phường Nhị Mỹ thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84860",
+    "place": "Xã Tân Hội thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84861",
+    "place": "Xã Tân Phú thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84862",
+    "place": "Xã Mỹ Hạnh Đông thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84863",
+    "place": "Xã Mỹ Hạnh Trung thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84864",
+    "place": "Xã Mỹ Phước Tây thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84865",
+    "place": "Xã Tân Bình thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84866",
+    "place": "Phường 2 thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84867",
+    "place": "Xã Thanh Hòa thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84868",
+    "place": "Xã Long Khánh thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84869",
+    "place": "Phường 5 thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84870",
+    "place": "Xã Phú Quý thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84871",
+    "place": "Xã Nhị Quý thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84880",
+    "place": "Bưu cục phát Cai Lậy thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84881",
+    "place": "Bưu cục Nhị Quý thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84882",
+    "place": "Bưu cục Mỹ Phước Tây thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84883",
+    "place": "Bưu điện văn hóa xã Tân Phú 1 thị xã Cai Lậy tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84900",
+    "place": "Bưu cục Trung tâm huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84901",
+    "place": "Huyện ủy huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84902",
+    "place": "Hội đồng nhân dân huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84903",
+    "place": "Ủy ban nhân dân huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84906",
+    "place": "Thị trấn Cái Bè huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84907",
+    "place": "Xã Đông Hòa Hiệp huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84908",
+    "place": "Xã An Cư huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84909",
+    "place": "Xã Hậu Thành huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84910",
+    "place": "Xã Hậu Mỹ Phú huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84911",
+    "place": "Xã Mỹ Hội huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84912",
+    "place": "Xã Hậu Mỹ Trinh huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84913",
+    "place": "Xã Hậu Mỹ Bắc A huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84914",
+    "place": "Xã Hậu Mỹ Bắc B huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84915",
+    "place": "Xã Mỹ Trung huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84916",
+    "place": "Xã Mỹ Lợi B huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84917",
+    "place": "Xã Mỹ Tân huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84918",
+    "place": "Xã Thiện Trung huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84919",
+    "place": "Xã Thiện Trí huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84920",
+    "place": "Xã Mỹ Đức Đông huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84921",
+    "place": "Xã Mỹ Đức Tây huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84922",
+    "place": "Xã Mỹ Lợi A huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84923",
+    "place": "Xã An Thái Đông huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84924",
+    "place": "Xã An Thái Trung huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84925",
+    "place": "Xã Tân Hưng huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84926",
+    "place": "Xã Tân Thanh huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84927",
+    "place": "Xã An Hữu huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84928",
+    "place": "Xã Hòa Hưng huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84929",
+    "place": "Xã Mỹ Lương huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84930",
+    "place": "Xã Hòa Khánh huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84950",
+    "place": "Bưu cục phát Cái Bè huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84951",
+    "place": "Bưu cục An Hữu huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84952",
+    "place": "Bưu cục Hòa Khánh huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84953",
+    "place": "Bưu cục Mỹ Đức Tây huyện Cái Bè tỉnh Tiền Giang"
+  },
+  {
+    "zip": "84954",
+    "place": "Bưu cục Thiên Hộ huyện Cái Bè tỉnh Tiền Giang"
+  }
+]

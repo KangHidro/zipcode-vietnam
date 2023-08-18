@@ -1,0 +1,886 @@
+[
+  {
+    "zip": "85000",
+    "place": "Bưu cục Trung tâm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85009",
+    "place": "Đảng ủy khối cơ quan tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85016",
+    "place": "Báo Vĩnh Long"
+  },
+  {
+    "zip": "85021",
+    "place": "Hội đồng nhân dân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85035",
+    "place": "Tòa án nhân dân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85041",
+    "place": "Sở Công Thương tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "85045",
+    "place": "Sở Tài chính tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85049",
+    "place": "Công an tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85051",
+    "place": "Sở Nội vụ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85052",
+    "place": "Sở Tư pháp tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85054",
+    "place": "Sở Giao thông vận tải tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85058",
+    "place": "Sở Xây dựng tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85060",
+    "place": "Sở Y tế tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85062",
+    "place": "Ban Dân tộc tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85064",
+    "place": "Thanh tra tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85065",
+    "place": "Trường chính trị tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85070",
+    "place": "Bảo hiểm xã hội tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85078",
+    "place": "Cục Thuế tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85079",
+    "place": "Cục Hải quan tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85080",
+    "place": "Cục Thống kê tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85081",
+    "place": "Kho bạc Nhà nước tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85088",
+    "place": "Liên đoàn Lao động tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85089",
+    "place": "Hội Nông dân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85091",
+    "place": "Tỉnh Đoàn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85093",
+    "place": "Hội Cựu chiến binh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85100",
+    "place": "Bưu cục Trung tâm thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85101",
+    "place": "Thành ủy thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85102",
+    "place": "Hội đồng nhân dân thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85103",
+    "place": "Ủy ban nhân dân thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85106",
+    "place": "Phường 1 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85107",
+    "place": "Phường 5 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85108",
+    "place": "Phường 4 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85109",
+    "place": "Phường 3 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85110",
+    "place": "Phường 2 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85111",
+    "place": "Phường 9 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85112",
+    "place": "Phường 8 thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85113",
+    "place": "Xã Trường An thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85114",
+    "place": "Xã Tân Ngãi thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85115",
+    "place": "Xã Tân Hòa thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85116",
+    "place": "Xã Tân Hội thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85150",
+    "place": "Bưu cục phát Vĩnh Long thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85151",
+    "place": "Bưu cục KHL Vĩnh Long thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85152",
+    "place": "Bưu cục Nguyễn Huệ thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85153",
+    "place": "Bưu cục Phước Thọ thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85154",
+    "place": "Bưu cục Tân Ngãi thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85155",
+    "place": "Bưu cục Mỹ Phú thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85199",
+    "place": "Bưu cục Hệ 1 Vĩnh Long thành phố Vĩnh Long tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85200",
+    "place": "Bưu cục Trung tâm huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85201",
+    "place": "Huyện ủy huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85202",
+    "place": "Hội đồng nhân dân huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85203",
+    "place": "Ủy ban nhân dân huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85206",
+    "place": "Thị trấn Long Hồ huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85207",
+    "place": "Xã Thanh Đức huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85208",
+    "place": "Xã Bình Hòa Phước huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85209",
+    "place": "Xã Đồng Phú huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85210",
+    "place": "Xã Hòa Ninh huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85211",
+    "place": "Xã An Bình huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85212",
+    "place": "Xã Long Phước huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85213",
+    "place": "Xã Phước Hậu huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85214",
+    "place": "Xã Tân Hạnh huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85215",
+    "place": "Xã Thạnh Quới huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85216",
+    "place": "Xã Phú Quới huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85217",
+    "place": "Xã Hòa Phú huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85218",
+    "place": "Xã Lộc Hòa huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85219",
+    "place": "Xã Phú Đức huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85220",
+    "place": "Xã Long An huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85250",
+    "place": "Bưu cục phát Long Hồ huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85251",
+    "place": "Bưu cục KCN Hoà Phú huyện Long Hồ tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85300",
+    "place": "Bưu cục Trung tâm huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85301",
+    "place": "Huyện ủy huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85302",
+    "place": "Hội đồng nhân dân huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85303",
+    "place": "Ủy ban nhân dân huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85306",
+    "place": "Thị trấn Tam Bình huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85307",
+    "place": "Xã Tường Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85308",
+    "place": "Xã Hòa Hiệp huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85309",
+    "place": "Xã Hòa Thạnh huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85310",
+    "place": "Xã Hoà Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85311",
+    "place": "Xã Hậu Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85312",
+    "place": "Xã Tân Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85313",
+    "place": "Xã Phú Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85314",
+    "place": "Xã Song Phú huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85315",
+    "place": "Xã Phú Thịnh huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85316",
+    "place": "Xã Tân Phú huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85317",
+    "place": "Xã Long Phú huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85318",
+    "place": "Xã Mỹ Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85319",
+    "place": "Xã Mỹ Thạnh Trung huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85320",
+    "place": "Xã Loan Mỹ huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85321",
+    "place": "Xã Ngãi Tứ huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85322",
+    "place": "Xã Bình Ninh huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85350",
+    "place": "Bưu cục phát Tam Bình huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85351",
+    "place": "Bưu cục Ba Càng huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85352",
+    "place": "Bưu cục Mỹ Lộc huyện Tam Bình tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85400",
+    "place": "Bưu cục Trung tâm huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85401",
+    "place": "Huyện ủy huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85402",
+    "place": "Hội đồng nhân dân huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85403",
+    "place": "Ủy ban nhân dân huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85406",
+    "place": "Xã Tân Quới huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85407",
+    "place": "Xã Thành Lợi huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85408",
+    "place": "Xã Mỹ Thuận huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85409",
+    "place": "Xã Nguyễn Văn Thảnh huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85410",
+    "place": "Xã Thành Trung huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85411",
+    "place": "Xã Thành Đông huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85412",
+    "place": "Xã Tân Thành huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85413",
+    "place": "Xã Tân Hưng huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85414",
+    "place": "Xã Tân Lược huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85415",
+    "place": "Xã Tân An Thạnh huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85416",
+    "place": "Xã Tân Bình huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85450",
+    "place": "Bưu cục phát Bình Tân huyện Bình Tân tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85500",
+    "place": "Bưu cục Trung tâm thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85501",
+    "place": "Thị ủy thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85502",
+    "place": "Hội đồng nhân dân thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85503",
+    "place": "Ủy ban nhân dân thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85504",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85506",
+    "place": "Phường Cái Vồn thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85507",
+    "place": "Phường Đông Thuận thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85508",
+    "place": "Xã Thuận An thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85509",
+    "place": "Phường Thành Phước thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85510",
+    "place": "Xã Mỹ Hòa thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85511",
+    "place": "Xã Đông Bình thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85512",
+    "place": "Xã Đông Thạnh thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85513",
+    "place": "Xã Đông Thành thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85550",
+    "place": "Bưu cục phát Bình Minh thị xã Bình Minh tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85600",
+    "place": "Bưu cục Trung tâm huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85601",
+    "place": "Huyện ủy huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85602",
+    "place": "Hội đồng nhân dân huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85603",
+    "place": "Ủy ban nhân dân huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85606",
+    "place": "Thị trấn Trà Ôn huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85607",
+    "place": "Xã Thiện Mỹ huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85608",
+    "place": "Xã Tích Thiện huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85609",
+    "place": "Xã Vĩnh Xuân huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85610",
+    "place": "Xã Tân Mỹ huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85611",
+    "place": "Xã Trà Côn huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85612",
+    "place": "Xã Thuận Thới huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85613",
+    "place": "Xã Hựu Thành huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85614",
+    "place": "Xã Thới Hòa huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85615",
+    "place": "Xã Hòa Bình huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85616",
+    "place": "Xã Xuân Hiệp huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85617",
+    "place": "Xã Nhơn Bình huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85618",
+    "place": "Xã Lục Sỹ Thành huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85619",
+    "place": "Xã Phú Thành huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85650",
+    "place": "Bưu cục phát Trà Ôn huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85651",
+    "place": "Bưu cục Hựu Thành huyện Trà Ôn tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85700",
+    "place": "Bưu cục Trung tâm huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85701",
+    "place": "Huyện ủy huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85702",
+    "place": "Hội đồng nhân dân huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85703",
+    "place": "Ủy ban nhân dân huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85706",
+    "place": "Thị trấn Vũng Liêm huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85707",
+    "place": "Xã Trung Thành Tây huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85708",
+    "place": "Xã Quới An huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85709",
+    "place": "Xã Tân Quới Trung huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85710",
+    "place": "Xã Trung Chánh huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85711",
+    "place": "Xã Tân An Luông huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85712",
+    "place": "Xã Trung Hiệp huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85713",
+    "place": "Xã Trung Thành Đông huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85714",
+    "place": "Xã Trung Thành huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85715",
+    "place": "Xã Trung Hiếu huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85716",
+    "place": "Xã Hiếu Phụng huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85717",
+    "place": "Xã Hiếu Thuận huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85718",
+    "place": "Xã Trung An huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85719",
+    "place": "Xã Trung Ngãi huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85720",
+    "place": "Xã Trung Nghĩa huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85721",
+    "place": "Xã Thanh Bình huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85722",
+    "place": "Xã Quới Thiện huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85723",
+    "place": "Xã Hiếu Nhơn huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85724",
+    "place": "Xã Hiếu Thành huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85725",
+    "place": "Xã Hiếu Nghĩa huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85750",
+    "place": "Bưu cục phát Vũng Liêm huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85751",
+    "place": "Bưu cục Tân An Luông huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85752",
+    "place": "Bưu cục Hiếu Phụng huyện Vũng Liêm tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85800",
+    "place": "Bưu cục Trung tâm huyện Mang Thít tỉnh VĨnh Long"
+  },
+  {
+    "zip": "85801",
+    "place": "Huyện ủy huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85802",
+    "place": "Hội đồng nhân dân huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85803",
+    "place": "Ủy ban nhân dân huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85806",
+    "place": "Thị trấn Cái Nhum huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85807",
+    "place": "Xã Chánh An huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85808",
+    "place": "Xã An Phước huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85809",
+    "place": "Xã Mỹ Phước huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85810",
+    "place": "Xã Mỹ An huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85811",
+    "place": "Xã Long Mỹ huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85812",
+    "place": "Xã Hòa Tịnh huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85813",
+    "place": "Xã Nhơn Phú huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85814",
+    "place": "Xã Chánh Hội huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85815",
+    "place": "Xã Bình Phước huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85816",
+    "place": "Xã Tân An Hội huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85817",
+    "place": "Xã Tân Long huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85818",
+    "place": "Xã Tân Long Hội huyện Mang Thít tỉnh Vĩnh Long"
+  },
+  {
+    "zip": "85850",
+    "place": "Bưu cục phát Mang Thít huyện Mang Thít tỉnh Vĩnh Long"
+  }
+]

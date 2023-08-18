@@ -1,0 +1,894 @@
+[
+  {
+    "zip": "50000",
+    "place": "Bưu cục Trung tâm thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50001",
+    "place": "Vụ V (Ủy ban Kiểm tra Trung ương)"
+  },
+  {
+    "zip": "50002",
+    "place": "Vụ Địa phương II (Ban Tổ chức Trung ương)"
+  },
+  {
+    "zip": "50003",
+    "place": "Cơ quan thường trú Ban Tuyên giáo Trung ương tại Đà Nẵng"
+  },
+  {
+    "zip": "50004",
+    "place": "Cơ quan thường trú Ban Dân vận Trung ương tại Đà Nẵng"
+  },
+  {
+    "zip": "50010",
+    "place": "Cục Quản trị T26, Vụ địa phương III (Văn phòng Trung ương Đảng)"
+  },
+  {
+    "zip": "50016",
+    "place": "Cơ quan thường trú Báo Nhân Dân thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50017",
+    "place": "Cơ quan thường trực tại miền Trung"
+  },
+  {
+    "zip": "50030",
+    "place": "Vụ công tác Miền Trung và Tây Nguyên (Văn phòng Quốc hội)"
+  },
+  {
+    "zip": "50036",
+    "place": "Cơ quan đại diện của Viện kiểm sát nhân dân tối cao tại Đà Nẵng"
+  },
+  {
+    "zip": "50037",
+    "place": "Kiểm toán nhà nước khu vực III"
+  },
+  {
+    "zip": "50041",
+    "place": "Văn phòng đại diện Bộ Công Thương"
+  },
+  {
+    "zip": "50042",
+    "place": "Văn phòng III (Bộ Kế hoạch và Đầu tư)"
+  },
+  {
+    "zip": "50046",
+    "place": "Đại diện văn phòng Bộ Thông tin và Truyền thông tại Đà Nẵng"
+  },
+  {
+    "zip": "50047",
+    "place": "Cơ quan đại diện của Bộ Văn hóa, Thể thao và Du lịch tại Đà Nẵng"
+  },
+  {
+    "zip": "50049",
+    "place": "P9, Văn phòng Bộ Công an"
+  },
+  {
+    "zip": "50051",
+    "place": "Cơ quan đại diện của Bộ Nội vụ tại Đà Nẵng"
+  },
+  {
+    "zip": "50066",
+    "place": "Cơ quan Thông tấn xã Việt Nam Khu vực Miền Trung Tây Nguyên"
+  },
+  {
+    "zip": "50067",
+    "place": "Trung tâm Truyền Hình Việt Nam"
+  },
+  {
+    "zip": "50068",
+    "place": "Đài Tiếng nói Việt Nam VOV"
+  },
+  {
+    "zip": "50073",
+    "place": "Ban Mã Dịch Miền Trung Tây Nguyên"
+  },
+  {
+    "zip": "50095",
+    "place": "Tổng lãnh sự quán Cộng hòa Dân chủ Nhân dân Lào"
+  },
+  {
+    "zip": "50096",
+    "place": "Tổng lãnh sự quán Liên bang Nga thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50097",
+    "place": "Tổng lãnh sự quán Cộng hòa Nhân dân Trung Hoa"
+  },
+  {
+    "zip": "50101",
+    "place": "Ủy ban Kiểm tra thành ủy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50102",
+    "place": "Ban Tổ chức thành ủy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50103",
+    "place": "Ban Tuyên giáo thành ủy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50104",
+    "place": "Ban Dân vận thành ủy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50105",
+    "place": "Ban Nội chính thành ủy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50109",
+    "place": "Đảng ủy khối cơ quan thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50110",
+    "place": "Thành ủy và Văn phòng thành ủy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50111",
+    "place": "Đảng ủy khối doanh nghiệp thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50116",
+    "place": "Báo Đà Nẵng"
+  },
+  {
+    "zip": "50121",
+    "place": "Hội đồng nhân dân thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50130",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50135",
+    "place": "Tòa án nhân dân thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50136",
+    "place": "Viện Kiểm sát nhân dân thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50137",
+    "place": "Kiểm toán nhà nước tại khu vực III"
+  },
+  {
+    "zip": "50140",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50141",
+    "place": "Sở Công Thương thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50142",
+    "place": "Sở Kế hoạch và Đầu tư thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50143",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "50144",
+    "place": "Sở Ngoại vụ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50145",
+    "place": "Sở Tài chính thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50146",
+    "place": "Sở Thông tin và Truyền thông thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50147",
+    "place": "Sở Văn hoá và Thể thao thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50148",
+    "place": "Sở Du lịch thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50149",
+    "place": "Công an thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50150",
+    "place": "Sở Cảnh sát phòng cháy và chữa cháy thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50151",
+    "place": "Sở Nội vụ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50152",
+    "place": "Sở Tư pháp thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50153",
+    "place": "Sở Giáo dục và Đào tạo thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50154",
+    "place": "Sở Giao thông vận tải thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50155",
+    "place": "Sở Khoa học và Công nghệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50156",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50157",
+    "place": "Sở Tài nguyên và Môi trường thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50158",
+    "place": "Sở Xây dựng thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50160",
+    "place": "Sở Y tế thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50161",
+    "place": "Bộ chỉ huy quân sự thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50162",
+    "place": "Ban Dân tộc thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50163",
+    "place": "Ngân hàng nhà nước chi nhánh thành phố thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50164",
+    "place": "Thanh tra thành phố thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50165",
+    "place": "Học viện Cán bộ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50166",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50167",
+    "place": "Đài Phát thanh và Truyền hình thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50170",
+    "place": "Bảo hiểm xã hội thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50178",
+    "place": "Cục Thuế thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50179",
+    "place": "Cục Hải quan thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50180",
+    "place": "Cục Thống kê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50181",
+    "place": "Kho bạc Nhà nước thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50185",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50186",
+    "place": "Liên hiệp các tổ chức hữu nghị thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50187",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50188",
+    "place": "Liên đoàn Lao động thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50189",
+    "place": "Hội Nông dân thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50190",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50191",
+    "place": "Thành Đoàn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50192",
+    "place": "Hội Liên hiệp Phụ nữ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50193",
+    "place": "Hội Cựu chiến binh thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50199",
+    "place": "Điểm phục vụ Bưu điện T26"
+  },
+  {
+    "zip": "50200",
+    "place": "Bưu cục Trung tâm quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50201",
+    "place": "Quận ủy quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50202",
+    "place": "Hội đồng nhân dân quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50203",
+    "place": "Ủy ban nhân dân quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50204",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50206",
+    "place": "Phường Hải Châu 1 quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50207",
+    "place": "Phường Thạch Thang quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50208",
+    "place": "Phường Thuận Phước quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50209",
+    "place": "Phường Thanh Bình quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50210",
+    "place": "Phường Hải Châu 2 quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50211",
+    "place": "Phường Phước Ninh quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50212",
+    "place": "Phường Nam Dương quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50213",
+    "place": "Phường Bình Hiên quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50214",
+    "place": "Phường Bình Thuận quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50215",
+    "place": "Phường Hòa Thuận Đông quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50216",
+    "place": "Phường Hòa Thuận Tây quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50217",
+    "place": "Phường Hòa Cường Bắc quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50218",
+    "place": "Phường Hòa Cường Nam quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50250",
+    "place": "Bưu cục phát Đà Nẵng quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50251",
+    "place": "Bưu cục Sông Hàn quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50252",
+    "place": "Bưu cục Hùng Vương quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50253",
+    "place": "Bưu cục Trần Phú quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50254",
+    "place": "Bưu cục Đống Đa quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50255",
+    "place": "Bưu cục Quang Trung quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50256",
+    "place": "Bưu cục Thuận Phước 4 quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50257",
+    "place": "Bưu cục Ông Ích Khiêm quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50258",
+    "place": "Bưu cục Ngô Gia Tự quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50259",
+    "place": "Bưu cục Tập Thể Thương Nghiệp quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50260",
+    "place": "Bưu cục Phan Chu Trinh quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50261",
+    "place": "Bưu cục Trưng Nữ Vương quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50262",
+    "place": "Bưu cục Liên Trì Nam quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50263",
+    "place": "Bưu cục Hòa Cường quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50264",
+    "place": "Bưu cục Hòa Cường Nam quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50299",
+    "place": "Bưu cục Hệ 1 Đà Nẵng quận Hải Châu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50300",
+    "place": "Bưu cục Trung tâm quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50301",
+    "place": "Quận ủy quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50302",
+    "place": "Hội đồng nhân dân quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50303",
+    "place": "Ủy ban nhân dân quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50304",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50306",
+    "place": "Phường Xuân Hà quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50307",
+    "place": "Phường Thanh Khê Đông quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50308",
+    "place": "Phường Thanh Khê Tây quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50309",
+    "place": "Phường An Khê quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50310",
+    "place": "Phường Hòa Khê quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50311",
+    "place": "Phường Chính Gián quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50312",
+    "place": "Phường Thạc Gián quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50313",
+    "place": "Phường Vĩnh Trung quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50314",
+    "place": "Phường Tân Chính quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50315",
+    "place": "Phường Tam Thuận quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50350",
+    "place": "Bưu cục phát Đà Nẵng 1 quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50351",
+    "place": "Bưu cục KHL Thanh Khê quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50352",
+    "place": "Bưu cục Xuân Hòa quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50353",
+    "place": "Bưu cục Phú Lộc quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50354",
+    "place": "Bưu cục An Khê quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50355",
+    "place": "Bưu cục Thanh Khê quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50356",
+    "place": "Bưu cục Nguyễn Văn Linh quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50357",
+    "place": "Bưu cục Nguyễn Văn Linh 2 quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50358",
+    "place": "Bưu cục Chuyển Phát Nhanh quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50359",
+    "place": "Bưu cục TMĐT Đà Nẵng quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50360",
+    "place": "Bưu cục Đỗ Quang quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50361",
+    "place": "Bưu cục Tân Chính quận Thanh Khê thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50400",
+    "place": "Bưu cục Trung tâm quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50401",
+    "place": "Quận ủy quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50402",
+    "place": "Hội đồng nhân dân quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50403",
+    "place": "Ủy ban nhân dân quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50404",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50406",
+    "place": "Phường An Hải Tây quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50407",
+    "place": "Phường An Hải Đông quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50408",
+    "place": "Phường Phước Mỹ quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50409",
+    "place": "Phường An Hải Bắc quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50410",
+    "place": "Phường Mân Thái quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50411",
+    "place": "Phường Nại Hiên Đông quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50412",
+    "place": "Phường Thọ Quang quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50450",
+    "place": "Bưu cục phát Đà Nẵng 3 quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50451",
+    "place": "Bưu cục Ngô Quyền quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50452",
+    "place": "Bưu cục Trần Quang Diệu quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50453",
+    "place": "Bưu cục Mân Thái quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50454",
+    "place": "Bưu cục Thọ Quang quận Sơn Trà thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50500",
+    "place": "Bưu cục Trung tâm quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50501",
+    "place": "Quận ủy quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50502",
+    "place": "Hội đồng nhân dân quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50503",
+    "place": "Ủy ban nhân dân quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50504",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50506",
+    "place": "Phường Khuê Mỹ quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50507",
+    "place": "Phường Mỹ An quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50508",
+    "place": "Phường Hoà Quý quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50509",
+    "place": "Phường Hoà Hải quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50550",
+    "place": "Bưu cục phát Ngũ Hành Sơn quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50551",
+    "place": "Bưu cục Khuê Mỹ quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50552",
+    "place": "Bưu cục Ngũ Hành Sơn quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50553",
+    "place": "Bưu cục Sơn Thủy quận Ngũ Hành Sơn thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50600",
+    "place": "Bưu cục Trung tâm quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50601",
+    "place": "Quận ủy quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50602",
+    "place": "Hội đồng nhân dân quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50603",
+    "place": "Ủy ban nhân dân quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50604",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50606",
+    "place": "Phường Hòa Minh quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50607",
+    "place": "Phường Hòa Khánh Nam quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50608",
+    "place": "Phường Hòa Khánh Bắc quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50609",
+    "place": "Phường Hòa Hiệp Nam quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50610",
+    "place": "Phường Hòa Hiệp Bắc quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50650",
+    "place": "Bưu cục phát Đà Nẵng 2 quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50651",
+    "place": "Bưu cục Tiếp Thị 2 quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50652",
+    "place": "Bưu cục KCN Hòa Khánh quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50653",
+    "place": "Bưu cục Hòa Mỹ quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50654",
+    "place": "Bưu cục Nam Ô quận Liên Chiểu thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50700",
+    "place": "Bưu cục Trung tâm quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50701",
+    "place": "Quận ủy quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50702",
+    "place": "Hội đồng nhân dân quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50703",
+    "place": "Ủy ban nhân dân quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50704",
+    "place": "Ủy ban Mặt trận Tổ quốc quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50706",
+    "place": "Phường Hòa Thọ Đông quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50707",
+    "place": "Phường Hòa Xuân quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50708",
+    "place": "Phường Khuê Trung quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50709",
+    "place": "Phường Hòa An quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50710",
+    "place": "Phường Hòa Phát quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50711",
+    "place": "Phường Hòa Thọ Tây quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50750",
+    "place": "Bưu cục phát Đà Nẵng 4 quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50751",
+    "place": "Bưu cục Tiếp Thị quận Cẩm Lệ thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50800",
+    "place": "Bưu cục Trung tâm huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50801",
+    "place": "Huyện ủy huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50802",
+    "place": "Hội đồng nhân dân huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50803",
+    "place": "Ủy ban nhân dân huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50806",
+    "place": "Xã Hòa Phong huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50807",
+    "place": "Xã Hòa Nhơn huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50808",
+    "place": "Xã Hòa Sơn huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50809",
+    "place": "Xã Hòa Liên huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50810",
+    "place": "Xã Hòa Bắc huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50811",
+    "place": "Xã Hòa Ninh huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50812",
+    "place": "Xã Hòa Phú huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50813",
+    "place": "Xã Hòa Khương huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50814",
+    "place": "Xã Hòa Tiến huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50815",
+    "place": "Xã Hòa Châu huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50816",
+    "place": "Xã Hòa Phước huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50850",
+    "place": "Bưu cục phát Hòa Vang huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50851",
+    "place": "Bưu cục Túy Loan huyện Hòa Vang thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50900",
+    "place": "Bưu cục Trung tâm huyện Hoàng Sa thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50901",
+    "place": "Huyện ủy huyện Hoàng Sa thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50902",
+    "place": "Hội đồng nhân dân huyện Hoàng Sa thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50903",
+    "place": "Ủy ban nhân dân huyện Hoàng Sa thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hoàng Sa thành phố Đà Nẵng"
+  },
+  {
+    "zip": "50950",
+    "place": "Bưu cục phát Hoàng Sa huyện Hoàng Sa thành phố Đà Nẵng"
+  }
+]

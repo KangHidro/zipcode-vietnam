@@ -1,0 +1,335 @@
+{
+	"info": {
+		"_postman_id": "b202cf26-6dbc-469c-809c-77fe6ca65faa",
+		"name": "ZipCodeVn",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "2739767"
+	},
+	"item": [
+		{
+			"name": "01-first-search",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"pm.environment.set('nextPage', 2);",
+							"pm.environment.set('isEnd', '');"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const $ = cheerio.load(pm.response.text());",
+							"",
+							"let nextPageNum = pm.environment.get('nextPage') ? parseInt(pm.environment.get('nextPage'), 10) : 2;",
+							"",
+							"// First request, oldData = [];",
+							"let oldData = [];",
+							"",
+							"// 2+ request, had oldData:",
+							"//let oldData = pm.environment.get('zipData') ? JSON.parse(pm.environment.get('zipData')) : [];",
+							"",
+							"// Remove duplicate",
+							"let result = oldData.filter((arr, index, self) =>",
+							"  index === self.findIndex((t) => (t.zipcode === arr.zipcode && t.place === arr.place)));",
+							"",
+							"let listItem = [].concat($('.detailLV1').toArray(), $('.detailLV2').toArray(), $('.detailLV3').toArray(), $('.detailLV4').toArray());",
+							"",
+							"listItem.forEach(element => {",
+							"  let parsedArr = $(element).text().match(/[0-9]{5}.*/);",
+							"  if (parsedArr && parsedArr.length) {",
+							"    let parts = parsedArr[0].split(' - ');",
+							"    if (/^[0-9]{5}$/.test(parts[0])) {",
+							"      result.push({ zip: `${parts[0]}`, place: `${parts[1]}` });",
+							"    } else {",
+							"      console.warn(`Check parts: ${parts[0]} - ${parts[1]}`);",
+							"    }",
+							"  } else {",
+							"    console.warn(`Check page ${nextPageNum - 1}: ${$(element).text()}`);",
+							"  }",
+							"});",
+							"",
+							"pm.environment.set('zipData', JSON.stringify(result));",
+							"",
+							"// Check End condition",
+							"if (pm.environment.get('isEnd')) {",
+							"  console.warn(`END ${nextPageNum}`);",
+							"  postman.setNextRequest(null);",
+							"  return;",
+							"}",
+							"",
+							"pm.environment.set('__VIEWSTATE', $('input[id=\"__VIEWSTATE\"]').attr('value'));",
+							"pm.environment.set('__EVENTVALIDATION', $('input[id=\"__EVENTVALIDATION\"]').attr('value'));",
+							"",
+							"let listBtn = $('.btn-phantrang').toArray();",
+							"// if pageNum > 5 && listBtn == 4 item => last",
+							"if (nextPageNum > 5 && listBtn.length === 4) {",
+							"  // Last",
+							"  pm.environment.set('isEnd', '1');",
+							"}",
+							"let btnNextPage = listBtn.find(x => $(x).attr('value') === `${nextPageNum}`);",
+							"if ($(btnNextPage).attr('name')) {",
+							"  pm.environment.set('nextPageBtnId', $(btnNextPage).attr('name'));",
+							"  console.log($(btnNextPage).attr('name'));",
+							"  pm.environment.set('nextPage', nextPageNum + 1);",
+							"  postman.setNextRequest('02-second2go-search');",
+							"} else {",
+							"  console.error(`No nextPageBtnId, page ${nextPageNum}`);",
+							"  postman.setNextRequest(null);",
+							"}",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "content-type",
+						"value": "application/x-www-form-urlencoded"
+					},
+					{
+						"key": "user-agent",
+						"value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "ctl00_AjaxScriptManager_TSM",
+							"value": ";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:en-US:9ead301a-2c07-4fc5-be19-f8423a34e117:ea597d4b:b25378d2",
+							"type": "text"
+						},
+						{
+							"key": "__EVENTTARGET",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "__EVENTARGUMENT",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "__VIEWSTATE",
+							"value": "/wEPDwUENTM4MQ9kFgJmD2QWAgIDD2QWAgIFD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWAmYPFQIMRGVmYXVsdC5hc3B4C1RyYW5nIGNo4bunZAIBD2QWAmYPFQIlZGVmYXVsdC5hc3B4P3BhZ2U9bmV3c2RldGFpbCZuZXdzaWQ9OQ5HaeG7m2kgdGhp4buHdWQCAg9kFgJmDxUCKWRlZmF1bHQuYXNweD9wYWdlPW5ld3NkZXRhaWwmbmV3c2lkPTEwMDUwClbEg24gYuG6o25kAgMPZBYCZg8VAilkZWZhdWx0LmFzcHg/cGFnZT1uZXdzZGV0YWlsJm5ld3NpZD0xMDA0OQ5IxrDhu5tuZyBk4bqrbmRkfU95iDI+5TXYR8E6ZxO1IFUto8k34HHuPSJ7g0M+QAA=",
+							"type": "text"
+						},
+						{
+							"key": "__VIEWSTATEGENERATOR",
+							"value": "CA0B0334",
+							"type": "text"
+						},
+						{
+							"key": "__EVENTVALIDATION",
+							"value": "/wEdAAWEM3Za+b943nA8/Ok1IDpIL4sGhMieWW6wiMxZlLsMvvFVjDOkD2BUBcRtA4tHZ/SXCiuwNPYYxxAUHB8S6jr6dkgCn3g0Nl2m6v8MWThU6erW9QAZeaVS5UDvW6kzaPEBx7nvuopL5tQjfU58zqDn",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl07$txtMBC",
+							"value": "{{searchCode}}",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl07$btntimkiem",
+							"value": "Tìm kiếm",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl07$hdf_id",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://mabuuchinh.vn",
+					"protocol": "https",
+					"host": [
+						"mabuuchinh",
+						"vn"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "02-second2go-search",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"console.log('RUN 02-second2go-search');"
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const $ = cheerio.load(pm.response.text());",
+							"",
+							"let nextPageNum = pm.environment.get('nextPage') ? parseInt(pm.environment.get('nextPage'), 10) : 2;",
+							"",
+							"// First request, oldData = [];",
+							"// let oldData = [];",
+							"",
+							"// 2+ request, had oldData:",
+							"let oldData = pm.environment.get('zipData') ? JSON.parse(pm.environment.get('zipData')) : [];",
+							"// Remove duplicate",
+							"let result = oldData.filter((arr, index, self) =>",
+							"  index === self.findIndex((t) => (t.zipcode === arr.zipcode && t.place === arr.place)));",
+							"",
+							"let listItem = [].concat($('.detailLV1').toArray(), $('.detailLV2').toArray(), $('.detailLV3').toArray(), $('.detailLV4').toArray());",
+							"",
+							"listItem.forEach(element => {",
+							"  let parsedArr = $(element).text().match(/[0-9]{5}.*/);",
+							"  if (parsedArr && parsedArr.length) {",
+							"    let parts = parsedArr[0].split(' - ');",
+							"    if (/^[0-9]{5}$/.test(parts[0])) {",
+							"      result.push({ zip: `${parts[0]}`, place: `${parts[1]}` });",
+							"    } else {",
+							"      console.warn(`Check parts: ${parts[0]} - ${parts[1]}`);",
+							"    }",
+							"  } else {",
+							"    console.warn(`Check page ${nextPageNum - 1}: ${$(element).text()}`);",
+							"  }",
+							"});",
+							"",
+							"pm.environment.set('zipData', JSON.stringify(result));",
+							"",
+							"// Check End condition",
+							"if (pm.environment.get('isEnd')) {",
+							"  console.warn(`END ${nextPageNum}`);",
+							"  postman.setNextRequest(null);",
+							"  return;",
+							"}",
+							"",
+							"pm.environment.set('__VIEWSTATE', $('input[id=\"__VIEWSTATE\"]').attr('value'));",
+							"pm.environment.set('__EVENTVALIDATION', $('input[id=\"__EVENTVALIDATION\"]').attr('value'));",
+							"",
+							"let listBtn = $('.btn-phantrang').toArray();",
+							"// if pageNum > 5 && listBtn == 4 item => last",
+							"if (nextPageNum > 5 && listBtn.length === 4) {",
+							"  // Last",
+							"  pm.environment.set('isEnd', '1');",
+							"}",
+							"let btnNextPage = listBtn.find(x => $(x).attr('value') === `${nextPageNum}`);",
+							"if ($(btnNextPage).attr('name')) {",
+							"  pm.environment.set('nextPageBtnId', $(btnNextPage).attr('name'));",
+							"  console.log($(btnNextPage).attr('name'));",
+							"  pm.environment.set('nextPage', nextPageNum + 1);",
+							"  postman.setNextRequest('02-second2go-search');",
+							"} else {",
+							"  console.error(`No nextPageBtnId, page ${nextPageNum}`);",
+							"  postman.setNextRequest(null);",
+							"}",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "content-type",
+						"value": "application/x-www-form-urlencoded"
+					},
+					{
+						"key": "user-agent",
+						"value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "ctl00_AjaxScriptManager_TSM",
+							"value": ";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:en-US:9ead301a-2c07-4fc5-be19-f8423a34e117:ea597d4b:b25378d2",
+							"type": "text"
+						},
+						{
+							"key": "__EVENTTARGET",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "__EVENTARGUMENT",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "__VIEWSTATE",
+							"value": "{{__VIEWSTATE}}",
+							"type": "text"
+						},
+						{
+							"key": "__VIEWSTATEGENERATOR",
+							"value": "CA0B0334",
+							"type": "text"
+						},
+						{
+							"key": "__EVENTVALIDATION",
+							"value": "{{__EVENTVALIDATION}}",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl06$txtMBC",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "{{nextPageBtnId}}",
+							"value": "{{nextPage}}",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl06$hdf_CurrentPaging",
+							"value": "0",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl06$hdf_type",
+							"value": "0",
+							"type": "text"
+						},
+						{
+							"key": "ctl00$ctl06$hdf_id",
+							"value": "{{searchCode}}",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://mabuuchinh.vn/default.aspx?page=SearchMBC",
+					"protocol": "https",
+					"host": [
+						"mabuuchinh",
+						"vn"
+					],
+					"path": [
+						"default.aspx"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "SearchMBC"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

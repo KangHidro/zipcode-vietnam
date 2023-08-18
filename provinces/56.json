@@ -1,0 +1,926 @@
+[
+  {
+    "zip": "56000",
+    "place": "Bưu cục Trung tâm tỉnh Phú Yên"
+  },
+  {
+    "zip": "56001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Phú Yên"
+  },
+  {
+    "zip": "56002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Phú Yên"
+  },
+  {
+    "zip": "56003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Phú Yên"
+  },
+  {
+    "zip": "56004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Phú Yên"
+  },
+  {
+    "zip": "56005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Phú Yên"
+  },
+  {
+    "zip": "56009",
+    "place": "Đảng ủy khối cơ quan tỉnh Phú Yên"
+  },
+  {
+    "zip": "56010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Phú Yên"
+  },
+  {
+    "zip": "56011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Phú Yên"
+  },
+  {
+    "zip": "56016",
+    "place": "Báo Phú Yên"
+  },
+  {
+    "zip": "56021",
+    "place": "Hội đồng nhân dân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Phú Yên"
+  },
+  {
+    "zip": "56035",
+    "place": "Tòa án nhân dân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56041",
+    "place": "Sở Công Thương tỉnh Phú Yên"
+  },
+  {
+    "zip": "56042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Phú Yên"
+  },
+  {
+    "zip": "56043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "56044",
+    "place": "Sở Ngoại vụ tỉnh Phú Yên"
+  },
+  {
+    "zip": "56045",
+    "place": "Sở Tài chính tỉnh Phú Yên"
+  },
+  {
+    "zip": "56046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Phú Yên"
+  },
+  {
+    "zip": "56047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Phú Yên"
+  },
+  {
+    "zip": "56049",
+    "place": "Công an tỉnh Phú Yên"
+  },
+  {
+    "zip": "56051",
+    "place": "Sở Nội vụ tỉnh Phú Yên"
+  },
+  {
+    "zip": "56052",
+    "place": "Sở Tư pháp tỉnh Phú Yên"
+  },
+  {
+    "zip": "56053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Phú Yên"
+  },
+  {
+    "zip": "56054",
+    "place": "Sở Giao thông vận tải tỉnh Phú Yên"
+  },
+  {
+    "zip": "56055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Phú Yên"
+  },
+  {
+    "zip": "56056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Phú Yên"
+  },
+  {
+    "zip": "56057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Phú Yên"
+  },
+  {
+    "zip": "56058",
+    "place": "Sở Xây dựng tỉnh Phú Yên"
+  },
+  {
+    "zip": "56060",
+    "place": "Sở Y tế tỉnh Phú Yên"
+  },
+  {
+    "zip": "56061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Phú Yên"
+  },
+  {
+    "zip": "56062",
+    "place": "Ban Dân tộc tỉnh Phú Yên"
+  },
+  {
+    "zip": "56063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56064",
+    "place": "Thanh tra tỉnh Phú Yên"
+  },
+  {
+    "zip": "56065",
+    "place": "Trường chính trị tỉnh Phú Yên"
+  },
+  {
+    "zip": "56066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Phú Yên"
+  },
+  {
+    "zip": "56067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56070",
+    "place": "Bảo hiểm xã hội tỉnh Phú Yên"
+  },
+  {
+    "zip": "56078",
+    "place": "Cục Thuế tỉnh Phú Yên"
+  },
+  {
+    "zip": "56079",
+    "place": "Chi Cục Hải quan tỉnh Phú Yên"
+  },
+  {
+    "zip": "56080",
+    "place": "Cục Thống kê tỉnh Phú Yên"
+  },
+  {
+    "zip": "56081",
+    "place": "Kho bạc Nhà nước tỉnh Phú Yên"
+  },
+  {
+    "zip": "56085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Phú Yên"
+  },
+  {
+    "zip": "56086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Phú Yên"
+  },
+  {
+    "zip": "56087",
+    "place": "Hội Văn học nghệ thuật tỉnh Phú Yên"
+  },
+  {
+    "zip": "56088",
+    "place": "Liên đoàn Lao động tỉnh Phú Yên"
+  },
+  {
+    "zip": "56089",
+    "place": "Hội Nông dân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Phú Yên"
+  },
+  {
+    "zip": "56091",
+    "place": "Tỉnh Đoàn tỉnh Phú Yên"
+  },
+  {
+    "zip": "56092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Phú Yên"
+  },
+  {
+    "zip": "56093",
+    "place": "Hội Cựu chiến binh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56100",
+    "place": "Bưu cục Trung tâm thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56101",
+    "place": "Thành ủy thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56102",
+    "place": "Hội đồng nhân dân thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56103",
+    "place": "Ủy ban nhân dân thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56106",
+    "place": "Phường 1 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56107",
+    "place": "Xã Bình Ngọc thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56108",
+    "place": "Phường Phú Lâm thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56109",
+    "place": "Phường Phú Thạnh thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56110",
+    "place": "Phường Phú Đông thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56111",
+    "place": "Phường 6 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56112",
+    "place": "Phường 4 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56113",
+    "place": "Phường 3 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56114",
+    "place": "Phường 2 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56115",
+    "place": "Phường 5 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56116",
+    "place": "Phường 8 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56117",
+    "place": "Phường 9 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56118",
+    "place": "Phường 7 thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56119",
+    "place": "Xã Bình Kiến thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56120",
+    "place": "Xã An Phú thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56121",
+    "place": "Xã Hòa Kiến thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56150",
+    "place": "Bưu cục phát Tuy Hòa thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56151",
+    "place": "Bưu cục Kinh Doanh Tiếp Thị thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56152",
+    "place": "Bưu cục Nguyễn Huệ thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56153",
+    "place": "Bưu cục Phú Lâm thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56199",
+    "place": "Bưu cục Hệ 1 Phú Yên thành phố Tuy Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56200",
+    "place": "Bưu cục Trung tâm huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56201",
+    "place": "Huyện ủy huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56202",
+    "place": "Hội đồng nhân dân huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56203",
+    "place": "Ủy ban nhân dân huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56206",
+    "place": "Thị trấn Chí Thạnh huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56207",
+    "place": "Xã An Cư huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56208",
+    "place": "Xã An Thạch huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56209",
+    "place": "Xã An Ninh Tây huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56210",
+    "place": "Xã An Dân huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56211",
+    "place": "Xã An Định huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56212",
+    "place": "Xã An Nghiệp huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56213",
+    "place": "Xã An Xuân huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56214",
+    "place": "Xã An Lĩnh huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56215",
+    "place": "Xã An Thọ huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56216",
+    "place": "Xã An Chấn huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56217",
+    "place": "Xã An Mỹ huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56218",
+    "place": "Xã An Hiệp huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56219",
+    "place": "Xã An Hòa huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56220",
+    "place": "Xã An Hải huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56221",
+    "place": "Xã An Ninh Đông huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56250",
+    "place": "Bưu cục phát Tuy An huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56251",
+    "place": "Bưu cục Hòa Đa huyện Tuy An tỉnh Phú Yên"
+  },
+  {
+    "zip": "56300",
+    "place": "Bưu cục Trung tâm thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56301",
+    "place": "Thị ủy thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56302",
+    "place": "Hội đồng nhân dân thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56303",
+    "place": "Ủy ban nhân dân thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56304",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56306",
+    "place": "Phường Xuân Phú thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56307",
+    "place": "Phường Xuân Thành thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56308",
+    "place": "Phường Xuân Đài thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56309",
+    "place": "Xã Xuân Thọ 2 thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56310",
+    "place": "Xã Xuân Thọ 1 thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56311",
+    "place": "Xã Xuân Lâm thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56312",
+    "place": "Phường Xuân Yên thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56313",
+    "place": "Xã Xuân Phương thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56314",
+    "place": "Xã Xuân Thịnh thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56315",
+    "place": "Xã Xuân Cảnh thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56316",
+    "place": "Xã Xuân Hòa thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56317",
+    "place": "Xã Xuân Bình thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56318",
+    "place": "Xã Xuân Lộc thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56319",
+    "place": "Xã Xuân Hải thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56350",
+    "place": "Bưu cục phát Sông Cầu thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56351",
+    "place": "Bưu cục Bình Thạnh thị xã Sông Cầu tỉnh Phú Yên"
+  },
+  {
+    "zip": "56400",
+    "place": "Bưu cục Trung tâm huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56401",
+    "place": "Huyện ủy huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56402",
+    "place": "Hội đồng nhân dân huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56403",
+    "place": "Ủy ban nhân dân huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56406",
+    "place": "Thị trấn La Hai huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56407",
+    "place": "Xã Xuân Sơn Bắc huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56408",
+    "place": "Xã Xuân Sơn Nam huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56409",
+    "place": "Xã Xuân Quang 3 huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56410",
+    "place": "Xã Xuân Phước huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56411",
+    "place": "Xã Xuân Quang 1 huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56412",
+    "place": "Xã Xuân Quang 2 huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56413",
+    "place": "Xã Xuân Long huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56414",
+    "place": "Xã Đa Lộc huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56415",
+    "place": "Xã Xuân Lãnh huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56416",
+    "place": "Xã Phú Mỡ huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56450",
+    "place": "Bưu cục phát Đồng Xuân huyện Đồng Xuân tỉnh Phú Yên"
+  },
+  {
+    "zip": "56500",
+    "place": "Bưu cục Trung tâm huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56501",
+    "place": "Huyện ủy huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56502",
+    "place": "Hội đồng nhân dân huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56503",
+    "place": "Ủy ban nhân dân huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56506",
+    "place": "Thị trấn Củng Sơn huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56507",
+    "place": "Xã Suối Bạc huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56508",
+    "place": "Xã Sơn Hà huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56509",
+    "place": "Xã Sơn Nguyên huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56510",
+    "place": "Xã Sơn Xuân huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56511",
+    "place": "Xã Sơn Long huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56512",
+    "place": "Xã Sơn Định huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56513",
+    "place": "Xã Sơn Hội huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56514",
+    "place": "Xã Phước Tân huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56515",
+    "place": "Xã Cà Lúi huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56516",
+    "place": "Xã Sơn Phước huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56517",
+    "place": "Xã Eachà Rang huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56518",
+    "place": "Xã Suối Trai huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56519",
+    "place": "Xã Krông Pa huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56550",
+    "place": "Bưu cục phát Sơn Hoà huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56551",
+    "place": "Bưu cục Ngân Điền huyện Sơn Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56600",
+    "place": "Bưu cục Trung tâm huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56601",
+    "place": "Huyện ủy huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56602",
+    "place": "Hội đồng nhân dân huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56603",
+    "place": "Ủy ban nhân dân huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56606",
+    "place": "Thị trấn Hai Riêng huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56607",
+    "place": "Xã EaBia huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56608",
+    "place": "Xã Đức Bình Tây huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56609",
+    "place": "Xã Sơn Giang huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56610",
+    "place": "Xã Đức Bình Đông huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56611",
+    "place": "Xã Sông Hinh huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56612",
+    "place": "Xã EaTrol huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56613",
+    "place": "Xã EaBar huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56614",
+    "place": "Xã Ealy huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56615",
+    "place": "Xã Ea Bá huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56616",
+    "place": "Xã Ea Lâm huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56650",
+    "place": "Bưu cục phát Sông Hinh huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56651",
+    "place": "Bưu điện văn hóa xã Chí Thán huyện Sông Hinh tỉnh Phú Yên"
+  },
+  {
+    "zip": "56700",
+    "place": "Bưu cục Trung tâm huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56701",
+    "place": "Huyện ủy huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56702",
+    "place": "Hội đồng nhân dân huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56703",
+    "place": "Ủy ban nhân dân huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56706",
+    "place": "Thị trấn Phú Thứ huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56707",
+    "place": "Xã Hòa Bình 1 huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56708",
+    "place": "Xã Hòa Tân Tây huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56709",
+    "place": "Xã Hòa Đồng huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56710",
+    "place": "Xã Hòa Thịnh huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56711",
+    "place": "Xã Hòa Mỹ Đông huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56712",
+    "place": "Xã Hòa Mỹ Tây huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56713",
+    "place": "Xã Hòa Phong huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56714",
+    "place": "Xã Hòa Phú huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56715",
+    "place": "Xã Sơn Thành Đông huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56716",
+    "place": "Xã Sơn Thành Tây huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56750",
+    "place": "Bưu cục phát Tây Hòa huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56751",
+    "place": "Bưu cục Sơn Thành huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56752",
+    "place": "Bưu điện văn hóa xã Đồng Bò huyện Tây Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56800",
+    "place": "Bưu cục Trung tâm huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56801",
+    "place": "Huyện ủy huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56802",
+    "place": "Hội đồng nhân dân huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56803",
+    "place": "Ủy ban nhân dân huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56806",
+    "place": "Thị trấn Hoà Vinh huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56807",
+    "place": "Xã Hòa Hiệp Bắc huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56808",
+    "place": "Thị trấn Hoà Hiệp Trung huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56809",
+    "place": "Xã Hòa Hiệp Nam huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56810",
+    "place": "Xã Hòa Tâm huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56811",
+    "place": "Xã Hòa Xuân Nam huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56812",
+    "place": "Xã Hòa Xuân Tây huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56813",
+    "place": "Xã Hòa Xuân Đông huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56814",
+    "place": "Xã Hòa Tân Đông huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56815",
+    "place": "Xã Hòa Thành huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56850",
+    "place": "Bưu cục phát Đông Hòa huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56851",
+    "place": "Bưu cục Phú Hiệp huyện Đông Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56900",
+    "place": "Bưu cục Trung tâm huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56901",
+    "place": "Huyện ủy huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56902",
+    "place": "Hội đồng nhân dân huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56903",
+    "place": "Ủy ban nhân dân huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56906",
+    "place": "Thị trấn Phú Hoà huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56907",
+    "place": "Xã Hòa Định Đông huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56908",
+    "place": "Xã Hòa Thắng huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56909",
+    "place": "Xã Hòa An huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56910",
+    "place": "Xã Hòa Trị huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56911",
+    "place": "Xã Hòa Quang Nam huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56912",
+    "place": "Xã Hòa Quang Bắc huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56913",
+    "place": "Xã Hòa Hội huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56914",
+    "place": "Xã Hòa Định Tây huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56950",
+    "place": "Bưu cục phát Phú Hòa huyện Phú Hòa tỉnh Phú Yên"
+  },
+  {
+    "zip": "56951",
+    "place": "Bưu cục Hòa Thắng huyện Phú Hòa tỉnh Phú Yên"
+  }
+]

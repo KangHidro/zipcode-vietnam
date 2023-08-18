@@ -1,0 +1,1402 @@
+[
+  {
+    "zip": "82000",
+    "place": "Bưu cục Trung tâm tỉnh Long An"
+  },
+  {
+    "zip": "82001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Long An"
+  },
+  {
+    "zip": "82002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Long An"
+  },
+  {
+    "zip": "82003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Long An"
+  },
+  {
+    "zip": "82004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Long An"
+  },
+  {
+    "zip": "82005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Long An"
+  },
+  {
+    "zip": "82009",
+    "place": "Đảng ủy khối cơ quan tỉnh Long An"
+  },
+  {
+    "zip": "82010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Long An"
+  },
+  {
+    "zip": "82011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Long An"
+  },
+  {
+    "zip": "82016",
+    "place": "Báo Long An"
+  },
+  {
+    "zip": "82021",
+    "place": "Hội đồng nhân dân tỉnh Long An"
+  },
+  {
+    "zip": "82030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Long An"
+  },
+  {
+    "zip": "82035",
+    "place": "Tòa án nhân dân tỉnh Long An"
+  },
+  {
+    "zip": "82036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Long An"
+  },
+  {
+    "zip": "82040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Long An"
+  },
+  {
+    "zip": "82041",
+    "place": "Sở Công Thương tỉnh Long An"
+  },
+  {
+    "zip": "82042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Long An"
+  },
+  {
+    "zip": "82043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "82044",
+    "place": "Sở Ngoại vụ tỉnh Long An"
+  },
+  {
+    "zip": "82045",
+    "place": "Sở Tài chính tỉnh Long An"
+  },
+  {
+    "zip": "82046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Long An"
+  },
+  {
+    "zip": "82047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Long An"
+  },
+  {
+    "zip": "82049",
+    "place": "Công an tỉnh Long An"
+  },
+  {
+    "zip": "82051",
+    "place": "Sở Nội vụ tỉnh Long An"
+  },
+  {
+    "zip": "82052",
+    "place": "Sở Tư pháp tỉnh Long An"
+  },
+  {
+    "zip": "82053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Long An"
+  },
+  {
+    "zip": "82054",
+    "place": "Sở Giao thông vận tải tỉnh Long An"
+  },
+  {
+    "zip": "82055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Long An"
+  },
+  {
+    "zip": "82056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Long An"
+  },
+  {
+    "zip": "82057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Long An"
+  },
+  {
+    "zip": "82058",
+    "place": "Sở Xây dựng tỉnh Long An"
+  },
+  {
+    "zip": "82060",
+    "place": "Sở Y tế tỉnh Long An"
+  },
+  {
+    "zip": "82061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Long An"
+  },
+  {
+    "zip": "82063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Long An"
+  },
+  {
+    "zip": "82064",
+    "place": "Thanh tra tỉnh Long An"
+  },
+  {
+    "zip": "82065",
+    "place": "Trường chính trị tỉnh Long An"
+  },
+  {
+    "zip": "82066",
+    "place": "Cơ quan thường trú Thông tấn xã Việt Nam tỉnh Long An"
+  },
+  {
+    "zip": "82067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Long An"
+  },
+  {
+    "zip": "82070",
+    "place": "Bảo hiểm xã hội tỉnh Long An"
+  },
+  {
+    "zip": "82078",
+    "place": "Cục Thuế tỉnh Long An"
+  },
+  {
+    "zip": "82079",
+    "place": "Cục Hải quan tỉnh Long An"
+  },
+  {
+    "zip": "82080",
+    "place": "Cục Thống kê tỉnh Long An"
+  },
+  {
+    "zip": "82081",
+    "place": "Kho bạc Nhà nước tỉnh Long An"
+  },
+  {
+    "zip": "82085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Long An"
+  },
+  {
+    "zip": "82086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Long An"
+  },
+  {
+    "zip": "82087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Long An"
+  },
+  {
+    "zip": "82088",
+    "place": "Liên đoàn Lao động tỉnh Long An"
+  },
+  {
+    "zip": "82089",
+    "place": "Hội Nông dân tỉnh Long An"
+  },
+  {
+    "zip": "82090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Long An"
+  },
+  {
+    "zip": "82091",
+    "place": "Tỉnh Đoàn tỉnh Long An"
+  },
+  {
+    "zip": "82092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Long An"
+  },
+  {
+    "zip": "82093",
+    "place": "Hội Cựu chiến binh tỉnh Long An"
+  },
+  {
+    "zip": "82100",
+    "place": "Bưu cục Trung tâm thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82101",
+    "place": "Thành ủy thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82102",
+    "place": "Hội đồng nhân dân thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82103",
+    "place": "Ủy ban nhân dân thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82106",
+    "place": "Phường 1 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82107",
+    "place": "Phường 5 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82108",
+    "place": "Xã Nhơn Thạnh Trung thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82109",
+    "place": "Xã Hướng Thọ Phú thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82110",
+    "place": "Phường 6 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82111",
+    "place": "Phường 2 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82112",
+    "place": "Xã Lợi Bình Nhơn thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82113",
+    "place": "Phường Khánh Hậu thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82114",
+    "place": "Phường 4 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82115",
+    "place": "Phường Tân Khánh thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82116",
+    "place": "Xã An Vĩnh Ngãi thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82117",
+    "place": "Phường 7 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82118",
+    "place": "Phường 3 thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82119",
+    "place": "Xã Bình Tâm thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82150",
+    "place": "Bưu cục phát Tân An thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82151",
+    "place": "Bưu cục Chợ Tân An thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82199",
+    "place": "Bưu cục Hệ 1 Long An thành phố Tân An tỉnh Long An"
+  },
+  {
+    "zip": "82200",
+    "place": "Bưu cục Trung tâm huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82201",
+    "place": "Huyện ủy huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82202",
+    "place": "Hội đồng nhân dân huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82203",
+    "place": "Ủy ban nhân dân huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82206",
+    "place": "Thị trấn Tầm Vu huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82207",
+    "place": "Xã Phước Tân Hưng huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82208",
+    "place": "Xã Thanh Phú Long huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82209",
+    "place": "Xã Thanh Vĩnh Đông huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82210",
+    "place": "Xã Thuận Mỹ huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82211",
+    "place": "Xã Phú Ngãi Trị huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82212",
+    "place": "Xã Bình Quới huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82213",
+    "place": "Xã Hòa Phú huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82214",
+    "place": "Xã Vĩnh Công huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82215",
+    "place": "Xã Hiệp Thạnh huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82216",
+    "place": "Xã Dương Xuân Hội huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82217",
+    "place": "Xã Long Trì huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82218",
+    "place": "Xã An Lục Long huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82250",
+    "place": "Bưu cục phát Châu Thành huyện Châu Thành tỉnh Long An"
+  },
+  {
+    "zip": "82300",
+    "place": "Bưu cục Trung tâm huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82301",
+    "place": "Huyện ủy huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82302",
+    "place": "Hội đồng nhân dân huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82303",
+    "place": "Ủy ban nhân dân huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82306",
+    "place": "Thị trấn Tân Trụ huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82307",
+    "place": "Xã Tân Phước Tây huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82308",
+    "place": "Xã Bình Trinh Đông huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82309",
+    "place": "Xã An Nhựt Tân huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82310",
+    "place": "Xã Mỹ Bình huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82311",
+    "place": "Xã Quê Mỹ Thạnh huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82312",
+    "place": "Xã Lạc Tấn huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82313",
+    "place": "Xã Bình Lãng huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82314",
+    "place": "Xã Bình Tịnh huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82315",
+    "place": "Xã Đức Tân huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82316",
+    "place": "Xã Nhựt Ninh huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82350",
+    "place": "Bưu cục phát Tân Trụ huyện Tân Trụ tỉnh Long An"
+  },
+  {
+    "zip": "82400",
+    "place": "Bưu cục Trung tâm huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82401",
+    "place": "Huyện ủy huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82402",
+    "place": "Hội đồng nhân dân huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82403",
+    "place": "Ủy ban nhân dân huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82406",
+    "place": "Thị trấn Cần Đước huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82407",
+    "place": "Xã Tân Lân huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82408",
+    "place": "Xã Mỹ Lệ huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82409",
+    "place": "Xã Tân Trạch huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82410",
+    "place": "Xã Long Hòa huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82411",
+    "place": "Xã Long Khê huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82412",
+    "place": "Xã Long Trạch huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82413",
+    "place": "Xã Phước Vân huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82414",
+    "place": "Xã Long Định huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82415",
+    "place": "Xã Long Sơn huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82416",
+    "place": "Xã Phước Tuy huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82417",
+    "place": "Xã Tân Ân huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82418",
+    "place": "Xã Tân Chánh huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82419",
+    "place": "Xã Phước Đông huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82420",
+    "place": "Xã Long Cang huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82421",
+    "place": "Xã Long Hựu Đông huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82422",
+    "place": "Xã Long Hựu Tây huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82450",
+    "place": "Bưu cục phát Cần Đước huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82451",
+    "place": "Bưu cục Rạch Kiến huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82452",
+    "place": "Bưu điện văn hóa xã Mỹ Lệ 2 huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82453",
+    "place": "Bưu điện văn hóa xã Phước Vân 1 huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82454",
+    "place": "Bưu điện văn hóa xã Long Hựu Đông 1 huyện Cần Đước tỉnh Long An"
+  },
+  {
+    "zip": "82500",
+    "place": "Bưu cục Trung tâm huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82501",
+    "place": "Huyện ủy huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82502",
+    "place": "Hội đồng nhân dân huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82503",
+    "place": "Ủy ban nhân dân huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82506",
+    "place": "Thị trấn Cần Giuộc huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82507",
+    "place": "Xã Long Hậu huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82508",
+    "place": "Xã Tân Kim huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82509",
+    "place": "Xã Mỹ Lộc huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82510",
+    "place": "Xã Long Thượng huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82511",
+    "place": "Xã Phước Lý huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82512",
+    "place": "Xã Phước Hậu huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82513",
+    "place": "Xã Phước Lâm huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82514",
+    "place": "Xã Thuận Thành huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82515",
+    "place": "Xã Trường Bình huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82516",
+    "place": "Xã Phước Lại huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82517",
+    "place": "Xã Phước Vĩnh Đông huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82518",
+    "place": "Xã Phước Vĩnh Tây huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82519",
+    "place": "Xã Long An huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82520",
+    "place": "Xã Long Phụng huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82521",
+    "place": "Xã Đông Thạnh huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82522",
+    "place": "Xã Tân Tập huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82550",
+    "place": "Bưu cục phát Cần Giuộc huyện Cần Giuộc tỉnh Long An"
+  },
+  {
+    "zip": "82600",
+    "place": "Bưu cục Trung tâm huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82601",
+    "place": "Huyện ủy huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82602",
+    "place": "Hội đồng nhân dân huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82603",
+    "place": "Ủy ban nhân dân huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82606",
+    "place": "Thị trấn Bến Lức huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82607",
+    "place": "Xã Mỹ Yên huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82608",
+    "place": "Xã Thanh Phú huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82609",
+    "place": "Xã Tân Bửu huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82610",
+    "place": "Xã Tân Hòa huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82611",
+    "place": "Xã Lương Bình huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82612",
+    "place": "Xã Thạnh Lợi huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82613",
+    "place": "Xã Thạnh Hòa huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82614",
+    "place": "Xã Lương Hòa huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82615",
+    "place": "Xã Bình Đức huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82616",
+    "place": "Xã An Thạnh huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82617",
+    "place": "Xã Thạnh Đức huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82618",
+    "place": "Xã Nhựt Chánh huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82619",
+    "place": "Xã Long Hiệp huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82620",
+    "place": "Xã Phước Lợi huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82650",
+    "place": "Bưu cục phát Bến Lức huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82651",
+    "place": "Bưu cục Thuận Đạo huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82652",
+    "place": "Bưu cục Gò Đen huyện Bến Lức tỉnh Long An"
+  },
+  {
+    "zip": "82700",
+    "place": "Bưu cục Trung tâm huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82701",
+    "place": "Huyện ủy huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82702",
+    "place": "Hội đồng nhân dân huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82703",
+    "place": "Ủy ban nhân dân huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82706",
+    "place": "Thị trấn Hậu Nghĩa huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82707",
+    "place": "Xã Đức Lập Thượng huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82708",
+    "place": "Xã Đức Lập Hạ huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82709",
+    "place": "Xã Tân Mỹ huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82710",
+    "place": "Xã An Ninh Đông huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82711",
+    "place": "Xã Lộc Giang huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82712",
+    "place": "Xã An Ninh Tây huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82713",
+    "place": "Xã Hiệp Hòa huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82714",
+    "place": "Thị trấn Hiệp Hòa huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82715",
+    "place": "Xã Tân Phú huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82716",
+    "place": "Xã Hòa Khánh Tây huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82717",
+    "place": "Xã Hòa Khánh Đông huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82718",
+    "place": "Xã Đức Hòa Thượng huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82719",
+    "place": "Xã Mỹ Hạnh Bắc huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82720",
+    "place": "Xã Mỹ Hạnh Nam huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82721",
+    "place": "Xã Đức Hòa Đông huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82722",
+    "place": "Thị trấn Đức Hòa huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82723",
+    "place": "Xã Hòa Khánh Nam huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82724",
+    "place": "Xã Đức Hòa Hạ huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82725",
+    "place": "Xã Hựu Thạnh huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82750",
+    "place": "Bưu cục phát Đức Hòa huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82751",
+    "place": "Bưu cục Hậu Nghĩa huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82752",
+    "place": "Bưu cục Mỹ Hạnh Nam huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82753",
+    "place": "Bưu cục Hạnh Phúc huyện Đức Hòa tỉnh Long An"
+  },
+  {
+    "zip": "82800",
+    "place": "Bưu cục Trung tâm huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82801",
+    "place": "Huyện ủy huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82802",
+    "place": "Hội đồng nhân dân huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82803",
+    "place": "Ủy ban nhân dân huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82806",
+    "place": "Thị trấn Đông Thành huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82807",
+    "place": "Xã Mỹ Thạnh Bắc huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82808",
+    "place": "Xã Mỹ Quý Đông huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82809",
+    "place": "Xã Mỹ Quý Tây huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82810",
+    "place": "Xã Mỹ Thạnh Tây huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82811",
+    "place": "Xã Mỹ Bình huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82812",
+    "place": "Xã Mỹ Thạnh Đông huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82813",
+    "place": "Xã Bình Hòa Bắc huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82814",
+    "place": "Xã Bình Thành huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82815",
+    "place": "Xã Bình Hòa Hưng huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82816",
+    "place": "Xã Bình Hòa Nam huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82850",
+    "place": "Bưu cục phát Đức Huệ huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82851",
+    "place": "Bưu điện văn hóa xã Mỹ Quý Tây huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82852",
+    "place": "Bưu điện văn hóa xã Bình Thành huyện Đức Huệ tỉnh Long An"
+  },
+  {
+    "zip": "82900",
+    "place": "Bưu cục Trung tâm huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82901",
+    "place": "Huyện ủy huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82902",
+    "place": "Hội đồng nhân dân huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82903",
+    "place": "Ủy ban nhân dân huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82906",
+    "place": "Thị trấn Thạnh Hóa huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82907",
+    "place": "Xã Thạnh Phú huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82908",
+    "place": "Xã Thuận Nghĩa Hòa huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82909",
+    "place": "Xã Thuận Bình huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82910",
+    "place": "Xã Tân Hiệp huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82911",
+    "place": "Xã Thạnh Phước huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82912",
+    "place": "Xã Thủy Tây huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82913",
+    "place": "Xã Thạnh An huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82914",
+    "place": "Xã Thủy Đông huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82915",
+    "place": "Xã Tân Tây huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82916",
+    "place": "Xã Tân Đông huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "82950",
+    "place": "Bưu cục phát Thạnh Hóa huyện Thạch Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83000",
+    "place": "Bưu cục Trung tâm thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83001",
+    "place": "Thị ủy thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83002",
+    "place": "Hội đồng nhân dân thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83003",
+    "place": "Ủy ban nhân dân thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83004",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83006",
+    "place": "Phường 1 thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83007",
+    "place": "Phường 2 thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83008",
+    "place": "Phường 3 thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83009",
+    "place": "Xã Bình Hiệp thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83010",
+    "place": "Xã Bình Tân thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83011",
+    "place": "Xã Thạnh Trị thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83012",
+    "place": "Xã Tuyên Thạnh thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83013",
+    "place": "Xã Thạnh Hưng thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83050",
+    "place": "Bưu cục phát Kiến Tường thị xã Kiến Tường tỉnh Long An"
+  },
+  {
+    "zip": "83100",
+    "place": "Bưu cục Trung tâm huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83101",
+    "place": "Huyện ủy huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83102",
+    "place": "Hội đồng nhân dân huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83103",
+    "place": "Ủy ban nhân dân huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83104",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83106",
+    "place": "Xã Tân Thành huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83107",
+    "place": "Xã Bình Hòa Đông huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83108",
+    "place": "Xã Bình Thạnh huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83109",
+    "place": "Xã Bình Hòa Tây huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83110",
+    "place": "Xã Bình Hòa Trung huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83111",
+    "place": "Xã Tân Lập huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83112",
+    "place": "Xã Bình Phong Thạnh huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83150",
+    "place": "Bưu cục phát Mộc Hóa huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83151",
+    "place": "Bưu điện văn hóa xã Tân Lập 2 huyện Mộc Hóa tỉnh Long An"
+  },
+  {
+    "zip": "83200",
+    "place": "Bưu cục Trung tâm huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83201",
+    "place": "Huyện ủy huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83202",
+    "place": "Hội đồng nhân dân huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83203",
+    "place": "Ủy ban nhân dân huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83206",
+    "place": "Thị trấn Vĩnh Hưng huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83207",
+    "place": "Xã Thái Bình Trung huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83208",
+    "place": "Xã Thái Trị huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83209",
+    "place": "Xã Hưng Điền A huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83210",
+    "place": "Xã Khánh Hưng huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83211",
+    "place": "Xã Vĩnh Trị huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83212",
+    "place": "Xã Vĩnh Bình huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83213",
+    "place": "Xã Vĩnh Thuận huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83214",
+    "place": "Xã Tuyên Bình Tây huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83215",
+    "place": "Xã Tuyên Bình huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83250",
+    "place": "Bưu cục phát Vĩnh Hưng huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83251",
+    "place": "Bưu điện văn hóa xã Hưng Điền 2 huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83252",
+    "place": "Bưu điện văn hóa xã Vĩnh Bình 2 huyện Vĩnh Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83300",
+    "place": "Bưu cục Trung tâm huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83301",
+    "place": "Huyện ủy huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83302",
+    "place": "Hội đồng nhân dân huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83303",
+    "place": "Ủy ban nhân dân huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83306",
+    "place": "Thị trấn Tân Hưng huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83307",
+    "place": "Xã Vĩnh Thạnh huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83308",
+    "place": "Xã Thạnh Hưng huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83309",
+    "place": "Xã Hưng Hà huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83310",
+    "place": "Xã Hưng Điền B huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83311",
+    "place": "Xã Hưng Điền huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83312",
+    "place": "Xã Hưng Thạnh huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83313",
+    "place": "Xã Vĩnh Châu B huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83314",
+    "place": "Xã Vĩnh Lợi huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83315",
+    "place": "Xã Vĩnh Châu A huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83316",
+    "place": "Xã Vĩnh Đại huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83317",
+    "place": "Xã Vĩnh Bửu huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83350",
+    "place": "Bưu cục phát Tân Hưng huyện Tân Hưng tỉnh Long An"
+  },
+  {
+    "zip": "83400",
+    "place": "Bưu cục Trung tâm huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83401",
+    "place": "Huyện ủy huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83402",
+    "place": "Hội đồng nhân dân huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83403",
+    "place": "Ủy ban nhân dân huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83406",
+    "place": "Thị trấn Tân Thạnh huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83407",
+    "place": "Xã Kiến Bình huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83408",
+    "place": "Xã Nhơn Hoà huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83409",
+    "place": "Xã Tân Lập huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83410",
+    "place": "Xã Nhơn Hòa Lập huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83411",
+    "place": "Xã Bắc Hòa huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83412",
+    "place": "Xã Hậu Thạnh Tây huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83413",
+    "place": "Xã Hậu Thạnh Đông huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83414",
+    "place": "Xã Tân Thành huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83415",
+    "place": "Xã Tân Ninh huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83416",
+    "place": "Xã Nhơn Ninh huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83417",
+    "place": "Xã Tân Hòa huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83418",
+    "place": "Xã Tân Bình huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83450",
+    "place": "Bưu cục phát Tân Thạnh huyện Tân Thạnh tỉnh Long An"
+  },
+  {
+    "zip": "83500",
+    "place": "Bưu cục Trung tâm huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83501",
+    "place": "Huyện ủy huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83502",
+    "place": "Hội đồng nhân dân huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83503",
+    "place": "Ủy ban nhân dân huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83506",
+    "place": "Thị trấn Thủ Thừa huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83507",
+    "place": "Xã Tân Thành huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83508",
+    "place": "Xã Tân Lập huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83509",
+    "place": "Xã Long Thành huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83510",
+    "place": "Xã Long Thạnh huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83511",
+    "place": "Xã Long Thuận huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83512",
+    "place": "Xã Mỹ Lạc huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83513",
+    "place": "Xã Mỹ Thạnh huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83514",
+    "place": "Xã Mỹ An huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83515",
+    "place": "Xã Bình An huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83516",
+    "place": "Xã Mỹ Phú huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83517",
+    "place": "Xã Bình Thạnh huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83518",
+    "place": "Xã Nhị Thành huyện Thủ Thừa tỉnh Long An"
+  },
+  {
+    "zip": "83550",
+    "place": "Bưu cục phát Thủ Thừa huyện Thủ Thừa tỉnh Long An"
+  }
+]

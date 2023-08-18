@@ -1,0 +1,3658 @@
+[
+  {
+    "zip": "40000",
+    "place": "Bưu cục Trung tâm tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40009",
+    "place": "Đảng ủy khối cơ quan tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40016",
+    "place": "Báo Thanh Hóa"
+  },
+  {
+    "zip": "40021",
+    "place": "Hội đồng nhân dân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40035",
+    "place": "Tòa án nhân dân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40036",
+    "place": "Viện Kiểm sát nhân dân tỉnh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40037",
+    "place": "Kiểm toán nhà nước khu vực XI"
+  },
+  {
+    "zip": "40040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40041",
+    "place": "Sở Công Thương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "40044",
+    "place": "Sở Ngoại vụ tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40045",
+    "place": "Sở Tài chính tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40049",
+    "place": "Công an tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40050",
+    "place": "Sở Cảnh sát phòng cháy chữa cháy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40051",
+    "place": "Sở Nội vụ tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40052",
+    "place": "Sở Tư pháp tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40054",
+    "place": "Sở Giao thông vận tải tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40058",
+    "place": "Sở Xây dựng tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40060",
+    "place": "Sở Y tế tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40062",
+    "place": "Ban Dân tộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40064",
+    "place": "Thanh tra tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40065",
+    "place": "Trường chính trị tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40070",
+    "place": "Bảo hiểm xã hội tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40078",
+    "place": "Cục Thuế tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40079",
+    "place": "Cục Hải quan tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40080",
+    "place": "Cục Thống kê tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40081",
+    "place": "Kho bạc Nhà nước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40088",
+    "place": "Liên đoàn Lao động tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40089",
+    "place": "Hội Nông dân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40091",
+    "place": "Tỉnh đoàn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40093",
+    "place": "Hội Cựu chiến binh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40100",
+    "place": "Bưu cục Trung tâm thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40101",
+    "place": "Thành ủy thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40102",
+    "place": "Hội đồng nhân dân thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40103",
+    "place": "Ủy ban nhân dân thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40106",
+    "place": "Phường Hàm Rồng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40107",
+    "place": "Phường Tào Xuyên thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40108",
+    "place": "Xã Thiệu Dương thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40109",
+    "place": "Phường Đông Cương thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40110",
+    "place": "Phường Đông Thọ thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40111",
+    "place": "Phường Trường Thi thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40112",
+    "place": "Phường Nam Ngạn thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40113",
+    "place": "Xã Long Anh thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40114",
+    "place": "Xã Hoằng Anh thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40115",
+    "place": "Xã Hoằng Lý thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40116",
+    "place": "Xã Thiệu Khánh thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40117",
+    "place": "Xã Thiệu Vân thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40118",
+    "place": "Xã Đông Lĩnh thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40119",
+    "place": "Phường Phú Sơn thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40120",
+    "place": "Phường Điện Biên thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40121",
+    "place": "Phường Ba Đình thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40122",
+    "place": "Phường Ngọc Trạo thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40123",
+    "place": "Phường Lam Sơn thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40124",
+    "place": "Phường Đông Hương thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40125",
+    "place": "Phường Đông Hải thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40126",
+    "place": "Xã Hoằng Quang thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40127",
+    "place": "Xã Hoằng Đại thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40128",
+    "place": "Xã Quảng Hưng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40129",
+    "place": "Phường Đông Sơn thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40130",
+    "place": "Phường Đông Vệ thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40131",
+    "place": "Phường Quảng Thắng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40132",
+    "place": "Phường Tân Sơn thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40133",
+    "place": "Xã Đông Tân thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40134",
+    "place": "Phường An Hưng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40135",
+    "place": "Xã Đông Hưng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40136",
+    "place": "Xã Đông Vinh thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40137",
+    "place": "Xã Quảng Thịnh thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40138",
+    "place": "Xã Quảng Thành thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40139",
+    "place": "Xã Quảng Đông thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40140",
+    "place": "Xã Quảng Phú thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40141",
+    "place": "Xã Quảng Tâm thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40142",
+    "place": "Xã Quảng Cát thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40150",
+    "place": "Bưu cục phát Thanh Hóa 1 thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40151",
+    "place": "Bưu cục phát Thanh Hóa 2 thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40152",
+    "place": "Bưu cục phát Thanh Hóa 3 thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40153",
+    "place": "Bưu cục Ba Voi thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40154",
+    "place": "Bưu cục Cầu Tào thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40155",
+    "place": "Bưu cục Chợ Môi thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40156",
+    "place": "Bưu cục Đội Cung thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40157",
+    "place": "Bưu cục Đông Vệ thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40158",
+    "place": "Bưu cục Ga Thanh Hóa thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40159",
+    "place": "Bưu cục Hàm Rồng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40160",
+    "place": "Bưu cục Hàng Đồng thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40161",
+    "place": "Bưu cục Kinh Doanh Tiếp Thị 1 thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40162",
+    "place": "Bưu cục Kinh Doanh Tiếp Thị 2 thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40163",
+    "place": "Bưu cục Lai Thành thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40164",
+    "place": "Bưu cục Trần Phú thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40199",
+    "place": "Bưu cục Hệ 1 Thanh Hoá thành phố Thanh Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40200",
+    "place": "Bưu cục Trung tâm thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40201",
+    "place": "Thành ủy thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40202",
+    "place": "Hội đồng nhân dân thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40203",
+    "place": "Ủy ban nhân dân thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40204",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40206",
+    "place": "Phường Trường Sơn thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40207",
+    "place": "Phường Bắc Sơn thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40208",
+    "place": "Phường Trung Sơn thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40209",
+    "place": "Phường Quảng Cư thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40210",
+    "place": "Phường Quảng Tiến thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40211",
+    "place": "Phường Quảng Châu thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40212",
+    "place": "Phường Quảng Thọ thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40213",
+    "place": "Phường Quảng Vinh thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40214",
+    "place": "Xã Quảng Đại thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40215",
+    "place": "Xã Quảng Hùng thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40216",
+    "place": "Xã Quảng Minh thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40250",
+    "place": "Bưu cục phát Sầm Sơn thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40251",
+    "place": "Bưu cục Quảng Tiến thành phố Sầm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40300",
+    "place": "Bưu cục Trung tâm huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40301",
+    "place": "Huyện ủy huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40302",
+    "place": "Hội đồng nhân dân huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40303",
+    "place": "Ủy ban nhân dân huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40306",
+    "place": "Thị trấn Bút Sơn huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40307",
+    "place": "Xã Hoằng Đạo huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40308",
+    "place": "Xã Hoằng Ngọc huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40309",
+    "place": "Xã Hoằng Đông huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40310",
+    "place": "Xã Hoằng Phụ huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40311",
+    "place": "Xã Hoằng Thanh huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40312",
+    "place": "Xã Hoằng Tiến huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40313",
+    "place": "Xã Hoằng Hải huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40314",
+    "place": "Xã Hoằng Trường huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40315",
+    "place": "Xã Hoằng Yến huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40316",
+    "place": "Xã Hoằng Hà huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40317",
+    "place": "Xã Hoằng Phúc huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40318",
+    "place": "Xã Hoằng Đạt huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40319",
+    "place": "Xã Hoằng Xuyên huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40320",
+    "place": "Xã Hoằng Đức huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40321",
+    "place": "Xã Hoằng Khê huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40322",
+    "place": "Xã Hoằng Quý huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40323",
+    "place": "Xã Hoằng Sơn huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40324",
+    "place": "Xã Hoằng Lương huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40325",
+    "place": "Xã Hoằng Trinh huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40326",
+    "place": "Xã Hoằng Trung huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40327",
+    "place": "Xã Hoằng Kim huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40328",
+    "place": "Xã Hoằng Khánh huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40329",
+    "place": "Xã Hoằng Xuân huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40330",
+    "place": "Xã Hoằng Phượng huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40331",
+    "place": "Xã Hoằng Phú huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40332",
+    "place": "Xã Hoằng Giang huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40333",
+    "place": "Xã Hoằng Hợp huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40334",
+    "place": "Xã Hoằng Quỳ huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40335",
+    "place": "Xã Hoằng Cát huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40336",
+    "place": "Xã Hoằng Minh huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40337",
+    "place": "Xã Hoằng Vinh huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40338",
+    "place": "Xã Hoằng Đồng huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40339",
+    "place": "Xã Hoằng Thịnh huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40340",
+    "place": "Xã Hoằng Lộc huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40341",
+    "place": "Xã Hoằng Thái huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40342",
+    "place": "Xã Hoằng Thắng huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40343",
+    "place": "Xã Hoằng Lưu huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40344",
+    "place": "Xã Hoằng Thành huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40345",
+    "place": "Xã Hoằng Trạch huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40346",
+    "place": "Xã Hoằng Phong huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40347",
+    "place": "Xã Hoằng Tân huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40348",
+    "place": "Xã Hoằng Châu huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40375",
+    "place": "Bưu cục phát Hoằng Hóa huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40376",
+    "place": "Bưu cục phát Chợ Vực huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40377",
+    "place": "Bưu cục Hoằng Châu huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40378",
+    "place": "Bưu cục Nghĩa Trang huyện Hoằng Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40400",
+    "place": "Bưu cục Trung tâm huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40401",
+    "place": "Huyện ủy huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40402",
+    "place": "Hội đồng nhân dân huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40403",
+    "place": "Ủy ban nhân dân huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40406",
+    "place": "Thị trấn Hậu Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40407",
+    "place": "Xã Xuân Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40408",
+    "place": "Xã Hòa Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40409",
+    "place": "Xã Hải Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40410",
+    "place": "Xã Minh Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40411",
+    "place": "Xã Phú Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40412",
+    "place": "Xã Thịnh Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40413",
+    "place": "Xã Hoa Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40414",
+    "place": "Xã Ngư Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40415",
+    "place": "Xã Đa Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40416",
+    "place": "Xã Hưng Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40417",
+    "place": "Xã Liên Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40418",
+    "place": "Xã Quang Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40419",
+    "place": "Xã Tuy Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40420",
+    "place": "Xã Phong Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40421",
+    "place": "Xã Cầu Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40422",
+    "place": "Xã Thành Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40423",
+    "place": "Xã Đồng Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40424",
+    "place": "Xã Đại Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40425",
+    "place": "Xã Châu Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40426",
+    "place": "Xã Triệu Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40427",
+    "place": "Xã Tiến Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40428",
+    "place": "Xã Lộc Sơn huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40429",
+    "place": "Xã Lộc Tân huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40430",
+    "place": "Xã Mỹ Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40431",
+    "place": "Xã Văn Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40432",
+    "place": "Xã Thuần Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40450",
+    "place": "Bưu cục phát Hậu Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40451",
+    "place": "Bưu cục Đại Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40452",
+    "place": "Bưu cục Hoa Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40453",
+    "place": "Bưu cục Minh Lộc huyện Hậu Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40500",
+    "place": "Bưu cục Trung tâm huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40501",
+    "place": "Huyện ủy huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40502",
+    "place": "Hội đồng nhân dân huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40503",
+    "place": "Ủy ban nhân dân huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40506",
+    "place": "Thị trấn Nga Sơn huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40507",
+    "place": "Xã Nga Yên huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40508",
+    "place": "Xã Nga Hải huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40509",
+    "place": "Xã Nga Liên huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40510",
+    "place": "Xã Nga Thành huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40511",
+    "place": "Xã Nga An huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40512",
+    "place": "Xã Nga Thái huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40513",
+    "place": "Xã Nga Phú huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40514",
+    "place": "Xã Nga Điền huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40515",
+    "place": "Xã Nga Giáp huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40516",
+    "place": "Xã Nga Thiện huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40517",
+    "place": "Xã Nga Trường huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40518",
+    "place": "Xã Nga Vịnh huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40519",
+    "place": "Xã Ba Đình huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40520",
+    "place": "Xã Nga Tiến huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40521",
+    "place": "Xã Nga Văn huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40522",
+    "place": "Xã Nga Thắng huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40523",
+    "place": "Xã Nga Mỹ huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40524",
+    "place": "Xã Nga Phượng huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40525",
+    "place": "Xã Nga Thạch huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40526",
+    "place": "Xã Nga Nhân huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40527",
+    "place": "Xã Nga Bạch huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40528",
+    "place": "Xã Nga Trung huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40529",
+    "place": "Xã Nga Hưng huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40530",
+    "place": "Xã Nga Thanh huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40531",
+    "place": "Xã Nga Thủy huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40532",
+    "place": "Xã Nga Tân huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40550",
+    "place": "Bưu cục phát Nga Sơn huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40551",
+    "place": "Bưu cục Hói Đào huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40552",
+    "place": "Bưu cục Mai An Tiêm huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40553",
+    "place": "Bưu cục Nga Nhân huyện Nga Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40600",
+    "place": "Bưu cục Trung tâm huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40601",
+    "place": "Huyện ủy huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40602",
+    "place": "Hội đồng nhân dân huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40603",
+    "place": "Ủy ban nhân dân huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40606",
+    "place": "Thị trấn Hà Trung huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40607",
+    "place": "Xã Hà Lai huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40608",
+    "place": "Xã Hà Châu huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40609",
+    "place": "Xã Hà Vinh huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40610",
+    "place": "Xã Hoạt Giang huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40611",
+    "place": "Xã Hà Vân huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40612",
+    "place": "Xã Yên Dương huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40613",
+    "place": "Xã Hà Yên huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40614",
+    "place": "Xã Hà Bình huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40615",
+    "place": "Xã Yến Sơn huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40616",
+    "place": "Xã Hà Thái huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40617",
+    "place": "Xã Hà Lâm huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40618",
+    "place": "Xã Lĩnh Toại huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40619",
+    "place": "Xã Hà Hải huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40620",
+    "place": "Xã Hà Ngọc huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40621",
+    "place": "Xã Hà Phong huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40622",
+    "place": "Xã Hà Bắc huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40623",
+    "place": "Xã Hà Long huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40624",
+    "place": "Xã Hà Giang huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40625",
+    "place": "Xã Hà Tiến huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40626",
+    "place": "Xã Hà Tân huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40627",
+    "place": "Xã Hà Lĩnh huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40628",
+    "place": "Xã Hà Đông huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40629",
+    "place": "Xã Hà Sơn huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40630",
+    "place": "Xã Hà Toại huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40650",
+    "place": "Bưu cục phát Hà Trung huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40651",
+    "place": "Bưu cục Cầu Cừ huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40652",
+    "place": "Bưu cục Chợ Gũ huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40653",
+    "place": "Bưu cục Đò Lèn huyện Hà Trung tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40700",
+    "place": "Bưu cục Trung tâm thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40701",
+    "place": "Thị ủy thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40702",
+    "place": "Hội đồng nhân dân thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40703",
+    "place": "Ủy ban nhân dân thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40704",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40706",
+    "place": "Phường Ba Đình thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40707",
+    "place": "Phường Lam Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40708",
+    "place": "Phường Đông Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40709",
+    "place": "Xã Hà Lan thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40710",
+    "place": "Xã Quang Trung thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40711",
+    "place": "Phường Phú Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40712",
+    "place": "Phường Ngọc Trạo thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40713",
+    "place": "Phường Bắc Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40750",
+    "place": "Bưu cục phát Bỉm Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40751",
+    "place": "Bưu cục Bắc Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40752",
+    "place": "Bưu cục Lam Sơn thị xã Bỉm Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40800",
+    "place": "Bưu cục Trung tâm huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40801",
+    "place": "Huyện ủy huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40802",
+    "place": "Hội đồng nhân dân huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40803",
+    "place": "Ủy ban nhân dân huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40806",
+    "place": "Thị trấn Rừng Thông huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40807",
+    "place": "Xã Đông Tiến huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40808",
+    "place": "Xã Đông Thanh huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40809",
+    "place": "Xã Đông Khê huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40810",
+    "place": "Xã Đông Hoàng huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40811",
+    "place": "Xã Đông Ninh huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40812",
+    "place": "Xã Đông Anh huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40813",
+    "place": "Xã Đông Minh huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40814",
+    "place": "Xã Đông Thịnh huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40815",
+    "place": "Xã Đông Hòa huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40816",
+    "place": "Xã Đông Yên huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40817",
+    "place": "Xã Đông Văn huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40818",
+    "place": "Xã Đông Phú huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40819",
+    "place": "Xã Đông Quang huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40820",
+    "place": "Xã Đông Nam huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40850",
+    "place": "Bưu cục phát Đông Sơn huyện Đông Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40900",
+    "place": "Bưu cục Trung tâm huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40901",
+    "place": "Huyện ủy huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40902",
+    "place": "Hội đồng nhân dân huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40903",
+    "place": "Ủy ban nhân dân huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40906",
+    "place": "Thị trấn Thiệu Hóa huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40907",
+    "place": "Xã Thiệu Nguyên huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40908",
+    "place": "Xã Tân Châu huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40909",
+    "place": "Xã Thiệu Hợp huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40910",
+    "place": "Xã Thiệu Thịnh huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40911",
+    "place": "Xã Thiệu Quang huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40912",
+    "place": "Xã Thiệu Duy huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40913",
+    "place": "Xã Thiệu Giang huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40914",
+    "place": "Xã Thiệu Long huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40915",
+    "place": "Xã Thiệu Phú huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40916",
+    "place": "Xã Thiệu Phúc huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40917",
+    "place": "Xã Thiệu Công huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40918",
+    "place": "Xã Thiệu Thành huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40919",
+    "place": "Xã Thiệu Ngọc huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40920",
+    "place": "Xã Thiệu Vũ huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40921",
+    "place": "Xã Thiệu Tiến huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40922",
+    "place": "Xã Thiệu Toán huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40923",
+    "place": "Xã Minh Tâm huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40924",
+    "place": "Xã Thiệu Chính huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40925",
+    "place": "Xã Thiệu Hòa huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40926",
+    "place": "Xã Thiệu Tâm huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40927",
+    "place": "Xã Thiệu Viên huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40928",
+    "place": "Xã Thiệu Vận huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40929",
+    "place": "Xã Thiệu Đô huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40930",
+    "place": "Xã Thiệu Lý huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40931",
+    "place": "Xã Thiệu Trung huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40932",
+    "place": "Xã Thiệu Châu huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40933",
+    "place": "Xã Thiệu Giao huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40950",
+    "place": "Bưu cục phát Thiệu Hóa huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "40951",
+    "place": "Bưu cục Ba Chè huyện Thiệu Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41000",
+    "place": "Bưu cục Trung tâm huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41001",
+    "place": "Huyện ủy huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41002",
+    "place": "Hội đồng nhân dân huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41003",
+    "place": "Ủy ban nhân dân huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41004",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41006",
+    "place": "Thị trấn Quán Lào huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41007",
+    "place": "Xã Định Long huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41008",
+    "place": "Xã Định Hưng huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41009",
+    "place": "Xã Định Tân huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41010",
+    "place": "Xã Định Hải huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41011",
+    "place": "Xã Định Liên huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41012",
+    "place": "Xã Định Tăng huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41013",
+    "place": "Xã Định Tường huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41014",
+    "place": "Xã Định Bình huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41015",
+    "place": "Xã Định Hòa huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41016",
+    "place": "Xã Định Tiến huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41017",
+    "place": "Xã Định Thành huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41018",
+    "place": "Xã Định Công huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41019",
+    "place": "Xã Yên Thái huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41020",
+    "place": "Xã yên Ninh huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41021",
+    "place": "Xã Yên Lạc huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41022",
+    "place": "Xã Yên Thịnh huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41023",
+    "place": "Xã Yên Hùng huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41024",
+    "place": "Xã Yên Phong huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41025",
+    "place": "Xã Yên Trường huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41026",
+    "place": "Xã Yên Bái huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41027",
+    "place": "Xã Yên Phú huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41028",
+    "place": "Xã Yên Giang huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41029",
+    "place": "Xã Yên Tâm huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41030",
+    "place": "Xã Yên Trung huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41031",
+    "place": "Xã Yên Thọ huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41032",
+    "place": "Xã Quý Lộc huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41033",
+    "place": "Xã Yên Lâm huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41034",
+    "place": "Thị trấn Thống Nhất huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41050",
+    "place": "Bưu cục phát Yên Định huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41051",
+    "place": "Bưu cục Kiểu huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41052",
+    "place": "Bưu cục Thống Nhất huyện Yên Định tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41100",
+    "place": "Bưu cục Trung tâm huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41101",
+    "place": "Huyện ủy huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41102",
+    "place": "Hội đồng nhân dân huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41103",
+    "place": "Ủy ban nhân dân huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41104",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41106",
+    "place": "Thị trấn Vĩnh Lộc huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41107",
+    "place": "Xã Vĩnh Phúc huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41108",
+    "place": "Xã Vĩnh Hưng huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41109",
+    "place": "Xã Vĩnh Long huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41110",
+    "place": "Xã Vĩnh Quang huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41111",
+    "place": "Xã Vĩnh Yên huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41112",
+    "place": "Xã Vĩnh Tiến huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41113",
+    "place": "Xã Vĩnh Thành huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41114",
+    "place": "Xã Ninh Khang huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41115",
+    "place": "Xã Vĩnh Khang huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41116",
+    "place": "Xã Vĩnh Hòa huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41117",
+    "place": "Xã Vĩnh Hùng huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41118",
+    "place": "Xã Minh Tân huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41119",
+    "place": "Xã Vĩnh Thịnh huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41120",
+    "place": "Xã Vĩnh Minh huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41121",
+    "place": "Xã Vĩnh An huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41150",
+    "place": "Bưu cục phát Vĩnh Lộc huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41151",
+    "place": "Bưu cục Bồng Trung huyện Vĩnh Lộc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41200",
+    "place": "Bưu cục Trung tâm huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41201",
+    "place": "Huyện ủy huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41202",
+    "place": "Hội đồng nhân dân huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41203",
+    "place": "Ủy ban nhân dân huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41206",
+    "place": "Thị trấn Kim Tân huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41207",
+    "place": "Thị trấn Vân Du huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41208",
+    "place": "Xã Thành Vân huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41209",
+    "place": "Xã Thành Tân huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41210",
+    "place": "Xã Thành Trực huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41211",
+    "place": "Xã Thành Công huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41212",
+    "place": "Xã Thành Minh huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41213",
+    "place": "Xã Thành Vinh huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41214",
+    "place": "Xã Thành Yên huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41215",
+    "place": "Xã Thành Mỹ huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41216",
+    "place": "Xã Thạch Lâm huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41217",
+    "place": "Xã Thạch Tượng huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41218",
+    "place": "Xã Thạch Quảng huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41219",
+    "place": "Xã Thạch Cẩm huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41220",
+    "place": "Xã Thạch Sơn huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41221",
+    "place": "Xã Thạch Bình huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41222",
+    "place": "Xã Thạch Định huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41223",
+    "place": "Xã Thạch Đồng huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41224",
+    "place": "Xã Thạch Long huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41225",
+    "place": "Xã Thành Hưng huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41226",
+    "place": "Xã Thành Kim huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41227",
+    "place": "Xã Thạch Tân huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41228",
+    "place": "Xã Thành Tiến huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41229",
+    "place": "Xã ThànhThọ huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41230",
+    "place": "Xã Thành Tâm huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41231",
+    "place": "Xã Thành An huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41232",
+    "place": "Xã Thành Long huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41233",
+    "place": "Xã Ngọc Trạo huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41250",
+    "place": "Bưu cục phát Thạch Thành huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41251",
+    "place": "Bưu cục Thạch Quảng huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41252",
+    "place": "Bưu cục Vân Du huyện Thạch Thành tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41300",
+    "place": "Bưu cục Trung tâm huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41301",
+    "place": "Huyện ủy huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41302",
+    "place": "Hội đồng nhân dân huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41303",
+    "place": "Ủy ban nhân dân huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41306",
+    "place": "Thị trấn Phong Sơn huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41307",
+    "place": "Xã Cẩm Phong huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41308",
+    "place": "Xã Cẩm Giang huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41309",
+    "place": "Xã Cẩm Tú huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41310",
+    "place": "Xã Cẩm Quý huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41311",
+    "place": "Xã Cẩm Lương huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41312",
+    "place": "Xã Cẩm Thành huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41313",
+    "place": "Xã Cẩm Liên huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41314",
+    "place": "Xã Cẩm Thạch huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41315",
+    "place": "Xã Cẩm Bình huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41316",
+    "place": "Xã Cẩm Châu huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41317",
+    "place": "Xã Cẩm Sơn huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41318",
+    "place": "Xã Cẩm Ngọc huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41319",
+    "place": "Xã Cẩm Long huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41320",
+    "place": "Xã Phúc Do huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41321",
+    "place": "Xã Cẩm Yên huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41322",
+    "place": "Xã Cẩm Tâm huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41323",
+    "place": "Xã Cẩm Tân huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41324",
+    "place": "Xã Cẩm Phú huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41325",
+    "place": "Xã Cẩm Vân huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41350",
+    "place": "Bưu cục phát Cẩm Thủy huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41351",
+    "place": "Bưu cục Phố Vạc huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41352",
+    "place": "Bưu cục Phúc Do huyện Cẩm Thủy tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41400",
+    "place": "Bưu cục Trung tâm huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41401",
+    "place": "Huyện ủy huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41402",
+    "place": "Hội đồng nhân dân huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41403",
+    "place": "Ủy ban nhân dân huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41406",
+    "place": "Thị trấn Cành Nàng huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41407",
+    "place": "Xã Lương Ngoại huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41408",
+    "place": "Xã Lương Nội huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41409",
+    "place": "Xã Hạ Trung huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41410",
+    "place": "Xã Tân Lập huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41411",
+    "place": "Xã Ban Công huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41412",
+    "place": "Xã Cổ Lũng huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41413",
+    "place": "Xã Lũng Cao huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41414",
+    "place": "Xã Thành Sơn huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41415",
+    "place": "Xã Lũng Niêm huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41416",
+    "place": "Xã Thành Lâm huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41417",
+    "place": "Xã Lâm Sa huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41418",
+    "place": "Xã Ái Thượng huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41419",
+    "place": "Xã Điền Lư huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41420",
+    "place": "Xã Lương Trung huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41421",
+    "place": "Xã Điền Trung huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41422",
+    "place": "Xã Điền Hạ huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41423",
+    "place": "Xã Điền Thượng huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41424",
+    "place": "Xã Điền Quang huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41425",
+    "place": "Xã Thiết Ống huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41426",
+    "place": "Xã Thiết Kế huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41427",
+    "place": "Xã Kỳ Tân huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41428",
+    "place": "Xã Văn Nho huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41450",
+    "place": "Bưu cục phát Bá Thước huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41451",
+    "place": "Bưu cục Điền Lư huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41452",
+    "place": "Bưu cục Đồng Tâm huyện Bá Thước tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41500",
+    "place": "Bưu cục Trung tâm huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41501",
+    "place": "Huyện ủy huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41502",
+    "place": "Hội đồng nhân dân huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41503",
+    "place": "Ủy ban nhân dân huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41506",
+    "place": "Thị trấn Triệu Sơn huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41507",
+    "place": "Xã Minh Châu huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41508",
+    "place": "Xã Dân Lý huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41509",
+    "place": "Xã Minh Dân huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41510",
+    "place": "Xã Dân Quyền huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41511",
+    "place": "Xã Dân Lực huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41512",
+    "place": "Xã Thọ Thế huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41513",
+    "place": "Xã Thọ Phú huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41514",
+    "place": "Xã Thọ Vực huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41515",
+    "place": "Xã Xuân Thịnh huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41516",
+    "place": "Xã Xuân Lộc huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41517",
+    "place": "Xã Thọ Dân huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41518",
+    "place": "Xã Xuân Thọ huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41519",
+    "place": "Xã Thọ Ngọc huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41520",
+    "place": "Xã Thọ Cường huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41521",
+    "place": "Xã Thọ Sơn huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41522",
+    "place": "Xã Thọ Tiến huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41523",
+    "place": "Xã Bình Sơn huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41524",
+    "place": "Xã Thọ Bình huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41525",
+    "place": "Xã Hợp Lý huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41526",
+    "place": "Xã Hợp Tiến huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41527",
+    "place": "Xã Triệu Thành huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41528",
+    "place": "Xã Hợp Thành huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41529",
+    "place": "Xã Thọ Tân huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41530",
+    "place": "Xã Hợp Thắng huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41531",
+    "place": "Xã Minh Sơn huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41532",
+    "place": "Xã An Nông huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41533",
+    "place": "Xã Văn Sơn huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41534",
+    "place": "Xã Nông Trường huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41535",
+    "place": "Xã Tiến Nông huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41536",
+    "place": "Xã Thái Hòa huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41537",
+    "place": "Thị trấn Nưa huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41538",
+    "place": "Xã Khuyến Nông huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41539",
+    "place": "Xã Đồng Lợi huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41540",
+    "place": "Xã Đồng Tiến huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41541",
+    "place": "Xã Đồng Thắng huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41550",
+    "place": "Bưu cục phát Triệu Sơn huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41551",
+    "place": "Bưu cục Chợ Đà huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41552",
+    "place": "Bưu cục Chợ Nưa huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41553",
+    "place": "Bưu cục Chợ Sim huyện Triệu Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41600",
+    "place": "Bưu cục Trung tâm huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41601",
+    "place": "Huyện ủy huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41602",
+    "place": "Hội đồng nhân dân huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41603",
+    "place": "Ủy ban nhân dân huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41606",
+    "place": "Thị trấn Thọ Xuân huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41607",
+    "place": "Xã Hạnh Phúc huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41608",
+    "place": "Xã Xuân Hồng huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41609",
+    "place": "Xã Trường Xuân huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41610",
+    "place": "Xã Xuân Lai huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41611",
+    "place": "Xã Phú Xuân huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41612",
+    "place": "Xã Xuân Trường huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41613",
+    "place": "Xã Xuân Hòa huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41614",
+    "place": "Xã Thọ Hải huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41615",
+    "place": "Xã Phú Yên huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41616",
+    "place": "Xã Xuân Lập huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41617",
+    "place": "Xã Xuân Minh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41618",
+    "place": "Xã Thọ Thắng huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41619",
+    "place": "Xã Quảng Phú huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41620",
+    "place": "Xã Xuân Tín huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41621",
+    "place": "Xã Thọ Lập huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41622",
+    "place": "Xã Thuận Minh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41623",
+    "place": "Xã Thọ Minh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41624",
+    "place": "Xã Xuân Thiên huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41625",
+    "place": "Xã Xuân Lam huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41626",
+    "place": "Xã Thọ Diên huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41627",
+    "place": "Xã Thọ Lâm huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41628",
+    "place": "Thị trấn Lam Sơn huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41629",
+    "place": "Thị trấn Sao Vàng huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41630",
+    "place": "Xã Thọ Xương huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41631",
+    "place": "Xã Xuân Bái huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41632",
+    "place": "Xã Xuân Phú huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41633",
+    "place": "Xã Xuân Thắng huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41634",
+    "place": "Xã Xuân Hưng huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41635",
+    "place": "Xã Xuân Sinh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41636",
+    "place": "Xã Xuân Giang huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41637",
+    "place": "Xã Xuân Quang huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41638",
+    "place": "Xã Tây Hồ huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41639",
+    "place": "Xã Nam Giang huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41640",
+    "place": "Xã Thọ Lộc huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41641",
+    "place": "Xã Bắc Lương huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41642",
+    "place": "Xã Thọ Nguyên huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41643",
+    "place": "Xã Xuân Phong huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41644",
+    "place": "Xã Xuân Khánh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41645",
+    "place": "Xã Thọ Trường huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41646",
+    "place": "Xã Xuân Vinh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41675",
+    "place": "Bưu cục phát Thọ Xuân huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41676",
+    "place": "Bưu cục Chợ Sánh huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41677",
+    "place": "Bưu cục Mục Sơn huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41678",
+    "place": "Bưu cục Sao Vàng huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41679",
+    "place": "Bưu cục Tứ Trụ huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41680",
+    "place": "Bưu cục Xuân Lai huyện Thọ Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41700",
+    "place": "Bưu cục Trung tâm huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41701",
+    "place": "Huyện ủy huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41702",
+    "place": "Hội đồng nhân dân huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41703",
+    "place": "Ủy ban nhân dân huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41706",
+    "place": "Thị trấn Ngọc Lặc huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41707",
+    "place": "Xã Ngọc Khê huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41708",
+    "place": "Xã Ngọc Sơn huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41709",
+    "place": "Xã Ngọc Trung huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41710",
+    "place": "Xã Cao Thịnh huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41711",
+    "place": "Xã Lộc Thịnh huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41712",
+    "place": "Xã Ngọc Liên huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41713",
+    "place": "Xã Đồng Thịnh huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41714",
+    "place": "Xã Quang Trung huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41715",
+    "place": "Xã Thúy Sơn huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41716",
+    "place": "Xã Thạch Lập huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41717",
+    "place": "Xã Mỹ Tân huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41718",
+    "place": "Xã Cao Ngọc huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41719",
+    "place": "Xã Vân Âm huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41720",
+    "place": "Xã Minh Sơn huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41721",
+    "place": "Xã Lam Sơn huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41722",
+    "place": "Xã Minh Tiến huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41723",
+    "place": "Xã Nguyệt Ấn huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41724",
+    "place": "Xã Phùng Giáo huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41725",
+    "place": "Xã Phùng Minh huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41726",
+    "place": "Xã Phúc Thịnh huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41727",
+    "place": "Xã Kiên Thọ huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41750",
+    "place": "Bưu cục phát Ngọc Lặc huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41751",
+    "place": "Bưu cục Phố Xi huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41752",
+    "place": "Bưu cục Minh Tiến huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41753",
+    "place": "Bưu cục Phố 1 huyện Ngọc Lặc tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41800",
+    "place": "Bưu cục Trung tâm huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41801",
+    "place": "Huyện ủy huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41802",
+    "place": "Hội đồng nhân dân huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41803",
+    "place": "Ủy ban nhân dân huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41806",
+    "place": "Thị trấn Lang Chánh huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41807",
+    "place": "Xã Đồng Lương huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41808",
+    "place": "Xã Quang Hiến huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41809",
+    "place": "Xã Tân Phúc huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41810",
+    "place": "Xã Tam Văn huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41811",
+    "place": "Xã Lâm Phú huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41812",
+    "place": "Xã Yên Khương huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41813",
+    "place": "Xã Yên Thắng huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41814",
+    "place": "Xã Trí Nang huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41815",
+    "place": "Xã Giao An huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41816",
+    "place": "Xã Giao Thiện huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41850",
+    "place": "Bưu cục phát Lang Chánh huyện Lang Chánh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41900",
+    "place": "Bưu cục Trung tâm huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41901",
+    "place": "Huyện ủy huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41902",
+    "place": "Hội đồng nhân dân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41903",
+    "place": "Ủy ban nhân dân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41904",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41906",
+    "place": "Thị trấn Hồi Xuân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41907",
+    "place": "Xã Xuân Phú huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41908",
+    "place": "Xã Phú Nghiêm huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41909",
+    "place": "Xã Hồi Xuân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41910",
+    "place": "Xã Nam Xuân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41911",
+    "place": "Xã Nam Động huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41912",
+    "place": "Xã Thiên Phủ huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41913",
+    "place": "Xã Hiền Kiệt huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41914",
+    "place": "Xã Hiền Chung huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41915",
+    "place": "Xã Nam Tiến huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41916",
+    "place": "Xã Thanh Xuân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41917",
+    "place": "Xã Phú Xuân huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41918",
+    "place": "Xã Phú Lệ huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41919",
+    "place": "Xã Phú Sơn huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41920",
+    "place": "Xã Phú Thanh huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41921",
+    "place": "Xã Trung Thành huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41922",
+    "place": "Xã Thành Sơn huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41923",
+    "place": "Xã Trung Sơn huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "41950",
+    "place": "Bưu cục phát Quan Hóa huyện Quan Hóa tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42000",
+    "place": "Bưu cục Trung tâm huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42001",
+    "place": "Huyện ủy huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42002",
+    "place": "Hội đồng nhân dân huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42003",
+    "place": "Ủy ban nhân dân huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42004",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42006",
+    "place": "Thị trấn Sơn Lư huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42007",
+    "place": "Xã Trung Thượng huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42008",
+    "place": "Xã Trung Tiến huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42009",
+    "place": "Xã Trung Hạ huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42010",
+    "place": "Xã Trung Xuân huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42011",
+    "place": "Xã Sơn Lư huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42012",
+    "place": "Xã Tam Lư huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42013",
+    "place": "Xã Sơn Hà huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42014",
+    "place": "Xã Tam Thanh huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42015",
+    "place": "Xã Sơn Điện huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42016",
+    "place": "Xã Mường Mìn huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42017",
+    "place": "Xã Na Mèo huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42018",
+    "place": "Xã Sơn Thủy huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42050",
+    "place": "Bưu cục phát Quan Sơn huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42051",
+    "place": "Bưu cục Na Mèo huyện Quan Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42100",
+    "place": "Bưu cục Trung tâm huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42101",
+    "place": "Huyện ủy huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42102",
+    "place": "Hội đồng nhân dân huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42103",
+    "place": "Ủy ban nhân dân huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42104",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42106",
+    "place": "Thị trấn Mường Lát huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42107",
+    "place": "Xã Trung Lý huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42108",
+    "place": "Xã Mường Lý huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42109",
+    "place": "Xã Tam Chung huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42110",
+    "place": "Xã Tén Tằn huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42111",
+    "place": "Xã Nhi Sơn huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42112",
+    "place": "Xã Pù Nhi huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42113",
+    "place": "Xã Quang Chiểu huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42114",
+    "place": "Xã Mường Chanh huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42150",
+    "place": "Bưu cục phát Mường Lát huyện Mường Lát tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42200",
+    "place": "Bưu cục Trung tâm huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42201",
+    "place": "Huyện ủy huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42202",
+    "place": "Hội đồng nhân dân huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42203",
+    "place": "Ủy ban nhân dân huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42206",
+    "place": "Thị trấn Thường Xuân huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42207",
+    "place": "Xã Xuân Dương huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42208",
+    "place": "Xã Ngọc Phụng huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42209",
+    "place": "Xã Xuân Cẩm huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42210",
+    "place": "Xã Lương Sơn huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42211",
+    "place": "Xã Yên Nhân huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42212",
+    "place": "Xã Bát Mọt huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42213",
+    "place": "Xã Vạn Xuân huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42214",
+    "place": "Xã Thọ Thanh huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42215",
+    "place": "Xã Xuân Cao huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42216",
+    "place": "Xã Xuân Lẹ huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42217",
+    "place": "Xã Xuân Chinh huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42218",
+    "place": "Xã Xuân Lộc huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42219",
+    "place": "Xã Luận Khê huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42220",
+    "place": "Xã Luận Thành huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42221",
+    "place": "Xã Tân Thành huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42222",
+    "place": "Xã Xuân Thắng huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42250",
+    "place": "Bưu cục phát Thường Xuân huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42251",
+    "place": "Bưu cục Cửa Đặt huyện Thường Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42300",
+    "place": "Bưu cục Trung tâm huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42301",
+    "place": "Huyện ủy huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42302",
+    "place": "Hội đồng nhân dân huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42303",
+    "place": "Ủy ban nhân dân huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42306",
+    "place": "Thị trấn Nông Cống huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42307",
+    "place": "Xã Vạn Thiện huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42308",
+    "place": "Xã Trường Minh huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42309",
+    "place": "Xã Trường Trung huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42310",
+    "place": "Xã Minh Khôi huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42311",
+    "place": "Xã Minh Nghĩa huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42312",
+    "place": "Xã Vạn Hòa huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42313",
+    "place": "Xã Tế Lợi huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42314",
+    "place": "Xã Tế Nông huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42315",
+    "place": "Xã Tế Tân huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42316",
+    "place": "Xã Trung Ý huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42317",
+    "place": "Xã Hoàng Giang huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42318",
+    "place": "Xã Hoàng Sơn huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42319",
+    "place": "Xã Tân Phúc huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42320",
+    "place": "Xã Tân Thọ huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42321",
+    "place": "Xã Tân Khang huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42322",
+    "place": "Xã Trung Thành huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42323",
+    "place": "Xã Tế Thắng huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42324",
+    "place": "Xã Trung Chính huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42325",
+    "place": "Xã Vạn Thắng huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42326",
+    "place": "Xã Thăng Long huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42327",
+    "place": "Xã Thăng Thọ huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42328",
+    "place": "Xã Thăng Bình huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42329",
+    "place": "Xã Trường Sơn huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42330",
+    "place": "Xã Trường Giang huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42331",
+    "place": "Xã Tượng Văn huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42332",
+    "place": "Xã Tượng Lĩnh huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42333",
+    "place": "Xã Tượng Sơn huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42334",
+    "place": "Xã Công Liêm huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42335",
+    "place": "Xã Công Chính huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42336",
+    "place": "Xã Công Bình huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42337",
+    "place": "Xã Yên Mỹ huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42350",
+    "place": "Bưu cục phát Nông Cống huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42351",
+    "place": "Bưu cục Cầu Quan huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42352",
+    "place": "Bưu cục Trường Sơn huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42353",
+    "place": "Bưu điện văn hóa xã Lê Đình Chinh huyện Nông Cống tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42400",
+    "place": "Bưu cục Trung tâm huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42401",
+    "place": "Huyện ủy huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42402",
+    "place": "Hội đồng nhân dân huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42403",
+    "place": "Ủy ban nhân dân huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42406",
+    "place": "Thị trấn Bến Sung huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42407",
+    "place": "Xã Phú Nhuận huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42408",
+    "place": "Xã Mậu Lâm huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42409",
+    "place": "Xã Phượng Nghi huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42410",
+    "place": "Xã Xuân Du huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42411",
+    "place": "Xã Cán Khê huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42412",
+    "place": "Xã Xuân Thọ huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42413",
+    "place": "Xã Xuân Khang huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42414",
+    "place": "Xã Hải Long huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42415",
+    "place": "Xã Hải Vân huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42416",
+    "place": "Xã Xuân Thái huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42417",
+    "place": "Xã Xuân Phúc huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42418",
+    "place": "Xã Yên Thọ huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42419",
+    "place": "Xã Yên Lạc huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42420",
+    "place": "Xã Phúc Đường huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42421",
+    "place": "Xã Thanh Tân huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42422",
+    "place": "Xã Thanh Kỳ huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42450",
+    "place": "Bưu cục phát Như Thanh huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42451",
+    "place": "Bưu điện văn hóa xã Thanh Tân 2 huyện Như Thanh tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42500",
+    "place": "Bưu cục Trung tâm huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42501",
+    "place": "Huyện ủy huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42502",
+    "place": "Hội đồng nhân dân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42503",
+    "place": "Ủy ban nhân dân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42506",
+    "place": "Thị trấn Yên Cát huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42507",
+    "place": "Xã Tân Bình huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42508",
+    "place": "Xã Yên Lễ huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42509",
+    "place": "Xã Thượng Ninh huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42510",
+    "place": "Xã Cát Tân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42511",
+    "place": "Xã Hóa Quỳ huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42512",
+    "place": "Xã Cát Vân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42513",
+    "place": "Xã Thanh Xuân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42514",
+    "place": "Xã Thanh Sơn huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42515",
+    "place": "Xã Thanh Quân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42516",
+    "place": "Xã Thanh Phong huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42517",
+    "place": "Xã Thanh Lâm huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42518",
+    "place": "Xã Thanh Hòa huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42519",
+    "place": "Xã Xuân Quỳ huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42520",
+    "place": "Xã Bình Lương huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42521",
+    "place": "Xã Xuân Hòa huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42522",
+    "place": "Xã Xuân Bình huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42523",
+    "place": "Xã Bãi Trành huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42550",
+    "place": "Bưu cục phát Như Xuân huyện Như Xuân tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42600",
+    "place": "Bưu cục Trung tâm huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42601",
+    "place": "Huyện ủy huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42602",
+    "place": "Hội đồng nhân dân huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42603",
+    "place": "Ủy ban nhân dân huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42606",
+    "place": "Thị trấn Tân Phong huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42607",
+    "place": "Xã Quảng Đức huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42608",
+    "place": "Xã Quảng Giao huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42609",
+    "place": "Xã Quảng Định huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42610",
+    "place": "Xã Quảng Tân huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42611",
+    "place": "Xã Quảng Trạch huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42612",
+    "place": "Xã Quảng Phong huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42613",
+    "place": "Xã Quảng Hòa huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42614",
+    "place": "Xã Quảng Yên huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42615",
+    "place": "Xã Quảng Long huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42616",
+    "place": "Xã Quảng Hợp huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42617",
+    "place": "Xã Quảng Ninh huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42618",
+    "place": "Xã Quảng Nhân huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42619",
+    "place": "Xã Quảng Hải huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42620",
+    "place": "Xã Quảng Lưu huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42621",
+    "place": "Xã Quảng Bình huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42622",
+    "place": "Xã Quảng Văn huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42623",
+    "place": "Xã Quảng Ngọc huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42624",
+    "place": "Xã Quảng Phúc huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42625",
+    "place": "Xã Quảng Vọng huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42626",
+    "place": "Xã Quảng Trường huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42627",
+    "place": "Xã Tiên Trang huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42628",
+    "place": "Xã Quảng Lộc huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42629",
+    "place": "Xã Quảng Thái huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42630",
+    "place": "Xã Quảng Lợi huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42631",
+    "place": "Xã Quảng Khê huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42632",
+    "place": "Xã Quảng Thạch huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42633",
+    "place": "Xã Quảng Chính huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42634",
+    "place": "Xã Quảng Trung huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42635",
+    "place": "Xã Quảng Nham huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42650",
+    "place": "Bưu cục phát Quảng Xương huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42651",
+    "place": "Bưu cục Chợ Ghép huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42652",
+    "place": "Bưu cục Vân Trinh huyện Quảng Xương tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42700",
+    "place": "Bưu cục Trung tâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42701",
+    "place": "Thị ủy thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42702",
+    "place": "Hội đồng nhân dân thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42703",
+    "place": "Ủy ban nhân dân thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42704",
+    "place": "Ủy ban Mặt trận Tổ quốc thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42706",
+    "place": "Phường Hải Hòa thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42707",
+    "place": "Xã Hải Hòa huyện Tĩnh Gia tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42708",
+    "place": "Phường Ninh Hải thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42709",
+    "place": "Xã Hải Nhân thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42710",
+    "place": "Xã Định Hải thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42711",
+    "place": "Phường Hải Lĩnh thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42712",
+    "place": "Phường Tân Dân thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42713",
+    "place": "Phường Hải An thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42714",
+    "place": "Xã Triêu Dương huyện Tĩnh Gia tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42715",
+    "place": "Phường Hải Ninh thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42716",
+    "place": "Phường Hải Châu thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42717",
+    "place": "Xã Thanh Thủy thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42718",
+    "place": "Xã Thanh Sơn thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42719",
+    "place": "Xã Ngọc Lĩnh thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42720",
+    "place": "Xã Anh Sơn thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42721",
+    "place": "Xã Hùng Sơn huyện Tĩnh Gia tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42722",
+    "place": "Xã Các Sơn thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42723",
+    "place": "Xã Phú Sơn thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42724",
+    "place": "Phường Nguyên Bình thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42725",
+    "place": "Phường Bình Minh thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42726",
+    "place": "Phường Hải Thanh thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42727",
+    "place": "Phường Hải Bình thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42728",
+    "place": "Phường Xuân Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42729",
+    "place": "Xã Phú Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42730",
+    "place": "Phường Trúc Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42731",
+    "place": "Xã Tùng Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42732",
+    "place": "Xã Tân Trường thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42733",
+    "place": "Phường Mai Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42734",
+    "place": "Phường Tĩnh Hải thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42735",
+    "place": "Xã Hải Yến thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42736",
+    "place": "Xã Trường Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42737",
+    "place": "Phường Hải Thượng thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42738",
+    "place": "Xã Hải Hà thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42739",
+    "place": "Xã Nghi Sơn thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42750",
+    "place": "Bưu cục phát Tĩnh Gia thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42751",
+    "place": "Bưu cục Chợ Kho thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42752",
+    "place": "Bưu cục Mai Lâm thị xã Nghi Sơn tỉnh Thanh Hóa"
+  },
+  {
+    "zip": "42753",
+    "place": "Bưu cục Nghi Sơn thị xã Nghi Sơn tỉnh Thanh Hóa"
+  }
+]

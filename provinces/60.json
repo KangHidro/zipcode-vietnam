@@ -1,0 +1,902 @@
+[
+  {
+    "zip": "60000",
+    "place": "Bưu cục Trung tâm tỉnh Kon Tum"
+  },
+  {
+    "zip": "60001",
+    "place": "Ủy ban Kiểm tra tỉnh ủy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60002",
+    "place": "Ban Tổ chức tỉnh ủy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60003",
+    "place": "Ban Tuyên giáo tỉnh ủy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60004",
+    "place": "Ban Dân vận tỉnh ủy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60005",
+    "place": "Ban Nội chính tỉnh ủy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60009",
+    "place": "Đảng ủy khối cơ quan tỉnh Kon Tum"
+  },
+  {
+    "zip": "60010",
+    "place": "Tỉnh ủy và Văn phòng tỉnh ủy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60011",
+    "place": "Đảng ủy khối doanh nghiệp tỉnh Kon Tum"
+  },
+  {
+    "zip": "60016",
+    "place": "Báo Kon Tum"
+  },
+  {
+    "zip": "60021",
+    "place": "Hội đồng nhân dân tỉnh Kon Tum"
+  },
+  {
+    "zip": "60030",
+    "place": "Văn phòng đoàn Đại biểu Quốc hội tỉnh Kon Tum"
+  },
+  {
+    "zip": "60035",
+    "place": "Tòa án nhân dân tỉnh Kon Tum"
+  },
+  {
+    "zip": "60036",
+    "place": "Viện Kiểm sát nhân dân tỉnh Kon Tum"
+  },
+  {
+    "zip": "60040",
+    "place": "Ủy ban nhân dân và Văn phòng Ủy ban nhân dân tỉnh Kon Tum"
+  },
+  {
+    "zip": "60041",
+    "place": "Sở Công Thương tỉnh Kon Tum"
+  },
+  {
+    "zip": "60042",
+    "place": "Sở Kế hoạch và Đầu tư tỉnh Kon Tum"
+  },
+  {
+    "zip": "60043",
+    "place": "Sở Lao động"
+  },
+  {
+    "zip": "60044",
+    "place": "Sở Ngoại vụ tỉnh Kon Tum"
+  },
+  {
+    "zip": "60045",
+    "place": "Sở Tài chính tỉnh Kon Tum"
+  },
+  {
+    "zip": "60046",
+    "place": "Sở Thông tin và Truyền thông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60047",
+    "place": "Sở Văn hoá, Thể thao và Du lịch tỉnh Kon Tum"
+  },
+  {
+    "zip": "60049",
+    "place": "Công an tỉnh Kon Tum"
+  },
+  {
+    "zip": "60051",
+    "place": "Sở Nội vụ tỉnh Kon Tum"
+  },
+  {
+    "zip": "60052",
+    "place": "Sở Tư pháp tỉnh Kon Tum"
+  },
+  {
+    "zip": "60053",
+    "place": "Sở Giáo dục và Đào tạo tỉnh Kon Tum"
+  },
+  {
+    "zip": "60054",
+    "place": "Sở Giao thông vận tải tỉnh Kon Tum"
+  },
+  {
+    "zip": "60055",
+    "place": "Sở Khoa học và Công nghệ tỉnh Kon Tum"
+  },
+  {
+    "zip": "60056",
+    "place": "Sở Nông nghiệp và Phát triển nông thôn tỉnh Kon Tum"
+  },
+  {
+    "zip": "60057",
+    "place": "Sở Tài nguyên và Môi trường tỉnh Kon Tum"
+  },
+  {
+    "zip": "60058",
+    "place": "Sở Xây dựng tỉnh Kon Tum"
+  },
+  {
+    "zip": "60060",
+    "place": "Sở Y tế tỉnh Kon Tum"
+  },
+  {
+    "zip": "60061",
+    "place": "Bộ chỉ huy Quân sự tỉnh Kon Tum"
+  },
+  {
+    "zip": "60062",
+    "place": "Ban Dân tộc tỉnh Kon Tum"
+  },
+  {
+    "zip": "60063",
+    "place": "Ngân hàng nhà nước chi nhánh tỉnh Kon Tum"
+  },
+  {
+    "zip": "60064",
+    "place": "Thanh tra tỉnh Kon Tum"
+  },
+  {
+    "zip": "60065",
+    "place": "Trường chính trị tỉnh Kon Tum"
+  },
+  {
+    "zip": "60066",
+    "place": "Cơ quan đại diện của Thông tấn xã Việt Nam tỉnh Kon Tum"
+  },
+  {
+    "zip": "60067",
+    "place": "Đài Phát thanh và Truyền hình tỉnh tỉnh Kon Tum"
+  },
+  {
+    "zip": "60070",
+    "place": "Bảo hiểm xã hội tỉnh Kon Tum"
+  },
+  {
+    "zip": "60078",
+    "place": "Cục Thuế tỉnh Kon Tum"
+  },
+  {
+    "zip": "60079",
+    "place": "Chi Cục Hải quan tỉnh Kon Tum"
+  },
+  {
+    "zip": "60080",
+    "place": "Cục Thống kê tỉnh Kon Tum"
+  },
+  {
+    "zip": "60081",
+    "place": "Kho bạc Nhà nước tỉnh Kon Tum"
+  },
+  {
+    "zip": "60085",
+    "place": "Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Kon Tum"
+  },
+  {
+    "zip": "60086",
+    "place": "Liên hiệp các tổ chức hữu nghị tỉnh Kon Tum"
+  },
+  {
+    "zip": "60087",
+    "place": "Liên hiệp các Hội Văn học nghệ thuật tỉnh Kon Tum"
+  },
+  {
+    "zip": "60088",
+    "place": "Liên đoàn Lao động tỉnh Kon Tum"
+  },
+  {
+    "zip": "60089",
+    "place": "Hội Nông dân tỉnh Kon Tum"
+  },
+  {
+    "zip": "60090",
+    "place": "Ủy ban Mặt trận Tổ quốc tỉnh Kon Tum"
+  },
+  {
+    "zip": "60091",
+    "place": "Tỉnh Đoàn tỉnh Kon Tum"
+  },
+  {
+    "zip": "60092",
+    "place": "Hội Liên hiệp Phụ nữ tỉnh Kon Tum"
+  },
+  {
+    "zip": "60093",
+    "place": "Hội Cựu chiến binh tỉnh Kon Tum"
+  },
+  {
+    "zip": "60100",
+    "place": "Bưu cục Trung tâm thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60101",
+    "place": "Thành ủy thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60102",
+    "place": "Hội đồng nhân dân thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60103",
+    "place": "Ủy ban nhân dân thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60104",
+    "place": "Ủy ban Mặt trận Tổ quốc thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60106",
+    "place": "Phường Quyết Thắng thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60107",
+    "place": "Phường Quang Trung thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60108",
+    "place": "Phường Thắng Lợi thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60109",
+    "place": "Phường Trường Chinh thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60110",
+    "place": "Phường Duy Tân thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60111",
+    "place": "Phường Ngô Mây thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60112",
+    "place": "Phường Nguyễn Trãi thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60113",
+    "place": "Phường Trần Hưng Đạo thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60114",
+    "place": "Phường Lê Lợi thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60115",
+    "place": "Phường Thống Nhất thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60116",
+    "place": "Xã Đắk Rơ Wa thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60117",
+    "place": "Xã Đắk Blà thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60118",
+    "place": "Xã Đắk Cấm thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60119",
+    "place": "Xã Vinh Quang thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60120",
+    "place": "Xã Ngọk Bay thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60121",
+    "place": "Xã Kroong thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60122",
+    "place": "Xã Đăk Năng thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60123",
+    "place": "Xã Đoàn Kết thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60124",
+    "place": "Xã Ia Chim thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60125",
+    "place": "Xã Hòa Bình thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60126",
+    "place": "Xã Chư Hreng thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60150",
+    "place": "Bưu cục phát Kon Tum thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60151",
+    "place": "Bưu cục Bến Xe thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60152",
+    "place": "Bưu cục Duy Tân thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60153",
+    "place": "Bưu cục Phan Đình Phùng thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60154",
+    "place": "Bưu cục Trung Tín thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60155",
+    "place": "Bưu cục Hoà Bình thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60198",
+    "place": "Bưu cục HCC Kon Tum thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60199",
+    "place": "Bưu cục Hệ 1 Kon Tum thành phố Kon Tum tỉnh Kon Tum"
+  },
+  {
+    "zip": "60200",
+    "place": "Bưu cục Trung tâm huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60201",
+    "place": "Huyện ủy huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60202",
+    "place": "Hội đồng nhân dân huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60203",
+    "place": "Ủy ban nhân dân huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60204",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60206",
+    "place": "Thị trấn Đắk Rve huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60207",
+    "place": "Xã Đắk Kôi huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60208",
+    "place": "Xã Đắk Tơ Lung huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60209",
+    "place": "Xã Đắk Tờ Re huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60210",
+    "place": "Xã Đắk Ruồng huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60211",
+    "place": "Xã Tân Lập huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60212",
+    "place": "Xã Đắk Pne huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60225",
+    "place": "Bưu cục phát Kon Rẫy huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60226",
+    "place": "Bưu cục Đắk Ruồng huyện Kon Rẫy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60250",
+    "place": "Bưu cục Trung tâm huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60251",
+    "place": "Huyện ủy huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60252",
+    "place": "Hội đồng nhân dân huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60253",
+    "place": "Ủy ban nhân dân huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60254",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60256",
+    "place": "Xã Đắk Long huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60257",
+    "place": "Xã Hiếu huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60258",
+    "place": "Xã Pờ Ê huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60259",
+    "place": "Xã Ngok Tem huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60260",
+    "place": "Xã Đắk Ring huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60261",
+    "place": "Xã Đắk Nên huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60262",
+    "place": "Xã Măng Bút huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60263",
+    "place": "Xã Đắk Tăng huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60264",
+    "place": "Xã Măng Cành huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60275",
+    "place": "Bưu cục phát Kon Plông huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60276",
+    "place": "Bưu cục Măng Đen huyện Kon Plông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60300",
+    "place": "Bưu cục Trung tâm huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60301",
+    "place": "Huyện ủy huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60302",
+    "place": "Hội đồng nhân dân huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60303",
+    "place": "Ủy ban nhân dân huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60304",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60306",
+    "place": "Xã Đắk Hà huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60307",
+    "place": "Xã Tu Mơ Rông huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60308",
+    "place": "Xã Ngọc Yêu huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60309",
+    "place": "Xã Văn Xuôi huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60310",
+    "place": "Xã Ngọc Lây huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60311",
+    "place": "Xã Măng Ri huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60312",
+    "place": "Xã Đắk Na huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60313",
+    "place": "Xã Đắk Sao huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60314",
+    "place": "Xã Tê Xăng huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60315",
+    "place": "Xã Đắk Rơ Ông huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60316",
+    "place": "Xã Đắk Tơ Kan huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60350",
+    "place": "Bưu cục phát Tu Mơ Rông huyện Tu Mơ Rông tỉnh Kon Tum"
+  },
+  {
+    "zip": "60400",
+    "place": "Bưu cục Trung tâm huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60401",
+    "place": "Huyện ủy huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60402",
+    "place": "Hội đồng nhân dân huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60403",
+    "place": "Ủy ban nhân dân huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60404",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60406",
+    "place": "Thị trấn Đắk Glei huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60407",
+    "place": "Xã Xốp huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60408",
+    "place": "Xã Ngọc Linh huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60409",
+    "place": "Xã Mường Hoong huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60410",
+    "place": "Xã Đắk Choong huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60411",
+    "place": "Xã Đắk Man huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60412",
+    "place": "Xã Đắk Plô huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60413",
+    "place": "Xã Đắk Nhoong huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60414",
+    "place": "Xã Đắk Pét huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60415",
+    "place": "Xã Đắk KRoong huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60416",
+    "place": "Xã Đắk Môn huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60417",
+    "place": "Xã Đắk Long huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60450",
+    "place": "Bưu cục phát Đắk Glei huyện Đắk Glei tỉnh Kon Tum"
+  },
+  {
+    "zip": "60500",
+    "place": "Bưu cục Trung tâm huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60501",
+    "place": "Huyện ủy huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60502",
+    "place": "Hội đồng nhân dân huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60503",
+    "place": "Ủy ban nhân dân huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60504",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60506",
+    "place": "Thị trấn Plei Cần huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60507",
+    "place": "Xã Đắk Ang huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60508",
+    "place": "Xã Đắk Dục huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60509",
+    "place": "Xã Đắk Nông huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60510",
+    "place": "Xã Đắk Xú huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60511",
+    "place": "Xã Pờ Y huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60512",
+    "place": "Xã Đắk Kan huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60513",
+    "place": "Xã Sa Loong huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60550",
+    "place": "Bưu cục phát Ngọc Hồi huyện Ngọc Hồi tỉnh Kon Tum"
+  },
+  {
+    "zip": "60600",
+    "place": "Bưu cục Trung tâm huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60601",
+    "place": "Huyện ủy huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60602",
+    "place": "Hội đồng nhân dân huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60603",
+    "place": "Ủy ban nhân dân huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60604",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60606",
+    "place": "Thị trấn Đắk Hà huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60607",
+    "place": "Xã Đăk Ngọk huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60608",
+    "place": "Xã Đắk PXi huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60609",
+    "place": "Xã Đắk Ui huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60610",
+    "place": "Xã Đăk Long huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60611",
+    "place": "Xã Đắk HRing huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60612",
+    "place": "Xã Đắk Mar huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60613",
+    "place": "Xã Hà Mòn huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60614",
+    "place": "Xã Đắk La huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60615",
+    "place": "Xã Ngok Wang huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60616",
+    "place": "Xã Ngok Réo huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60625",
+    "place": "Bưu cục phát Đắk Hà huyện Đắk Hà tỉnh Kon Tum"
+  },
+  {
+    "zip": "60650",
+    "place": "Bưu cục Trung tâm huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60651",
+    "place": "Huyện ủy huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60652",
+    "place": "Hội đồng nhân dân huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60653",
+    "place": "Ủy ban nhân dân huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60654",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60656",
+    "place": "Thị trấn Đắk Tô huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60657",
+    "place": "Xã Kon Đào huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60658",
+    "place": "Xã Văn Lem huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60659",
+    "place": "Xã Đắk Trăm huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60660",
+    "place": "Xã Đắk Rơ Nga huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60661",
+    "place": "Xã Ngọk Tụ huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60662",
+    "place": "Xã Tân Cảnh huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60663",
+    "place": "Xã Pô Kô huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60664",
+    "place": "Xã Diên Bình huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60675",
+    "place": "Bưu cục phát Đắk Tô huyện Đắk Tô tỉnh Kon Tum"
+  },
+  {
+    "zip": "60700",
+    "place": "Bưu cục Trung tâm huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60701",
+    "place": "Huyện ủy huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60702",
+    "place": "Hội đồng nhân dân huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60703",
+    "place": "Ủy ban nhân dân huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60704",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60706",
+    "place": "Thị trấn Sa Thầy huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60707",
+    "place": "Xã Sa Nghĩa huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60708",
+    "place": "Xã Hơ Moong huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60709",
+    "place": "Xã Sa Nhơn huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60710",
+    "place": "Xã Rơ Kơi huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60711",
+    "place": "Xã Mô Rai huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60712",
+    "place": "Xã Sa Sơn huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60713",
+    "place": "Xã Ya Xiêr huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60714",
+    "place": "Xã Sa Bình huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60715",
+    "place": "Xã Ya ly huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60716",
+    "place": "Xã Ya Tăng huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60750",
+    "place": "Bưu cục phát Sa Thầy huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60751",
+    "place": "Bưu cục Ia H'Drai huyện Sa Thầy tỉnh Kon Tum"
+  },
+  {
+    "zip": "60800",
+    "place": "Bưu cục Trung tâm huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60801",
+    "place": "Huyện ủy huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60802",
+    "place": "Hội đồng nhân dân huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60803",
+    "place": "Ủy ban nhân dân huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60804",
+    "place": "Ủy ban Mặt trận Tổ quốc huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60806",
+    "place": "Xã Ia Tơi huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60807",
+    "place": "Xã Ia Dom huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60808",
+    "place": "Xã Ia Đal huyện Ia H'Drai tỉnh Kon Tum"
+  },
+  {
+    "zip": "60850",
+    "place": "Bưu cục phát Ia H'Drai huyện Ia H'Drai tỉnh Kon Tum"
+  }
+]
